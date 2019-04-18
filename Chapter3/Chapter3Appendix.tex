@@ -1,0 +1,164 @@
+\chapter{Coexistence theory and the frequency-dependence of priority effects: Appendix S1}
+%\chaptermark{Positive frequency-dependence}
+%\renewcommand{\sectionmark}[1]{}
+\fancyhead[LE, RO]{\thepage}
+\fancyhead[RE]{APPENDIX B}
+\fancyhead[LO]{POSITIVE FREQUENCY-DEPENDENCE}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\setlength{\parindent}{1cm}
+
+
+\begin{comment}
+\documentclass[hidelinks,12pt]{article}
+\usepackage{graphicx,bm, booktabs,lineno,array}
+\usepackage[fleqn]{amsmath}
+\setlength{\mathindent}{0pt}
+\usepackage[super,comma,numbers, compress]{natbib}
+\usepackage[a4paper]{geometry}
+\usepackage[parfill]{parskip}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage[font=footnotesize,labelfont=bf,margin=1cm, labelsep = none]{caption} 
+\usepackage{setspace}
+\usepackage{gensymb}
+\usepackage{color} 
+\usepackage{sidecap}
+\usepackage{epigraph}
+\usepackage{float}
+\usepackage{soul,xcolor}
+\setstcolor{red}
+\setlength\epigraphwidth{12cm}
+\setlength\epigraphrule{0pt}
+\usepackage{etoolbox}
+\usepackage{tcolorbox}
+\tcbuselibrary{breakable}
+\usepackage[bottom, symbol]{footmisc}
+\usepackage{authblk}
+\usepackage{hyperref}
+\usepackage[color=cyan]{todonotes}
+\pdfminorversion=3
+\doublespacing
+
+\renewcommand{\epigraphflush}{center}
+\renewcommand{\sourceflush}{flushleft}
+\newcommand{\plus}{\raisebox{.4\height}{\scalebox{.6}{+}}}
+\newcommand{\minus}{\raisebox{.4\height}{\scalebox{.8}{-}}}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+\newcommand*\samethanks[1][\value{footnote}]{\footnotemark[#1]}
+\newcommand\blfootnote[1]{%
+\begingroup
+\renewcommand\thefootnote{}\footnote{#1}%
+\addtocounter{footnote}{-1}%
+\endgroup
+}
+\end{comment}
+
+
+
+\begin{comment}
+\title{Coexistence theory and the frequency-dependence of priority effects}
+\author[1]{Po-Ju Ke \thanks{Both authors contributed equally.}}
+\author[1,2,3]{Andrew D. Letten \samethanks}
+\affil[1]{Department of Biology, Stanford University, Stanford, California, 94305-5020, USA}
+\affil[2]{Centre for Integrative Ecology, University of Canterbury, Christchurch, New Zealand}
+\affil[3]{Institute of Integrative Biology, Department of Environmental Systems Science, ETH Z{\"u}rich, 8092 Z{\"u}rich, Switzerland}
+
+\begin{document}
+
+\date{}
+\maketitle
+\blfootnote{Correspondence email: pojuke@stanford.edu, andrew.letten@usys.ethz.ch}
+%\textbf{Running title:} PFD
+%\textbf{Keywords:} No key words for Forum 
+\textbf{Type of article:} Brief Communication\\
+\textbf{Number of words:} 1847 [main text] \\
+\textbf{References:} 17\\
+\textbf{Display items:} 3\\
+\end{comment}
+
+
+
+\section{Appendix S1}
+\subsection{Positive frequency dependence in an equilibrium system}
+In Figure~\ref{fig:Fig1} in the main text we provided an example of PFD emerging from resource competition in an equilibrium system. To produce Figure~\ref{fig:Fig1} we used the approach implemented in Letten \textit{et al.} (2017) \citep{Letten2017} to translate changes in the parameters of Tilman's consumer-resource model \citep{tilman1982} into changes to the stabilization potential and fitness ratio of coexistence theory (but see \citep{Meszenaz2006} and \cite{Kleinhesselink2015} for an alternative approach). In this part of the supplementary methods we explain the underlying mathematical treatment. 
+\par
+
+
+The key to the approach in \citep{Letten2017} is to solve the coexistence equilibrium of a consumer resource model and rearrange it algebraically to a form that is comparable to the equilibrium of a two species Lotka--Volterra competition model. To better understand the procedure, consider a Lotka--Volterra competition model for two consumer species (i.e., $N_{1}$ and $N_{2}$):
+
+\begin{equation}
+\frac{dN_{1}}{dt}=r_{1}N_{1}\left ( 1-a_{11}N_{1}-a_{12}N_{2} \right )
+\tag{S3.1.1}\label{eq:S3.1.1}
+\end{equation}
+\begin{equation}
+\frac{dN_{2}}{dt}=r_{2}N_{2}\left ( 1-a_{21}N_{1}-a_{22}N_{2} \right ). 
+\tag{S3.1.2}\label{eq:S3.1.2}
+\end{equation}
+
+\noindent This simple model has two monoculture fixed point of either species, i.e., $N_{i} = \frac{1}{\alpha_{ii}}$, as well as a coexistence fixed point that simultaneously fulfills  $N_{1}^{*}=\frac{1}{a_{11}}-\frac{a_{12}}{a_{11}}N_{2}^{*}$ and $N_{2}^{*}=\frac{1}{a_{22}}-\frac{a_{21}}{a_{22}}N_{1}^{*}$. In panel c of Fig.~\ref{fig:FigBox}, we demonstrate that the coexistence fixed point is the only stable equilibrium with the following parameters: $r_{1} = r_{2} = 0.1$, $\alpha_{12} = 0.96$, $\alpha_{21} = 0.8$, and $\alpha_{11} = \alpha_{22} = 1.4$. In panel a of Fig.~\ref{fig:FigBox}, alternative stable states, such that the competition outcome is one of the two monoculture fixed point depending on species' initial density, can emerge when $\alpha_{11} = \alpha_{22} = 0.64$. To demonstrate alternative stable states, we started trajectories from either higher density of $N_{1}$ (upper panels: $N_{1(0)}=1$, $N_{2(0)}=0.2$) or $N_{2}$ (lower panels: $N_{1(0)}=0.2$, $N_{2(0)}=1$). 
+\par
+
+
+For Figure~\ref{fig:Fig1}, we take Tilman's model \citep[p.~270]{tilman1982} where two consumers (i.e., $N_{1}$ and $N_{2}$) are competing for two perfectly substitutable resources, $R_{1}$ and $R_{2}$, and solve for its coexistence equilibrium. The dynamics of this system can be described as follows:
+
+\begin{equation}
+\frac{{d{N_1}}}{{dt}} = {r_1}{N_1}\left[ {\frac{{{w_{11}}{R_1} + {w_{12}}{R_2} - {T_1}}}{{{k_1} + {w_{11}}{R_1} + {w_{12}}{R_2} - {T_1}}}} \right] - D{N_1}
+\tag{S3.2.1}\label{eq:S3.2.1}
+\end{equation}
+\begin{equation}
+\frac{{d{N_2}}}{{dt}} = {r_2}{N_2}\left[ {\frac{{{w_{21}}{R_1} + {w_{22}}{R_2} - {T_2}}}{{{k_2} + {w_{21}}{R_1} + {w_{22}}{R_2} - {T_2}}}} \right] - D{N_2}
+\tag{S3.2.2}\label{eq:S3.2.2}
+\end{equation}
+\begin{equation}
+\frac{{d{R_1}}}{{dt}} = D\left( {{S_1} - {R_1}} \right) - {c_{11}}{N_1} - {c_{21}}{N_2}
+\tag{S3.2.3}\label{eq:S3.2.3}
+\end{equation}
+\begin{equation}
+\frac{{d{R_2}}}{{dt}} = D\left( {{S_2} - {R_2}} \right) - {c_{12}}{N_1} - {c_{22}}{N_2}.
+\tag{S3.2.4}\label{eq:S3.2.4}
+\end{equation}
+
+\noindent Here, $r_{i}$ represents the maximum population growth rate for species $i$ ($i = $ 1 or 2) and $D$ represents the constant mortality of the consumers and turnover rate of resources. Per capita resource consumption rate of consumer $N_{i}$ on resource $R_{j}$ ($j = $ 1 or 2) is represented by $c_{ij}$, whereas $w_{ij}$ represents a weighting factor that converts availability of $R_{j}$ into its value for consumer $N_{i}$. Following a Monod growth model, $k_{i}$ is the half-saturation constant for $N_{i}$ resource consumption, and $T_{i}$ is the minimum amount of total resource required for $N_{i}$ to grow. Finally, $S_{1}$ and $S_{2}$ represent the resource supply concentrations for $R_{1}$ and $R_{2}$, respectively. Certain assumptions of this Monod growth model, such as constant supply of resource and strong recipient control of consumption rate, may not be applicable to many systems. However, this should not affect the results qualitatively \cite{Kleinhesselink2015}. 
+\par
+
+
+Following the same mathematical trick in Appendix A.1, we can transform Eqns.~\ref{eq:S3.2.1} -- \ref{eq:S3.2.4} to a Lotka--Volterra form and derive Eqns.~\ref{eq:3.11} and \ref{eq:3.12}. In Figure~\ref{fig:Fig1}, we plotted the ZNGI, the consumption vectors (species 1 in red and species 2 in blue), and the supply point (see Appendix A.1 for definition). The consumption vectors for consumer $i$ on the two substitutable resources is a vector with elements $\left( c_{i1}, c_{i2} \right)$, and the supply point can be expressed as a point with coordinates $\left( S_{1}, S_{2} \right)$. To study the effects of changing consumer resource parameters on stabilization potential (defined as 1 - $\rho$ in the main text) and fitness ratio, we varied species' per capita consumption rates, $c_{ij}$, and the supply point. To keep the position of the ZNGIs fixed, we set the following parameters as: $D = 0.7$, $k_{1} = k_{2} = 0.4$, $r_{1} = r_{2} = 1$, $T_{1} = T_{2} = 0.1$, $w_{11} = w_{22} = 2$, and $w_{12} = w_{21} = 4$. 
+\par
+
+
+In panel (a) and (b), each species consumes more of its favored resource but with different degree of resource partitioning. The per capita consumption rates in panel (a) are $c_{11} = c_{22} = 2$ and $c_{21} = c_{12} = 4$, whereas that in panel (b) are $c_{11} = c_{22} = 2.843$ and $c_{21} = c_{12} = 3.452$. In panel (c) and (d), each species now consumes more of the resource favored by its competitor with $c_{11} = c_{22} = 3.552$ and $c_{21} = c_{12} = 2.718$. This potentially leads to priority effects depending on the fitness ratio between the two species, which can be altered by modifying the supply point from the black circle $\left(0.3, 0.38\right)$ to the black square $\left(0.248, 0.245 \right)$. 
+\par
+
+
+\subsection{Positive frequency dependence in an non-equilibrium system}
+In Figure~\ref{fig:Fig2} in the main text we provide an example of PFD emerging through the coexistence-affecting mechanism relative non-linearity. In this example two consumers compete for a single logistically-growing resource. One species has a type 3 functional response (blue in Fig.~\ref{fig:Fig2}), given by: 
+
+\begin{equation}
+\frac{dN_{1}}{dt} = N_{1}(\mu _{max_{1}}\frac{R^2}{Ks_{1} + R^2}-d).
+\tag{S3.3.1}\label{eq:S3.3.1}
+\end{equation}
+
+\noindent The other species (red in Fig.~\ref{fig:Fig2}) has a modified Monod (type 2) functional response with inhibition at high resource levels: 
+
+\begin{equation}
+\frac{dN_{2}}{dt} = N_{2}(\mu _{max_{2}}\frac{R}{Ks_{2} + R + \frac{R^2}{Ki}}-d).
+\tag{S3.3.2}\label{eq:S3.3.2}
+\end{equation}
+
+\noindent Here, $N_{i}$ is the population density of consumer $i$ ($i = $ 1 or 2), $\mu_{max_{i}}$ is the maximum growth rate, $Ks_{i}$ is the half saturation constant, $R$ is the density/concentration of resource, $d$ is the density independent mortality rate, and $Ki$ is the inhibition term unique to the second species. 
+\par
+
+
+\noindent Resource dynamics are given by:
+
+\begin{equation}
+\frac{dR}{dt} = rR(1-\frac{R}{K}) - \sum_{i = 1}^{n} Q_{i}\frac{\mathrm{d}N_{i}}{\mathrm{d}t},\qquad i = 1,2, 
+\tag{S3.3.3}\label{eq:S3.3.3}
+\end{equation}
+
+\noindent where $r$ is the resource intrinsic rate of increase, $K$ is the resource carrying capacity and $Q_{i}$ is the resource quota of consumer $i$. 
+\par
+
+
+We used the following values for the parameters in Figure~\ref{fig:Fig2}: $\mu_{max_{1}} = 0.029$, $\mu_{max_{2}} = 0.2$, $Ks_{1} = 0.02$, $Ks_{2} = 3$, $d = 0.01$, $Ki = 1$, $r = 0.5$, $K = 3$, $Q_{1} = 0.01$ and $Q_{2} = 0.01$. Simulations were run with the LSODA solver using the deSolve package v1.20 \citep{soetaert2016package} in R v3.4.2. In Fig.~\ref{fig:Fig2}b, the simulation was started with starting population sizes of 500 and 1 for blue and red respectively. In Fig.~\ref{fig:Fig2}c, the simulation was started with starting population sizes of 1 and 500 for blue and red respectively. 
+

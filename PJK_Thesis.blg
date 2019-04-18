@@ -1,0 +1,91 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: PJK_Thesis.aux
+A level-1 auxiliary file: Chapter1/Introduction.aux
+A level-1 auxiliary file: Chapter2/Chapter2.aux
+A level-1 auxiliary file: Chapter3/Chapter3.aux
+A level-1 auxiliary file: Chapter2/Chapter2Appendix.aux
+A level-1 auxiliary file: Chapter3/Chapter3Appendix.aux
+The style file: ecol-mono.bst
+Database file #1: ThesisBibliography.bib
+Repeated entry---line 2547 of file ThesisBibliography.bib
+ : @book{Vellend2016
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5822 of file ThesisBibliography.bib
+ : @article{Adler2010
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6402 of file ThesisBibliography.bib
+ : @book{Hubbell2001
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9029 of file ThesisBibliography.bib
+ : @article{Chesson2008
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10334 of file ThesisBibliography.bib
+ : @article{Godoy2014
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10719 of file ThesisBibliography.bib
+ : @article{Adler2006
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10786 of file ThesisBibliography.bib
+ : @article{Sears2007
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10836 of file ThesisBibliography.bib
+ : @article{Adler2007
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10855 of file ThesisBibliography.bib
+ : @article{Adler2010
+ :                   ,
+I'm skipping whatever remains of this entry
+Warning--can't use both volume and number fields in Hubbell2001
+Warning--there's a number but no series in pfennig2012
+Warning--empty journal in soetaert2016package
+You've used 79 entries,
+            2712 wiz_defined-function locations,
+            1139 strings with 17719 characters,
+and the built_in function-call counts, 38129 in all, are:
+= -- 3635
+> -- 1975
+< -- 61
++ -- 670
+- -- 574
+* -- 3279
+:= -- 6858
+add.period$ -- 239
+call.type$ -- 79
+change.case$ -- 583
+chr.to.int$ -- 78
+cite$ -- 82
+duplicate$ -- 1565
+empty$ -- 2524
+format.name$ -- 687
+if$ -- 7450
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 88
+newline$ -- 397
+num.names$ -- 320
+pop$ -- 421
+preamble$ -- 1
+purify$ -- 505
+quote$ -- 0
+skip$ -- 1032
+stack$ -- 0
+substring$ -- 2609
+swap$ -- 323
+text.length$ -- 11
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 684
+warning$ -- 3
+while$ -- 369
+width$ -- 0
+write$ -- 1024
+(There were 9 error messages)
