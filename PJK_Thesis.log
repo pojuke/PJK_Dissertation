@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  18 APR 2019 00:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  23 APR 2019 11:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1034,62 +1034,61 @@ Package: tabularx 2014/10/28 v2.10 `tabularx' package (DPC)
 \CommentStream=\write6
 
 Excluding comment 'comment')
-LaTeX Font Info:    Try loading font information for T1+zpltlf on input line 10
-6.
+LaTeX Font Info:    Try loading font information for T1+zpltlf on input line 95
+.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/newpx/t1zpltlf.fd
 File: t1zpltlf.fd 2015/01/17 v1.0 font definition file for T1/zpl/tlf
 )
 LaTeX Font Info:    Font shape `T1/zpltlf/m/n' will be
-(Font)              scaled to size 10.95pt on input line 106.
+(Font)              scaled to size 10.95pt on input line 95.
 
 (./PJK_Thesis.aux (./Chapter1/Introduction.aux) (./Chapter2/Chapter2.aux)
 (./Chapter3/Chapter3.aux) (./Chapter2/Chapter2Appendix.aux)
 (./Chapter3/Chapter3Appendix.aux))
 \openout1 = `PJK_Thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/npxmi/m/it on input line 106.
-LaTeX Font Info:    Try loading font information for OML+npxmi on input line 10
-6.
+LaTeX Font Info:    Checking defaults for OML/npxmi/m/it on input line 95.
+LaTeX Font Info:    Try loading font information for OML+npxmi on input line 95
+.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/newpx/omlnpxmi.fd
 File: omlnpxmi.fd 2013/03/21 Fontinst v1.933 font definitions for OML/npxmi.
 )
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for OMS/npxsy/m/n on input line 106.
-LaTeX Font Info:    Try loading font information for OMS+npxsy on input line 10
-6.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OMS/npxsy/m/n on input line 95.
+LaTeX Font Info:    Try loading font information for OMS+npxsy on input line 95
+.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/newpx/omsnpxsy.fd
 File: omsnpxsy.fd 2013/03/24 Fontinst v1.933 font definitions for OMS/npxsy.
 )
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for U/npxexa/m/n on input line 106.
-LaTeX Font Info:    Try loading font information for U+npxexa on input line 106
-.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for U/npxexa/m/n on input line 95.
+LaTeX Font Info:    Try loading font information for U+npxexa on input line 95.
+
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/newpx/unpxexa.fd
 File: unpxexa.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxexa.
 )
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 106.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 106.
-
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 95.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 95.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for LMX/npxexx/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for LMX/npxexx/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
 
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1107,15 +1106,15 @@ LaTeX Font Info:    ... okay on input line 106.
 )
 \symgns@font=\mathgroup10
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
-(Font)                  TS1/zpltlf/m/n --> TS1/zpltlf/bx/n on input line 106.
-Package gensymb Info: Math companion symbols declared on input line 106.
-LaTeX Info: Redefining \degree on input line 106.
-LaTeX Info: Redefining \celsius on input line 106.
+(Font)                  TS1/zpltlf/m/n --> TS1/zpltlf/bx/n on input line 95.
+Package gensymb Info: Math companion symbols declared on input line 95.
+LaTeX Info: Redefining \degree on input line 95.
+LaTeX Info: Redefining \celsius on input line 95.
 Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
-erthousand on input line 106.
-LaTeX Info: Redefining \ohm on input line 106.
-Package gensymb Info: Using \textohm for \ohm on input line 106.
-Package gensymb Info: Using \textmu for \micro on input line 106.
+erthousand on input line 95.
+LaTeX Info: Redefining \ohm on input line 95.
+Package gensymb Info: Using \textohm for \ohm on input line 95.
+Package gensymb Info: Using \textmu for \micro on input line 95.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/ms/ragged2e.sty
 Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
 
@@ -1144,7 +1143,7 @@ ABD: EveryShipout initializing macros
 \c@mv@tabular=\count160
 \c@mv@boldtabular=\count161
 \AtBeginShipoutBox=\box58
-Package hyperref Info: Link coloring OFF on input line 106.
+Package hyperref Info: Link coloring OFF on input line 95.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1154,9 +1153,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count162
 )
-LaTeX Info: Redefining \ref on input line 106.
-LaTeX Info: Redefining \pageref on input line 106.
-LaTeX Info: Redefining \nameref on input line 106.
+LaTeX Info: Redefining \ref on input line 95.
+LaTeX Info: Redefining \pageref on input line 95.
+LaTeX Info: Redefining \nameref on input line 95.
 
 (./PJK_Thesis.out) (./PJK_Thesis.out)
 \@outlinefile=\write7
@@ -1165,62 +1164,62 @@ LaTeX Info: Redefining \nameref on input line 106.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Font shape `T1/zpltlf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 113.
+(Font)              scaled to size 12.0pt on input line 100.
  [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Try loading font information for TS1+zpltlf on input line 1
-13.
+00.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/newpx/ts1zpltlf.fd
 File: ts1zpltlf.fd 2015/01/18 v1.0 fd file for TS1/zpltlf
 )
 LaTeX Font Info:    Font shape `TS1/zpltlf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 113.
+(Font)              scaled to size 12.0pt on input line 100.
  [2]
 LaTeX Font Info:    Font shape `T1/zpltlf/m/n' will be
-(Font)              scaled to size 8.0pt on input line 113.
+(Font)              scaled to size 8.0pt on input line 100.
 LaTeX Font Info:    Font shape `T1/zpltlf/m/n' will be
-(Font)              scaled to size 6.1pt on input line 113.
-LaTeX Font Info:    Try loading font information for U+msa on input line 113.
+(Font)              scaled to size 6.1pt on input line 100.
+LaTeX Font Info:    Try loading font information for U+msa on input line 100.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 113.
+LaTeX Font Info:    Try loading font information for U+msb on input line 100.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+npxmia on input line 113
+LaTeX Font Info:    Try loading font information for U+npxmia on input line 100
 .
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/newpx/unpxmia.fd
 File: unpxmia.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxmia.
 )
-LaTeX Font Info:    Try loading font information for U+npxsym on input line 113
+LaTeX Font Info:    Try loading font information for U+npxsym on input line 100
 .
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/newpx/unpxsym.fd
 File: unpxsym.fd 2015/03/21 Fontinst v1.933 font definitions for U/npxsym.
 )
-LaTeX Font Info:    Try loading font information for U+npxsyc on input line 113
+LaTeX Font Info:    Try loading font information for U+npxsyc on input line 100
 .
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/newpx/unpxsyc.fd
 File: unpxsyc.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxsyc.
 )
 LaTeX Font Info:    Font shape `TS1/zpltlf/m/n' will be
-(Font)              scaled to size 10.95pt on input line 113.
+(Font)              scaled to size 10.95pt on input line 100.
 LaTeX Font Info:    Font shape `TS1/zpltlf/m/n' will be
-(Font)              scaled to size 8.0pt on input line 113.
+(Font)              scaled to size 8.0pt on input line 100.
 LaTeX Font Info:    Font shape `TS1/zpltlf/m/n' will be
-(Font)              scaled to size 6.1pt on input line 113.
+(Font)              scaled to size 6.1pt on input line 100.
  [3] [4
 
 ]
 LaTeX Font Info:    Font shape `T1/zpltlf/m/n' will be
-(Font)              scaled to size 20.74pt on input line 132.
+(Font)              scaled to size 20.74pt on input line 112.
 
 (./PJK_Thesis.toc
 LaTeX Font Info:    Font shape `T1/zpltlf/bx/n' in size <10.95> not available
@@ -1270,7 +1269,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [2]
 LaTeX Font Info:    Font shape `T1/zpltlf/m/it' will be
-(Font)              scaled to size 10.95pt on input line 49.
+(Font)              scaled to size 10.95pt on input line 39.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1278,37 +1277,37 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[3]
+[3] Excluding 'comment' comment.
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[4])
+[4]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[5]
+[5])
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[6]
 \openout2 = `Chapter2/Chapter2.aux'.
 
  (./Chapter2/Chapter2.tex
 Chapter 2.
-Excluding 'comment' comment. Excluding 'comment' comment. [6
+Excluding 'comment' comment. Excluding 'comment' comment. [7
 
 
 
 ]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[7]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -1329,7 +1328,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[10pdfTeX warning (ext4): destination with the same identifier (name{equation.2
+[10]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[11pdfTeX warning (ext4): destination with the same identifier (name{equation.2
 .3.1}) has been already used, duplicate ignored
 
 \@EveryShipout@Output ...@Org@Shipout \box \@cclv 
@@ -1362,13 +1368,6 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[11]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
 [12]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1391,12 +1390,6 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [15]
-LaTeX Font Info:    Font shape `T1/zpltlf/bx/n' in size <12> not available
-(Font)              Font shape `T1/zpltlf/b/n' tried instead on input line 171.
-
-LaTeX Font Info:    Font shape `T1/zpltlf/b/n' will be
-(Font)              scaled to size 12.0pt on input line 171.
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -1404,6 +1397,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [16]
+LaTeX Font Info:    Font shape `T1/zpltlf/bx/n' in size <12> not available
+(Font)              Font shape `T1/zpltlf/b/n' tried instead on input line 171.
+
+LaTeX Font Info:    Font shape `T1/zpltlf/b/n' will be
+(Font)              scaled to size 12.0pt on input line 171.
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -1508,7 +1507,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[31] <Chapter2/conceptfig.pdf, id=826, 867.24pt x 433.62pt>
+[31]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[32] <Chapter2/conceptfig.pdf, id=899, 867.24pt x 433.62pt>
 File: Chapter2/conceptfig.pdf Graphic file (type pdf)
 
 <use Chapter2/conceptfig.pdf>
@@ -1521,10 +1527,10 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[32
+[33
 
  <./Chapter2/conceptfig.pdf>]
-<Chapter2/supply-ms-fig-flippedcols.pdf, id=861, 722.7pt x 722.7pt>
+<Chapter2/supply-ms-fig-flippedcols.pdf, id=934, 722.7pt x 722.7pt>
 File: Chapter2/supply-ms-fig-flippedcols.pdf Graphic file (type pdf)
 
 <use Chapter2/supply-ms-fig-flippedcols.pdf>
@@ -1538,8 +1544,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[33 <./Chapter2/supply-ms-fig-flippedcols.pdf>]
-<Chapter2/Box2-fig-Rothhaupt-colswitch.pdf, id=896, 289.08pt x 578.16pt>
+[34 <./Chapter2/supply-ms-fig-flippedcols.pdf>]
+<Chapter2/Box2-fig-Rothhaupt-colswitch.pdf, id=970, 289.08pt x 578.16pt>
 File: Chapter2/Box2-fig-Rothhaupt-colswitch.pdf Graphic file (type pdf)
 
 <use Chapter2/Box2-fig-Rothhaupt-colswitch.pdf>
@@ -1553,8 +1559,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[34 <./Chapter2/Box2-fig-Rothhaupt-colswitch.pdf>]
-<Chapter2/Box2-fig-Tilman-colswitch.pdf, id=935, 289.08pt x 578.16pt>
+[35 <./Chapter2/Box2-fig-Rothhaupt-colswitch.pdf>]
+<Chapter2/Box2-fig-Tilman-colswitch.pdf, id=1010, 289.08pt x 578.16pt>
 File: Chapter2/Box2-fig-Tilman-colswitch.pdf Graphic file (type pdf)
 
 <use Chapter2/Box2-fig-Tilman-colswitch.pdf>
@@ -1568,8 +1574,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[35 <./Chapter2/Box2-fig-Tilman-colswitch.pdf>]
-<Chapter2/impact-ms-fig-flippedcols.pdf, id=982, 722.7pt x 722.7pt>
+[36 <./Chapter2/Box2-fig-Tilman-colswitch.pdf>]
+<Chapter2/impact-ms-fig-flippedcols.pdf, id=1055, 722.7pt x 722.7pt>
 File: Chapter2/impact-ms-fig-flippedcols.pdf Graphic file (type pdf)
 
 <use Chapter2/impact-ms-fig-flippedcols.pdf>
@@ -1582,14 +1588,11 @@ LaTeX Font Info:    Font shape `T1/zpltlf/m/it' will be
 (Font)              scaled to size 6.1pt on input line 334.
 
 
-LaTeX Warning: Float too large for page by 6.39278pt on input line 336.
-
-
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<Chapter2/require-ms-fig-fixedequilibrium-flippedcols.pdf, id=983, 722.7pt x 72
-2.7pt>
+<Chapter2/require-ms-fig-fixedequilibrium-flippedcols.pdf, id=1056, 722.7pt x 7
+22.7pt>
 File: Chapter2/require-ms-fig-fixedequilibrium-flippedcols.pdf Graphic file (ty
 pe pdf)
  <use Chapter2/require-ms-fig-fixedequilibrium-flippedcols.pdf>
@@ -1598,7 +1601,7 @@ df used on input line 343.
 (pdftex.def)             Requested size: 341.43306pt x 341.43344pt.
 
 
-LaTeX Warning: Float too large for page by 59.7309pt on input line 347.
+LaTeX Warning: Float too large for page by 43.7995pt on input line 347.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1609,14 +1612,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[36 <./Chapter2/impact-ms-fig-flippedcols.pdf>]
+[37 <./Chapter2/impact-ms-fig-flippedcols.pdf>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[37 <./Chapter2/require-ms-fig-fixedequilibrium-flippedcols.pdf>]
+[38 <./Chapter2/require-ms-fig-fixedequilibrium-flippedcols.pdf>]
 Overfull \hbox (30.0pt too wide) in paragraph at lines 396--396
 [][] 
  []
@@ -1627,7 +1630,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[38
+[39
 
 pdfTeX warning (ext4): destination with the same identifier (name{equation.2.11
 .1}) has been already used, duplicate ignored
@@ -1646,7 +1649,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[39pdfTeX warning (ext4): destination with the same identifier (name{equation.2
+[40pdfTeX warning (ext4): destination with the same identifier (name{equation.2
 .11.1}) has been already used, duplicate ignored
 
 \@EveryShipout@Output ...@Org@Shipout \box \@cclv 
@@ -1669,7 +1672,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[40
+[41
 
 ]
 Overfull \hbox (30.0pt too wide) in paragraph at lines 420--420
@@ -1683,7 +1686,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[41]
+[42]
 \openout2 = `Chapter3/Chapter3.aux'.
 
  (./Chapter3/Chapter3.tex
@@ -1693,7 +1696,7 @@ Overfull \hbox (52.83606pt too wide) in paragraph at lines 1--1
  |[]\T1/zpltlf/m/n/20.74 Coexistence the-ory and the frequency-dependence
  []
 
-Excluding 'comment' comment. Excluding 'comment' comment. [42
+Excluding 'comment' comment. Excluding 'comment' comment. [43
 
 
 
@@ -1704,7 +1707,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[43pdfTeX warning (ext4): destination with the same identifier (name{equation.3
+[44pdfTeX warning (ext4): destination with the same identifier (name{equation.3
 .2.1}) has been already used, duplicate ignored
 
 \@EveryShipout@Output ...@Org@Shipout \box \@cclv 
@@ -1737,7 +1740,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[44]pdfTeX warning (ext4): destination with the same identifier (name{equation.
+[45]pdfTeX warning (ext4): destination with the same identifier (name{equation.
 3.2.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -1777,13 +1780,6 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[45]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
 [46]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1805,7 +1801,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[49pdfTeX warning (ext4): destination with the same identifier (name{equation.3
+[49]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[50pdfTeX warning (ext4): destination with the same identifier (name{equation.3
 .3.1}) has been already used, duplicate ignored
 
 \@EveryShipout@Output ...@Org@Shipout \box \@cclv 
@@ -1930,7 +1933,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[50]pdfTeX warning (ext4): destination with the same identifier (name{equation.
+[51]pdfTeX warning (ext4): destination with the same identifier (name{equation.
 3.3.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -1957,7 +1960,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[51] <Chapter3/Conceptual.pdf, id=1273, 1308.82971pt x 711.31744pt>
+[52] <Chapter3/Conceptual.pdf, id=1347, 1308.82971pt x 711.31744pt>
 File: Chapter3/Conceptual.pdf Graphic file (type pdf)
 
 <use Chapter3/Conceptual.pdf>
@@ -1970,8 +1973,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[52 <./Chapter3/Conceptual.pdf>]
-<Chapter3/Fig1.pdf, id=1337, 1300.86pt x 650.43pt>
+[53 <./Chapter3/Conceptual.pdf>]
+<Chapter3/Fig1.pdf, id=1412, 1300.86pt x 650.43pt>
 File: Chapter3/Fig1.pdf Graphic file (type pdf)
  <use Chapter3/Fig1.pdf>
 Package pdftex.def Info: Chapter3/Fig1.pdf used on input line 410.
@@ -1983,8 +1986,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[53 <./Chapter3/Fig1.pdf>]
-<Chapter3/relnonlin.pdf, id=1383, 867.24pt x 289.08pt>
+[54 <./Chapter3/Fig1.pdf>]
+<Chapter3/relnonlin.pdf, id=1456, 867.24pt x 289.08pt>
 File: Chapter3/relnonlin.pdf Graphic file (type pdf)
 
 <use Chapter3/relnonlin.pdf>
@@ -1997,7 +2000,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[54 <./Chapter3/relnonlin.pdf>]
+[55 <./Chapter3/relnonlin.pdf>]
 Overfull \hbox (30.0pt too wide) in paragraph at lines 443--443
 [][] 
  []
@@ -2008,7 +2011,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[55]
+[56]
 Overfull \hbox (30.0pt too wide) in paragraph at lines 443--443
 [][] 
  []
@@ -2020,7 +2023,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[56]
+[57]
 \openout2 = `Chapter2/Chapter2Appendix.aux'.
 
  (./Chapter2/Chapter2Appendix.tex
@@ -2030,7 +2033,7 @@ Overfull \hbox (2.23029pt too wide) in paragraph at lines 1--1
  |[]\T1/zpltlf/m/n/20.74 Linking mod-ern co-ex-is-tence the-ory and con-
  []
 
-Excluding 'comment' comment. Excluding 'comment' comment. [57
+Excluding 'comment' comment. Excluding 'comment' comment. [58
 
 
 
@@ -2127,213 +2130,106 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[58]pdfTeX warning (ext4): destination with the same identifier (name{equation.
-A.1.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.116 \begin{equation}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.A.1.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.116 \begin{equation}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.A.1.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.116 \begin{equation}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.A.1.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.116 \begin{equation}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.A.1.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.120 \begin{equation}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.A.1.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.120 \begin{equation}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.A.1.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.120 \begin{equation}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.A.1.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.120 \begin{equation}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.A.1.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.127 \begin{equation}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.A.1.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.127 \begin{equation}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.A.1.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.127 \begin{equation}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.A.1.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.127 \begin{equation}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.A.1.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.133 \begin{equation}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.A.1.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.133 \begin{equation}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.A.1.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.133 \begin{equation}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.A.1.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.133 \begin{equation}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.A.1.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.142 \begin{equation}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.A.1.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.142 \begin{equation}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.A.1.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.142 \begin{equation}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.A.1.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.142 \begin{equation}
-                      
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
 [59]pdfTeX warning (ext4): destination with the same identifier (name{equation.
 A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.149 \begin{equation}
+l.116 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.149 \begin{equation}
+l.116 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.149 \begin{equation}
+l.116 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.149 \begin{equation}
+l.116 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.153 \begin{equation}
+l.120 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.153 \begin{equation}
+l.120 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.153 \begin{equation}
+l.120 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.153 \begin{equation}
+l.120 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.160 \begin{equation}
+l.127 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.160 \begin{equation}
+l.127 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.160 \begin{equation}
+l.127 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.160 \begin{equation}
+l.127 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.167 \begin{equation}
+l.133 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.167 \begin{equation}
+l.133 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.167 \begin{equation}
+l.133 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.167 \begin{equation}
+l.133 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.171 \begin{equation}
+l.142 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.171 \begin{equation}
+l.142 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.171 \begin{equation}
+l.142 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.171 \begin{equation}
+l.142 \begin{equation}
                       
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2345,122 +2241,102 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.178 \begin{equation}
+l.149 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.178 \begin{equation}
+l.149 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.178 \begin{equation}
+l.149 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.178 \begin{equation}
+l.149 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.187 \begin{equation}
+l.153 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.187 \begin{equation}
+l.153 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.187 \begin{equation}
+l.153 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.187 \begin{equation}
+l.153 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.200 \begin{equation}
+l.160 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.200 \begin{equation}
+l.160 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.200 \begin{equation}
+l.160 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.200 \begin{equation}
+l.160 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.204 \begin{equation}
+l.167 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.204 \begin{equation}
+l.167 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.204 \begin{equation}
+l.167 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.204 \begin{equation}
+l.167 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.208 \begin{equation}
+l.171 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.208 \begin{equation}
+l.171 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.208 \begin{equation}
+l.171 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.208 \begin{equation}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.A.1.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.212 \begin{equation}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.A.1.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.212 \begin{equation}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.A.1.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.212 \begin{equation}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.A.1.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.212 \begin{equation}
+l.171 \begin{equation}
                       
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2472,102 +2348,122 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.219 \begin{equation}
+l.178 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.219 \begin{equation}
+l.178 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.219 \begin{equation}
+l.178 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.219 \begin{equation}
+l.178 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.223 \begin{equation}
+l.187 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.223 \begin{equation}
+l.187 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.223 \begin{equation}
+l.187 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.223 \begin{equation}
+l.187 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.227 \begin{equation}
+l.200 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.227 \begin{equation}
+l.200 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.227 \begin{equation}
+l.200 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.227 \begin{equation}
+l.200 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.231 \begin{equation}
+l.204 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.231 \begin{equation}
+l.204 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.231 \begin{equation}
+l.204 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.231 \begin{equation}
+l.204 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.238 \begin{equation}
+l.208 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.238 \begin{equation}
+l.208 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.238 \begin{equation}
+l.208 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.238 \begin{equation}
+l.208 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.A.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.212 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.A.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.212 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.A.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.212 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.A.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.212 \begin{equation}
                       
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2579,6 +2475,113 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
+l.219 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.A.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.219 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.A.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.219 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.A.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.219 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.A.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.223 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.A.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.223 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.A.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.223 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.A.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.223 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.A.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.227 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.A.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.227 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.A.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.227 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.A.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.227 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.A.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.231 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.A.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.231 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.A.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.231 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.A.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.231 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.A.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.238 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.A.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.238 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.A.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.238 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.A.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.238 \begin{equation}
+                      
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[63]pdfTeX warning (ext4): destination with the same identifier (name{equation.
+A.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
 l.242 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.A.1.1}) has been already used, duplicate ignored
@@ -2742,7 +2745,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[63]pdfTeX warning (ext4): destination with the same identifier (name{equation.
+[64]pdfTeX warning (ext4): destination with the same identifier (name{equation.
 A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -2949,7 +2952,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[64]pdfTeX warning (ext4): destination with the same identifier (name{equation.
+[65]pdfTeX warning (ext4): destination with the same identifier (name{equation.
 A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -3007,7 +3010,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[65]
+[66]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 380.
@@ -3030,7 +3033,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[66pdfTeX warning (ext4): destination with the same identifier (name{equation.A
+[67pdfTeX warning (ext4): destination with the same identifier (name{equation.A
 .2.1}) has been already used, duplicate ignored
 
 \@EveryShipout@Output ...@Org@Shipout \box \@cclv 
@@ -3147,8 +3150,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[67]
-<Chapter2/impact-appendix-fig-asymmetry-update.pdf, id=1660, 722.7pt x 433.62pt
+[68]
+<Chapter2/impact-appendix-fig-asymmetry-update.pdf, id=1733, 722.7pt x 433.62pt
 >
 File: Chapter2/impact-appendix-fig-asymmetry-update.pdf Graphic file (type pdf)
 
@@ -3163,7 +3166,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[68
+[69
 
  <./Chapter2/impact-appendix-fig-asymmetry-update.pdf>]
 
@@ -3172,10 +3175,10 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[69
+[70
 
 ]
-<Chapter2/impact-ms-fig-fixed-overlap-appendix.pdf, id=1699, 722.7pt x 433.62pt
+<Chapter2/impact-ms-fig-fixed-overlap-appendix.pdf, id=1773, 722.7pt x 433.62pt
 >
 File: Chapter2/impact-ms-fig-fixed-overlap-appendix.pdf Graphic file (type pdf)
 
@@ -3190,8 +3193,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[70 <./Chapter2/impact-ms-fig-fixed-overlap-appendix.pdf>]
-<Chapter2/require-ms-fig-unfixedequilibrium-appendix.pdf, id=1734, 722.7pt x 43
+[71 <./Chapter2/impact-ms-fig-fixed-overlap-appendix.pdf>]
+<Chapter2/require-ms-fig-unfixedequilibrium-appendix.pdf, id=1809, 722.7pt x 43
 3.62pt>
 File: Chapter2/require-ms-fig-unfixedequilibrium-appendix.pdf Graphic file (typ
 e pdf)
@@ -3206,7 +3209,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[71
+[72
 
  <./Chapter2/require-ms-fig-unfixedequilibrium-appendix.pdf>]
 \openout2 = `Chapter3/Chapter3Appendix.aux'.
@@ -3219,7 +3222,7 @@ Overfull \hbox (55.1382pt too wide) in paragraph at lines 1--1
  |[]\T1/zpltlf/m/n/20.74 Coexistence the-ory and the frequency-dependence
  []
 
-Excluding 'comment' comment. Excluding 'comment' comment. [72
+Excluding 'comment' comment. Excluding 'comment' comment. [73
 
 
 
@@ -3316,7 +3319,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[73]
+[74]
 Overfull \hbox (1.98499pt too wide) in paragraph at lines 125--126
 []\T1/zpltlf/m/n/10.95 Following the same math-e-mat-i-cal trick in Ap-pendix A
 .1, we can trans-form Eqns. []S3.2.1[]
@@ -3328,7 +3331,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[74]pdfTeX warning (ext4): destination with the same identifier (name{equation.
+[75]pdfTeX warning (ext4): destination with the same identifier (name{equation.
 B.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -3395,24 +3398,17 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[75])
+[76])
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[76] (./PJK_Thesis.bbl [77
+[77] (./PJK_Thesis.bbl [78
 
 
 ]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[78]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -3447,7 +3443,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[83])
+[83]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -3455,24 +3451,45 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [84]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 166.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 166.
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[85]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[86])
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[87]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 146.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 146.
  (./PJK_Thesis.aux (./Chapter1/Introduction.aux) (./Chapter2/Chapter2.aux)
 (./Chapter3/Chapter3.aux) (./Chapter2/Chapter2Appendix.aux)
 (./Chapter3/Chapter3Appendix.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 166.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 166.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 146.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 146.
 Package rerunfilecheck Info: File `PJK_Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 7B4BD3792D5E5CAF098CDFA44E3235DF;3485.
+(rerunfilecheck)             Checksum: B614DB94E2F9AA957C45AF5BF66AF54A;3461.
  ) 
 Here is how much of TeX's memory you used:
- 23971 strings out of 493089
- 441088 string characters out of 6134842
- 510638 words of memory out of 5000000
- 26526 multiletter control sequences out of 15000+600000
+ 24050 strings out of 493089
+ 442452 string characters out of 6134842
+ 512214 words of memory out of 5000000
+ 26583 multiletter control sequences out of 15000+600000
  98612 words of font info for 149 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 54i,15n,92p,2235b,629s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 54i,15n,92p,2277b,634s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/newpx/ecsups.enc}{/usr/lo
 cal/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texlive/201
 5/texmf-dist/fonts/enc/dvips/newpx/tgpdiff.enc}{/usr/local/texlive/2015/texmf-d
@@ -3489,10 +3506,10 @@ l/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/
 f-dist/fonts/type1/public/newpx/zplr.pfb></usr/local/texlive/2015/texmf-dist/fo
 nts/type1/public/newpx/zplri.pfb></usr/local/texlive/2015/texmf-dist/fonts/type
 1/public/newpx/zplx-regular.pfb>
-Output written on PJK_Thesis.pdf (92 pages, 2602985 bytes).
+Output written on PJK_Thesis.pdf (95 pages, 2613168 bytes).
 PDF statistics:
- 1991 PDF objects out of 2073 (max. 8388607)
- 1663 compressed objects within 17 object streams
- 326 named destinations out of 1000 (max. 500000)
+ 2076 PDF objects out of 2487 (max. 8388607)
+ 1744 compressed objects within 18 object streams
+ 348 named destinations out of 1000 (max. 500000)
  409 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,24 +1,21 @@
 % PO-JU KE'S MAIN FILE! :)
 
-% basically this is a template file, you should be able to take it and
-% start running.
+%% Basically this is a template file, you should be able to take it and start running
+%% Copy this file and call it something like mythesis.tex
+%%
+%% The philosophy behind this template is that each chapter or chapter-like section goes in a separate file and you use the \include command to input it into the final document
+%% The \includeonly command can be used so you only need to work on one or two chapters at a time (instead of having to either latex the entire book each time or losing cross-references and page numbering)
 
-% the philosophy behind this template is that each chapter or
-% chapterlike section goes in a separate file and you use the \include
-% command to input it into the final document.  The \includeonly
-% command can be used so you only need to work on one or two chapters at a
-% time (instead of having to either latex the entire book each time or
-% losing cross-references and page numbering)
-
-% copy this file and call it something like mythesis.tex
 
 \documentclass[11pt, twoside]{report}
-% note that the documentclass can take other option such as
-% twoside - for double sided printing
-% openright - if double side  chapters always start on odd pages
-% openany - if double side chapters start on the next page even or odd
-% 12pt can be replaced by 11pt
+%% Note that the documentclass can take other option such as:
+%% (1) twoside - for double sided printing
+%% (2) openright - if double side  chapters always start on odd pages
+%% (3) openany - if double side chapters start on the next page even or odd
+%% 12pt can be replaced by 11pt
 
+
+%% load basic packages for this template
 \usepackage{suthesis-2e}
 \usepackage{graphicx}
 \usepackage{units}
@@ -35,17 +32,17 @@
 \renewcommand{\sectionmark}[1]{}
 
 
-%  NOTE THAT THIS MUST ALSO BE CHANGED ON ll 545 of SUTHESIS STYLE FILE
+%% NOTE THAT THIS MUST ALSO BE CHANGED ON ll 545 of SUTHESIS STYLE FILE
 \setstretch{1.5} 
 
 
-%% load other packages you need
+%% Load other packages you need
 \usepackage{nicefrac}
-\usepackage[compress,comma]{natbib}
+\usepackage[compress, comma]{natbib}
 %\usepackage[right=1in, left=1in, top=1in, bottom=1in]{geometry}
 \usepackage[parfill]{parskip}
-\usepackage[usenames,dvipsnames]{color}
-%\usepackage[font=large,labelfont=bf,margin=1cm, labelsep = none]{caption} % caption formatting
+\usepackage[usenames, dvipsnames]{color}
+%\usepackage[font=large, labelfont=bf, margin=1cm, labelsep = none]{caption} % caption formatting
 \usepackage{setspace}
 \usepackage{gensymb}
 \usepackage{color}
@@ -53,7 +50,7 @@
 %\usepackage{floatrow}
 \usepackage{etoolbox}
 \usepackage{tcolorbox}
-\usepackage{newpxtext,newpxmath}
+\usepackage{newpxtext, newpxmath}
 \tcbuselibrary{breakable}
 %\usepackage{indentfirst}
 \newbool{MyRefNumbers}
@@ -71,89 +68,71 @@
 \usepackage{fancyhdr}
 
 
-%% uncomment the following and create mythesis-macros.sty for all your
-%% own macros.  This keeps this top level file looking fairly neat.
+%% Uncomment the following and create mythesis-macros.sty for all your own macros.  This keeps this top level file looking fairly neat
 % \usepackage{mythesis-macros}
 
-%% certain types of theses require special title page format.  See the
-%% style file for the full list.  An example would be that for some of
-%% the language departments. 
+
+%% Certain types of theses require special title page format.  See the style file for the full list. An example would be that for some of the language or education departments
 % \dualthesis \dept{Asian Languages} \languagemajor{Korean} 
-%% or education
 % \educationthesis
 
-    \title{Temporal development of plant--soil interactions and its effects on community dynamics}
-    \author{Po-Ju Ke}
-    \dept{Biology} % default is Computer Science, uncomment for other departments
-    \principaladviser{Tadashi Fukami}
-    \firstreader{Peter Adler}
-    \secondreader{Erin Mordecai}
-    \thirdreader{Kabir Peay}
 
-%the following command would (if uncommented) allow  only chapter1 and
-%chapter2 to be processed
-%\includeonly{chapter1,chapter2}
+\title{Temporal development of plant--soil interactions and its effects on community dynamics}
+\author{Po-Ju Ke}
+\dept{Biology} % default is Computer Science, uncomment for other departments
+\principaladviser{Tadashi Fukami}
+\firstreader{Peter Adler}
+\secondreader{Erin Mordecai}
+\thirdreader{Kabir Peay}
 
-% if you feel real savvy use
-% \typein{Now put in includeonly}
-% the \typein command stops latex at this point and allows you to type
-% in a command such as
-% \includeonly{chapter3,chapter5}
-% this can save some time and means you don't have to edit this file
-% as much.
+
+%% The following command would (if uncommented) allow only chapter1 and chapter2 to be processed
+% If you feel real savvy use \typein{Now put in includeonly}. The \typein command stops latex at this point and allows you to type in a command such as \includeonly{chapter3, chapter5}. This can save some time and means you don't have to edit this file as much
+% \includeonly{chapter1,chapter2}
+
 
 
 \begin{document}
 
  
-
-% first the preface sections.  
-
-
+ 
+%% PREFACE SECTIONS  
 \beforepreface
 
-% Abstract Section
 
-% Start abstract file with this line: \prefacesection{Abstract}
-
-% Keep the following line in this file to include Abstract.tex
-%\include{Text/Abstract}
-
-% any other preface sections
-
-% the last preface section (e.g., acknowledgement.tex)
-% should look like
-% \prefacesection{Acknowledgement}
-% body 
-%\include{Text/Acknowledgement}
+%% Abstract Section. Keep the following line in this file to include Abstract.tex
+% \include{Preface/Abstract}
 
 
+%% Other preface sections. The last preface section is the acknowledgement.tex
+% \include{Preface/Acknowledgement}
 
+
+%% MAIN TEXT AFTER PREFACE
 \afterpreface
 \doublespacing
 \raggedbottom
-% now for the body of the thesis, modify the number of these lines as needed
 
-% this includes chapter1.tex which should start with a \chapter{...}
-% command 
+
+%% Now for the body of the thesis, modify the number of these lines as needed. This includes chapter1.tex which should start with a \chapter{...} command.
 \include{Chapter1/Introduction}
 \include{Chapter2/Chapter2}
 \include{Chapter3/Chapter3}
-%\include{Text/Chapter3}
-%\include{Text/Chapter4}
-%\include{Text/Conclusions}
-
-% and the end material
+% \include{Chapter4/Chapter4}
+% \include{Chapter5/Chapter5}
+% \include{Chapter6/Chapter6}
 
 
+%% END MATERIAL
 \appendix
 \include{Chapter2/Chapter2Appendix}
 \include{Chapter3/Chapter3Appendix}
+% \include{Chapter4/Chapter4Appendix}
+% \include{Chapter5/Chapter5Appendix}
+% \include{Chapter6/Chapter6Appendix}
 
 
-
-% bibliography.tex should include either 
-%\include{bibliography}
+%% BIBLIOGRAPHY
 \fancyhead[LE, RO]{\thepage}
 \fancyhead[RE]{BIBLIOGRAPHY}
 \fancyhead[LO]{BIBLIOGRAPHY}
@@ -163,5 +142,7 @@
 \bibliography{ThesisBibliography}
 
 
+
 \end{document}
+
 

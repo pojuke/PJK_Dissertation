@@ -117,6 +117,7 @@
 \typeout{Note that this tries to fulfill the Stanford Thesis
   requirements but it is unofficial}
 
+
 % First thing we do is make sure that report has been loaded.  A
 % common error is to try to use suthesis as a documentstyle.
 \@ifundefined{chapter}{\@latexerr{The `suthesis' option should be used
@@ -354,8 +355,8 @@ smaller print.
 
 \copyrighttrue 
 \thesiscopyrighttrue
-
-\figurespagetrue \tablespagetrue
+\figurespagetrue 
+\tablespagetrue
 
 
 \def\@standardsub{submitted to the department of \uppercase\expandafter{\@dept}\\
@@ -433,12 +434,14 @@ AND THE COMMITTEE ON GRADUATE STUDIES}
                JUNE 2019 \\% \@submitdate\\
         \end{center}\vskip.5in\newpage}
 
+%\usepackage[type={CC}, modifier={by-nc-nd}, version={3.0}, ]{doclicense}
 \def\thesiscopyrightpage{%
         \null\vfill
         \begin{center}
                 \large
                 \copyright\ Copyright\ by \@author\ \@copyrightyear\\
                 All Rights Reserved
+        %\doclicenseThis          
         \end{center}
         \vfill\newpage}
 
@@ -485,14 +488,12 @@ of Doctor of Philosophy.
 
 \def\signaturepage{% 
 %\addtolength{\topmargin}{-.875in}
- \ifonline  %COMMENT THIS LINE OUT SO THAT SIGNATURE PAGE PRINTS CORRECTLY
+\ifonline  %COMMENT THIS LINE OUT SO THAT SIGNATURE PAGE PRINTS CORRECTLY
 \setcounter{page}{0}
 \def\thepage{}
 \thispagestyle{myheadings}
-\markboth{\rm \@author}{\rm \@author} \fi %COMMENT IF STATEMENT OUT SO THAT SIGNATURE PAGE PRINTS CORRECTLY
-% Modification below puts my name on signature page; not sure why it wasn't appearing before. HVM 11/17/2014
-%\hfill Holly Villacorta Moeller
-%\marginnote{testing}[-.1cm]
+\markboth{\rm \@author}{\rm \@author} 
+\fi %COMMENT IF STATEMENT OUT SO THAT SIGNATURE PAGE PRINTS CORRECTLY
 
 \setstretch{1}
 
