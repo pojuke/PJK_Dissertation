@@ -8,92 +8,95 @@ A level-1 auxiliary file: Chapter2/Chapter2Appendix.aux
 A level-1 auxiliary file: Chapter3/Chapter3Appendix.aux
 The style file: ecol-mono.bst
 Database file #1: ThesisBibliography.bib
-Repeated entry---line 2105 of file ThesisBibliography.bib
+Repeated entry---line 2213 of file ThesisBibliography.bib
  : @article{Bever2003
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2526 of file ThesisBibliography.bib
+Repeated entry---line 2665 of file ThesisBibliography.bib
  : @article{Bever2010
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2751 of file ThesisBibliography.bib
+Repeated entry---line 2887 of file ThesisBibliography.bib
  : @book{Vellend2016
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 6026 of file ThesisBibliography.bib
+Repeated entry---line 6162 of file ThesisBibliography.bib
  : @article{Adler2010
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 6606 of file ThesisBibliography.bib
+Repeated entry---line 6742 of file ThesisBibliography.bib
  : @book{Hubbell2001
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 9235 of file ThesisBibliography.bib
+Repeated entry---line 9374 of file ThesisBibliography.bib
  : @article{Chesson2008
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 10540 of file ThesisBibliography.bib
+Repeated entry---line 9859 of file ThesisBibliography.bib
+ : @article{Miller2011
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10679 of file ThesisBibliography.bib
  : @article{Godoy2014
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 10925 of file ThesisBibliography.bib
+Repeated entry---line 11064 of file ThesisBibliography.bib
  : @article{Adler2006
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 10992 of file ThesisBibliography.bib
+Repeated entry---line 11131 of file ThesisBibliography.bib
  : @article{Sears2007
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 11042 of file ThesisBibliography.bib
+Repeated entry---line 11181 of file ThesisBibliography.bib
  : @article{Adler2007
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 11061 of file ThesisBibliography.bib
+Repeated entry---line 11200 of file ThesisBibliography.bib
  : @article{Adler2010
  :                   ,
 I'm skipping whatever remains of this entry
 Warning--can't use both volume and number fields in Hubbell2001
-Warning--there's a number but no series in pfennig2012
 Warning--empty journal in soetaert2016package
-You've used 98 entries,
+You've used 116 entries,
             2712 wiz_defined-function locations,
-            1257 strings with 21887 characters,
-and the built_in function-call counts, 48974 in all, are:
-= -- 4562
-> -- 2808
-< -- 70
-+ -- 944
-- -- 829
-* -- 4319
-:= -- 8844
-add.period$ -- 296
-call.type$ -- 98
-change.case$ -- 760
-chr.to.int$ -- 97
-cite$ -- 101
-duplicate$ -- 1931
-empty$ -- 3125
-format.name$ -- 967
-if$ -- 9535
-int.to.chr$ -- 2
+            1361 strings with 25135 characters,
+and the built_in function-call counts, 57932 in all, are:
+= -- 5400
+> -- 3324
+< -- 81
++ -- 1115
+- -- 979
+* -- 5159
+:= -- 10464
+add.period$ -- 349
+call.type$ -- 116
+change.case$ -- 897
+chr.to.int$ -- 114
+cite$ -- 118
+duplicate$ -- 2265
+empty$ -- 3695
+format.name$ -- 1151
+if$ -- 11256
+int.to.chr$ -- 3
 int.to.str$ -- 1
-missing$ -- 110
-newline$ -- 492
-num.names$ -- 396
-pop$ -- 561
+missing$ -- 129
+newline$ -- 582
+num.names$ -- 468
+pop$ -- 653
 preamble$ -- 1
-purify$ -- 666
+purify$ -- 788
 quote$ -- 0
-skip$ -- 1267
+skip$ -- 1474
 stack$ -- 0
-substring$ -- 3212
-swap$ -- 399
+substring$ -- 3827
+swap$ -- 467
 text.length$ -- 13
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 846
-warning$ -- 3
-while$ -- 450
+type$ -- 1005
+warning$ -- 2
+while$ -- 534
 width$ -- 0
-write$ -- 1269
-(There were 11 error messages)
+write$ -- 1502
+(There were 12 error messages)

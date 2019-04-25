@@ -1,4 +1,4 @@
-\begin{thebibliography}{98}
+\begin{thebibliography}{116}
 
 \bibitem[Adler et~al.(2010)Adler, Ellner, and Levine]{Adler2010}
 Adler, P.~B., S.~P. Ellner, and J.~M. Levine, 2010.
@@ -19,6 +19,12 @@ Adler, P.~B., J.~Hillerislambers, and J.~M. Levine, 2007.
 \newblock {A niche for neutrality.}
 \newblock \emph{Ecology Letters} \textbf{10}:95--104.
 
+\bibitem[Amarasekare(2007)]{Amarasekare2007}
+Amarasekare, P., 2007.
+\newblock Trade-offs, temporal variation, and species coexistence in
+  communities with intraguild predation.
+\newblock \emph{Ecology} \textbf{88}:2720--2728.
+
 \bibitem[Angert et~al.(2009)Angert, Huxman, Chesson, and Venable]{Angert2009}
 Angert, A.~L., T.~E. Huxman, P.~Chesson, and D.~L. Venable, 2009.
 \newblock {Functional tradeoffs determine species coexistence via the storage
@@ -32,6 +38,11 @@ Barab{\'{a}}s, G., L.~P{\'{a}}sztor, G.~Mesz{\'{e}}na, and A.~Ostling, 2014.
 \newblock {Sensitivity analysis of coexistence in ecological communities:
   theory and application}.
 \newblock \emph{Ecology Letters} \textbf{12}:1479--1494.
+
+\bibitem[Bartomeus and Godoy(2018)]{Bartomeus2018}
+Bartomeus, I. and O.~Godoy, 2018.
+\newblock Biotic controls of plant coexistence.
+\newblock \emph{Journal of Ecology} \textbf{106}:1767--1772.
 
 \bibitem[Bascompte and Jordano(2013)]{Bascompte2013}
 Bascompte, J. and P.~Jordano, 2013.
@@ -51,12 +62,6 @@ Bever, J.~D., I.~A. Dickie, E.~Facelli, J.~M. Facelli, J.~Klironomos, M.~Moora,
 \newblock {Rooting theories of plant community ecology in microbial
   interactions}.
 \newblock \emph{Trends in Ecology {\&} Evolution} \textbf{25}:468--478.
-
-\bibitem[Bever et~al.(2012)Bever, Platt, and Morton]{Bever2012}
-Bever, J.~D., T.~G. Platt, and E.~R. Morton, 2012.
-\newblock Microbial population and community dynamics on plant roots and their
-  feedbacks on plant communities.
-\newblock \emph{Annual Review of Microbiology} \textbf{66}:265--283.
 
 \bibitem[Bever et~al.(1997)Bever, Westover, and Antonovics]{Bever1997}
 Bever, J.~D., K.~M. Westover, and J.~Antonovics, 1997.
@@ -157,6 +162,12 @@ Day, N.~J., K.~E. Dunfield, and P.~M. Antunes, 2015.
   communities over 100years of invasion by a non-native plant}.
 \newblock \emph{Journal of Ecology} \textbf{103}:1557--1569.
 
+\bibitem[de~Roos and Persson(2013)]{deRoos2013}
+de~Roos, A.~M. and L.~Persson, 2013.
+\newblock Population and community ecology of ontogenetic development,
+  volume~59.
+\newblock Princeton University Press, Princeton, NJ, USA.
+
 \bibitem[Dell et~al.(2011)Dell, Pawar, and Savage]{Dell2011}
 Dell, A.~I., S.~Pawar, and V.~M. Savage, 2011.
 \newblock Systematic variation in the temperature dependence of physiological
@@ -171,6 +182,14 @@ Dini-Andreote, F., J.~C. Stegen, J.~D. van Elsas, and J.~F. Salles, 2015.
   and deterministic processes in microbial succession.
 \newblock \emph{Proceedings of the National Academy of Sciences of the United
   States of America} \textbf{112}:E1326--E1332.
+
+\bibitem[Duhamel et~al.(2019)Duhamel, Wan, Bogar, Segnitz, Duncritts, and
+  Peay]{Duhamel2019}
+Duhamel, M., J.~Wan, L.~M. Bogar, R.~M. Segnitz, N.~C. Duncritts, and K.~G.
+  Peay, 2019.
+\newblock Plant selection initiates alternative successional trajectories in
+  the soil microbial community after disturbance.
+\newblock \emph{Ecological Monographs} page e01367.
 
 \bibitem[Elton(1927)]{Elton1927}
 Elton, C., 1927.
@@ -199,6 +218,12 @@ Fukami, T. and M.~Nakajima, 2011.
 \newblock Community assembly: alternative stable states or alternative
   transient states?
 \newblock \emph{Ecology Letters} \textbf{14}:973--984.
+
+\bibitem[Fukami and Nakajima(2013)]{Fukami2013}
+Fukami, T. and M.~Nakajima, 2013.
+\newblock {Complex plant-soil interactions enhance plant species diversity by
+  delaying community convergence}.
+\newblock \emph{Journal of Ecology} \textbf{101}:316--324.
 
 \bibitem[Gause(1934)]{Gause1934}
 Gause, G.~F., 1934.
@@ -281,20 +306,32 @@ Inouye, B.~D., 2001.
 Jiang, L. and P.~J. Morin, 2007.
 \newblock {Temperature fluctuation facilitates coexistence of competing species
   in experimental microbial communities.}
-\newblock \emph{Journal of Animal Ecology} \textbf{76}:660--8.
+\newblock \emph{Journal of Animal Ecology} \textbf{76}:660--668.
 
-\bibitem[Kardol et~al.(2013)Kardol, {De Deyn}, Lalibert{\'{e}}, Mariotte, and
-  Hawkes]{Kardol2013}
+\bibitem[Kardol et~al.(2013{a})Kardol, {De Deyn}, Lalibert{\'{e}}, Mariotte,
+  and Hawkes]{Kardol2013}
 Kardol, P., G.~B. {De Deyn}, E.~Lalibert{\'{e}}, P.~Mariotte, and C.~V. Hawkes,
-  2013.
+  2013{a}.
 \newblock {Biotic plant-soil feedbacks across temporal scales}.
 \newblock \emph{Journal of Ecology} \textbf{101}:309--315.
+
+\bibitem[Kardol et~al.(2013{b})Kardol, Souza, and Classen]{Kardol2013Oikos}
+Kardol, P., L.~Souza, and A.~T. Classen, 2013{b}.
+\newblock {Resource availability mediates the importance of priority effects in
+  plant community assembly and ecosystem function}.
+\newblock \emph{Oikos} \textbf{122}:84--94.
 
 \bibitem[Ke and Miki(2015)]{KeMiki2015}
 Ke, P.-J. and T.~Miki, 2015.
 \newblock Incorporating the soil environment and microbial community into plant
   competition theory.
 \newblock \emph{Frontiers in Microbiology} \textbf{6}:1066.
+
+\bibitem[Ke and Nakazawa(2018)]{KeNakazawa2018}
+Ke, P.-J. and T.~Nakazawa, 2018.
+\newblock Ontogenetic antagonism--mutualism coupling: perspectives on
+  resilience of stage-structured communities.
+\newblock \emph{Oikos} \textbf{127}:353--363.
 
 \bibitem[Kleinhesselink and Adler(2015)]{Kleinhesselink2015}
 Kleinhesselink, A.~R. and P.~B. Adler, 2015.
@@ -307,13 +344,26 @@ Kraft, N. J.~B., O.~Godoy, and J.~M. Levine, 2015.
 \newblock {Plant functional traits and the multidimensional nature of species
   coexistence}.
 \newblock \emph{Proceedings of the National Academy of Sciences of the United
-  States of America} page 201413650.
+  States of America} \textbf{112}:797--802.
 
 \bibitem[Kulmatiski(2018)]{Kulmatiski2018}
 Kulmatiski, A., 2018.
 \newblock Community-level plant-soil feedbacks explain landscape distribution
   of native and non-native plants.
 \newblock \emph{Ecology and Evolution} \textbf{8}:2041--2049.
+
+\bibitem[Kulmatiski et~al.(2006)Kulmatiski, Beard, and Stark]{Kulmatiski2006}
+Kulmatiski, A., K.~H. Beard, and J.~M. Stark, 2006.
+\newblock Soil history as a primary control on plant invasion in abandoned
+  agricultural fields.
+\newblock \emph{Journal of Applied Ecology} \textbf{43}:868--876.
+
+\bibitem[Lanuza et~al.(2018)Lanuza, Bartomeus, and Godoy]{Lanuza2018}
+Lanuza, J.~B., I.~Bartomeus, and O.~Godoy, 2018.
+\newblock Opposing effects of floral visitors and soil conditions on the
+  determinants of competitive outcomes maintain species diversity in
+  heterogeneous landscapes.
+\newblock \emph{Ecology Letters} \textbf{21}:865--874.
 
 \bibitem[Leibold(1995)]{Leibold1995}
 Leibold, M.~A., 1995.
@@ -355,6 +405,13 @@ Lepinay, C., Z.~Vondr{\'a}kov{\'a}, T.~Dost{\'a}lek, and
   feedback experiments via soil chemical properties.
 \newblock \emph{Oecologia} \textbf{186}:459--470.
 
+\bibitem[Letten et~al.(2018)Letten, Dhami, Ke, and Fukami]{Letten2018}
+Letten, A.~D., M.~K. Dhami, P.-J. Ke, and T.~Fukami, 2018.
+\newblock Species coexistence through simultaneous fluctuation-dependent
+  mechanisms.
+\newblock \emph{Proceedings of the National Academy of Sciences of the United
+  States of America} \textbf{115}:6745--6750.
+
 \bibitem[Letten et~al.(2017)Letten, Ke, and Fukami]{Letten2017}
 Letten, A.~D., P.-J. Ke, and T.~Fukami, 2017.
 \newblock Linking modern coexistence theory and contemporary niche theory.
@@ -370,8 +427,14 @@ Lewontin, R.~C., 1969.
 \newblock The meaning of stability.
 \newblock In \emph{Brookhaven symposia in biology}, volume~22, page~13.
 
+\bibitem[Li and Chesson(2016)]{LiChesson2016}
+Li, L. and P.~Chesson, 2016.
+\newblock The effects of dynamical rates on species coexistence in a variable
+  environment: the paradox of the plankton revisited.
+\newblock \emph{The American Naturalist} \textbf{188}:E46--E58.
+
 \bibitem[Li et~al.(2016)Li, Cadotte, Meiners, Pu, Fukami, and Jiang]{Li2016}
-Li, S.-p., M.~W. Cadotte, S.~J. Meiners, Z.~Pu, T.~Fukami, and L.~Jiang, 2016.
+Li, S., M.~W. Cadotte, S.~J. Meiners, Z.~Pu, T.~Fukami, and L.~Jiang, 2016.
 \newblock Convergence and divergence in a long-term old-field succession: the
   importance of spatial scale and species abundance.
 \newblock \emph{Ecology Letters} \textbf{19}:1101--1109.
@@ -392,6 +455,13 @@ MacArthur, R. and R.~Levins, 1964.
 MacArthur, R.~H., 1972.
 \newblock Geographical ecology: patterns in the distribution of species.
 \newblock Princeton University Press, Princeton, NJ, USA.
+
+\bibitem[Mariotte et~al.(2018)Mariotte, Mehrabi, Bezemer, De~Deyn, Kulmatiski,
+  Drigo, Veen, van~der Heijden, and Kardol]{Mariotte2018}
+Mariotte, P., Z.~Mehrabi, T.~M. Bezemer, G.~B. De~Deyn, A.~Kulmatiski,
+  B.~Drigo, G.~F.~C. Veen, M.~G.~A. van~der Heijden, and P.~Kardol, 2018.
+\newblock Plant-soil feedback: Bridging natural and agricultural sciences.
+\newblock \emph{Trends in Ecology \& Evolution} \textbf{33}:129--142.
 
 \bibitem[Materna et~al.(2012)Materna, Friedman, Bauer, David, Chen, Huang,
   Gillens, Clarke, Polz, and Alm]{Materna2012}
@@ -416,6 +486,18 @@ McCann, K.~S., 2011.
 \newblock Food webs.
 \newblock Princeton University Press, Princeton, NJ, USA.
 
+\bibitem[Menge et~al.(2012)Menge, Hedin, and Pacala]{Menge2012}
+Menge, D.~N., L.~O. Hedin, and S.~W. Pacala, 2012.
+\newblock Nitrogen and phosphorus limitation over long-term ecosystem
+  development in terrestrial ecosystems.
+\newblock \emph{PLoS One} \textbf{7}:e42045.
+
+\bibitem[Menge et~al.(2008)Menge, Pacala, and Hedin]{Menge2008}
+Menge, D.~N., S.~W. Pacala, and L.~O. Hedin, 2008.
+\newblock Emergence and maintenance of nutrient limitation over multiple
+  timescales in terrestrial ecosystems.
+\newblock \emph{The American Naturalist} \textbf{173}:164--175.
+
 \bibitem[Mesz{\'e}na et~al.(2006)Mesz{\'e}na, Gyllenberg, P{\'a}sztor, and
   Metz]{Meszenaz2006}
 Mesz{\'e}na, G., M.~Gyllenberg, L.~P{\'a}sztor, and J.~A. Metz, 2006.
@@ -426,9 +508,14 @@ Mesz{\'e}na, G., M.~Gyllenberg, L.~P{\'a}sztor, and J.~A. Metz, 2006.
   Mouquet, and Buckley]{miller2005}
 Miller, T.~E., J.~H. Burns, P.~Munguia, E.~L. Walters, J.~M. Kneitel, P.~M.
   Richards, N.~Mouquet, and H.~L. Buckley, 2005.
-\newblock A critical review of twenty years’ use of the resource-ratio
-  theory.
+\newblock A critical review of twenty years' use of the resource-ratio theory.
 \newblock \emph{The American Naturalist} \textbf{165}:439--448.
+
+\bibitem[Miller and Rudolf(2011)]{Miller2011}
+Miller, T.~E. and V.~H. Rudolf, 2011.
+\newblock Thinking inside the box: community-level consequences of
+  stage-structured populations.
+\newblock \emph{Trends in Ecology \& Evolution} \textbf{26}:457--466.
 
 \bibitem[Mordecai(2011)]{Mordecai2011}
 Mordecai, E.~A., 2011.
@@ -441,6 +528,12 @@ Mordecai, E.~A., K.~Gross, and C.~E. Mitchell, 2016.
 \newblock Within-host niche differences and fitness trade-offs promote
   coexistence of plant viruses.
 \newblock \emph{The American Naturalist} \textbf{187}:E13--E26.
+
+\bibitem[Nakazawa(2015)]{Nakazawa2015}
+Nakazawa, T., 2015.
+\newblock Ontogenetic niche shifts matter in community ecology: a review and
+  future perspectives.
+\newblock \emph{Population Ecology} \textbf{57}:347--354.
 
 \bibitem[Narwani et~al.(2013)Narwani, Alexandrou, Oakley, Carroll, and
   Cardinale]{Narwani2013}
@@ -459,7 +552,13 @@ Passarge, J., S.~Hol, M.~Escher, and J.~Huisman, 2006.
 \bibitem[Pauw(2013)]{Pauw2013}
 Pauw, A., 2013.
 \newblock Can pollination niches facilitate plant coexistence?
-\newblock \emph{Trends in ecology \& evolution} \textbf{28}:30--37.
+\newblock \emph{Trends in Ecology \& Evolution} \textbf{28}:30--37.
+
+\bibitem[Peay(2018)]{Peay2018}
+Peay, K.~G., 2018.
+\newblock Timing of mutualist arrival has a greater effect on pinus muricata
+  seedling growth than interspecific competition.
+\newblock \emph{Journal of Ecology} \textbf{106}:514--523.
 
 \bibitem[Petraitis(2013)]{Petraitis2013}
 Petraitis, P., 2013.
@@ -475,7 +574,7 @@ Petraitis, P.~S., 1989.
 \bibitem[Pfennig and Pfennig(2012)]{pfennig2012}
 Pfennig, D.~W. and K.~S. Pfennig, 2012.
 \newblock Evolution's wedge: competition and the origins of diversity.
-\newblock Number~12. Univ of California Press.
+\newblock Univ of California Press.
 
 \bibitem[Pianka(1973)]{Pianka1973}
 Pianka, E.~R., 1973.
@@ -485,9 +584,14 @@ Pianka, E.~R., 1973.
 \bibitem[Rall et~al.(2010)Rall, Vucic-Pestic, Ehnes, Emmerson, and
   Brose]{Rall2010}
 Rall, B.~C., O.~Vucic-Pestic, R.~B. Ehnes, M.~Emmerson, and U.~Brose, 2010.
-\newblock Temperature, predator–prey interaction strength and population
+\newblock Temperature, predator-prey interaction strength and population
   stability.
 \newblock \emph{Global Change Biology} \textbf{16}:2145--2157.
+
+\bibitem[Rinaldi and Scheffer(2000)]{Rinaldi2000}
+Rinaldi, S. and M.~Scheffer, 2000.
+\newblock Geometric analysis of ecological models with slow and fast processes.
+\newblock \emph{Ecosystems} \textbf{3}:507--521.
 
 \bibitem[Rothhaupt(1988)]{Rothhaupt1988}
 Rothhaupt, K.~O., 1988.
@@ -513,7 +617,7 @@ Sears, A. L.~W. and P.~Chesson, 2007.
 Siepielski, A.~M., A.~N. Mertens, B.~L. Wilkinson, and M.~A. McPeek, 2011.
 \newblock {Signature of ecological partitioning in the maintenance of damselfly
   diversity.}
-\newblock \emph{Journal of Animal Ecology} \textbf{80}:1163--73.
+\newblock \emph{Journal of Animal Ecology} \textbf{80}:1163--1173.
 
 \bibitem[Slatkin(1974)]{Slatkin1974}
 Slatkin, M., 1974.
@@ -523,7 +627,7 @@ Slatkin, M., 1974.
 \bibitem[Soetaert et~al.(2016)Soetaert, Petzoldt, Setzer, and
   Petzoldt]{soetaert2016package}
 Soetaert, K., T.~Petzoldt, R.~W. Setzer, and M.~T. Petzoldt, 2016.
-\newblock Package ‘desolve’ .
+\newblock Package `desolve' .
 
 \bibitem[Speek et~al.(2015)Speek, Schamin{\'e}e, Stam, Lotz, Ozinga, and
   van~der Putten]{Speek2015}
@@ -531,7 +635,7 @@ Speek, T.~A., J.~H. Schamin{\'e}e, J.~M. Stam, L.~A. Lotz, W.~A. Ozinga, and
   W.~H. van~der Putten, 2015.
 \newblock Local dominance of exotic plants declines with residence time: a role
   for plant-soil feedback?
-\newblock \emph{AoB PLANTS} \textbf{7}:plv021.
+\newblock \emph{AoB Plants} \textbf{7}:plv021.
 
 \bibitem[Tilman(1977)]{Tilman1977}
 Tilman, D., 1977.
@@ -541,7 +645,7 @@ Tilman, D., 1977.
 
 \bibitem[Tilman(1982)]{tilman1982}
 Tilman, D., 1982.
-\newblock Resource Competition and Community Structure. (Mpb-17).
+\newblock Resource Competition and Community Structure.
 \newblock Princeton University Press, Princeton, NJ, USA.
 
 \bibitem[Tucker and Fukami(2014)]{Tucker2014}
@@ -588,6 +692,12 @@ Vucic-Pestic, O., R.~B. Ehnes, B.~C. Rall, and U.~Brose, 2011.
 \newblock Warming up the system: higher predator feeding rates but lower
   energetic efficiencies.
 \newblock \emph{Global Change Biology} \textbf{17}:1301--1310.
+
+\bibitem[Yang and Rudolf(2010)]{Yang2010}
+Yang, L.~H. and V.~Rudolf, 2010.
+\newblock Phenology, ontogeny and the effects of climate change on the timing
+  of species interactions.
+\newblock \emph{Ecology letters} \textbf{13}:1--10.
 
 \bibitem[Zhao et~al.(2016)Zhao, Zhang, and Zhang]{Zhao2015}
 Zhao, L., Q.-G. Zhang, and D.-Y. Zhang, 2016.
