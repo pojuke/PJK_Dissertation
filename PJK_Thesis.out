@@ -1,42 +1,43 @@
-\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
-\BOOKMARK [1][-]{section.1.1}{General introduction}{chapter.1}% 2
-\BOOKMARK [1][-]{section.1.2}{Overview}{chapter.1}% 3
-\BOOKMARK [1][-]{section.1.3}{Overall conclusion and future perspectives}{chapter.1}% 4
-\BOOKMARK [1][-]{section.1.4}{Author Contributions}{chapter.1}% 5
-\BOOKMARK [0][-]{chapter.2}{Linking modern coexistence theory and contemporary niche theory}{}% 6
-\BOOKMARK [1][-]{section.2.1}{Abstract}{chapter.2}% 7
-\BOOKMARK [1][-]{section.2.2}{Introduction}{chapter.2}% 8
-\BOOKMARK [1][-]{section.2.3}{Modern coexistence theory and the niche}{chapter.2}% 9
-\BOOKMARK [1][-]{section.2.4}{Coexistence and contemporary niche theory}{chapter.2}% 10
-\BOOKMARK [1][-]{section.2.5}{Disentangling definitions of niche overlap}{chapter.2}% 11
-\BOOKMARK [1][-]{section.2.6}{Translating impacts and requirements into stabilizing and equalizing processes}{chapter.2}% 12
-\BOOKMARK [2][-]{subsection.2.6.1}{Resource ratios}{section.2.6}% 13
-\BOOKMARK [2][-]{subsection.2.6.2}{Impact niche overlap}{section.2.6}% 14
-\BOOKMARK [2][-]{subsection.2.6.3}{Requirement niche overlap}{section.2.6}% 15
-\BOOKMARK [1][-]{section.2.7}{The empiricist's dilemma: which framework?}{chapter.2}% 16
-\BOOKMARK [1][-]{section.2.8}{Future directions}{chapter.2}% 17
-\BOOKMARK [1][-]{section.2.9}{Conclusions}{chapter.2}% 18
-\BOOKMARK [1][-]{section.2.10}{Acknowledgements}{chapter.2}% 19
-\BOOKMARK [1][-]{section.2.11}{Figures}{chapter.2}% 20
-\BOOKMARK [0][-]{chapter.3}{Coexistence theory and the frequency-dependence of priority effects}{}% 21
-\BOOKMARK [1][-]{section.3.1}{Abstract}{chapter.3}% 22
-\BOOKMARK [1][-]{section.3.2}{Main text}{chapter.3}% 23
-\BOOKMARK [1][-]{section.3.3}{Methods}{chapter.3}% 24
-\BOOKMARK [2][-]{subsection.3.3.1}{Positive frequency dependence in an equilibrium system}{section.3.3}% 25
-\BOOKMARK [2][-]{subsection.3.3.2}{Positive frequency dependence in an non-equilibrium system}{section.3.3}% 26
-\BOOKMARK [1][-]{section.3.4}{Acknowledgements}{chapter.3}% 27
-\BOOKMARK [1][-]{section.3.5}{Figures}{chapter.3}% 28
-\BOOKMARK [0][-]{appendix.A}{Linking modern coexistence theory and contemporary niche theory: Appendices S1\205S5}{}% 29
-\BOOKMARK [1][-]{section.A.1}{Appendix S1}{appendix.A}% 30
-\BOOKMARK [2][-]{subsection.A.1.1}{Mathematical derivation of Chesson's niche overlap and fitness differences for two consumers competing for two substitutable resources}{section.A.1}% 31
-\BOOKMARK [2][-]{subsection.A.1.2}{Mathematical derivation of Chesson's niche overlap and fitness differences for two consumers competing for two essential resources}{section.A.1}% 32
-\BOOKMARK [1][-]{section.A.2}{Appendix S2}{appendix.A}% 33
-\BOOKMARK [2][-]{subsection.A.2.1}{Analytical form and positivity criteria of EN1*}{section.A.2}% 34
-\BOOKMARK [2][-]{subsection.A.2.2}{Analytical form and positivity criteria of EN2*}{section.A.2}% 35
-\BOOKMARK [1][-]{section.A.3}{Appendix S3}{appendix.A}% 36
-\BOOKMARK [1][-]{section.A.4}{Appendix S4}{appendix.A}% 37
-\BOOKMARK [1][-]{section.A.5}{Appendix S5}{appendix.A}% 38
-\BOOKMARK [0][-]{appendix.B}{Coexistence theory and the frequency-dependence of priority effects: Appendix S1}{}% 39
-\BOOKMARK [1][-]{section.B.1}{Appendix S1}{appendix.B}% 40
-\BOOKMARK [2][-]{subsection.B.1.1}{Positive frequency dependence in an equilibrium system}{section.B.1}% 41
-\BOOKMARK [2][-]{subsection.B.1.2}{Positive frequency dependence in an non-equilibrium system}{section.B.1}% 42
+\BOOKMARK [0][-]{chapter*.1}{Abstract}{}% 1
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 2
+\BOOKMARK [1][-]{section.1.1}{General introduction}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.2}{Overview}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.3}{Overall conclusion and future perspectives}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.4}{Author Contributions}{chapter.1}% 6
+\BOOKMARK [0][-]{chapter.2}{Linking modern coexistence theory and contemporary niche theory}{}% 7
+\BOOKMARK [1][-]{section.2.1}{Abstract}{chapter.2}% 8
+\BOOKMARK [1][-]{section.2.2}{Introduction}{chapter.2}% 9
+\BOOKMARK [1][-]{section.2.3}{Modern coexistence theory and the niche}{chapter.2}% 10
+\BOOKMARK [1][-]{section.2.4}{Coexistence and contemporary niche theory}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.5}{Disentangling definitions of niche overlap}{chapter.2}% 12
+\BOOKMARK [1][-]{section.2.6}{Translating impacts and requirements into stabilizing and equalizing processes}{chapter.2}% 13
+\BOOKMARK [2][-]{subsection.2.6.1}{Resource ratios}{section.2.6}% 14
+\BOOKMARK [2][-]{subsection.2.6.2}{Impact niche overlap}{section.2.6}% 15
+\BOOKMARK [2][-]{subsection.2.6.3}{Requirement niche overlap}{section.2.6}% 16
+\BOOKMARK [1][-]{section.2.7}{The empiricist's dilemma: which framework?}{chapter.2}% 17
+\BOOKMARK [1][-]{section.2.8}{Future directions}{chapter.2}% 18
+\BOOKMARK [1][-]{section.2.9}{Conclusions}{chapter.2}% 19
+\BOOKMARK [1][-]{section.2.10}{Acknowledgements}{chapter.2}% 20
+\BOOKMARK [1][-]{section.2.11}{Figures}{chapter.2}% 21
+\BOOKMARK [0][-]{chapter.3}{Coexistence theory and the frequency-dependence of priority effects}{}% 22
+\BOOKMARK [1][-]{section.3.1}{Abstract}{chapter.3}% 23
+\BOOKMARK [1][-]{section.3.2}{Main text}{chapter.3}% 24
+\BOOKMARK [1][-]{section.3.3}{Methods}{chapter.3}% 25
+\BOOKMARK [2][-]{subsection.3.3.1}{Positive frequency dependence in an equilibrium system}{section.3.3}% 26
+\BOOKMARK [2][-]{subsection.3.3.2}{Positive frequency dependence in an non-equilibrium system}{section.3.3}% 27
+\BOOKMARK [1][-]{section.3.4}{Acknowledgements}{chapter.3}% 28
+\BOOKMARK [1][-]{section.3.5}{Figures}{chapter.3}% 29
+\BOOKMARK [0][-]{appendix.A}{Linking modern coexistence theory and contemporary niche theory: Appendices S1\205S5}{}% 30
+\BOOKMARK [1][-]{section.A.1}{Appendix S1}{appendix.A}% 31
+\BOOKMARK [2][-]{subsection.A.1.1}{Mathematical derivation of Chesson's niche overlap and fitness differences for two consumers competing for two substitutable resources}{section.A.1}% 32
+\BOOKMARK [2][-]{subsection.A.1.2}{Mathematical derivation of Chesson's niche overlap and fitness differences for two consumers competing for two essential resources}{section.A.1}% 33
+\BOOKMARK [1][-]{section.A.2}{Appendix S2}{appendix.A}% 34
+\BOOKMARK [2][-]{subsection.A.2.1}{Analytical form and positivity criteria of EN1*}{section.A.2}% 35
+\BOOKMARK [2][-]{subsection.A.2.2}{Analytical form and positivity criteria of EN2*}{section.A.2}% 36
+\BOOKMARK [1][-]{section.A.3}{Appendix S3}{appendix.A}% 37
+\BOOKMARK [1][-]{section.A.4}{Appendix S4}{appendix.A}% 38
+\BOOKMARK [1][-]{section.A.5}{Appendix S5}{appendix.A}% 39
+\BOOKMARK [0][-]{appendix.B}{Coexistence theory and the frequency-dependence of priority effects: Appendix S1}{}% 40
+\BOOKMARK [1][-]{section.B.1}{Appendix S1}{appendix.B}% 41
+\BOOKMARK [2][-]{subsection.B.1.1}{Positive frequency dependence in an equilibrium system}{section.B.1}% 42
+\BOOKMARK [2][-]{subsection.B.1.2}{Positive frequency dependence in an non-equilibrium system}{section.B.1}% 43

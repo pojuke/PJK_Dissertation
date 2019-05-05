@@ -49,7 +49,7 @@
 \usepackage{sidecap}
 %\usepackage{floatrow}
 \usepackage{etoolbox}
-\usepackage{tcolorbox}
+\usepackage[many]{tcolorbox}
 \usepackage{newpxtext, newpxmath}
 \tcbuselibrary{breakable}
 %\usepackage{indentfirst}
@@ -66,6 +66,23 @@
 \usepackage{tabularx}
 \usepackage{comment}
 \usepackage{fancyhdr}
+
+% Super nice code adding numbers to the text boxes
+\newtcolorbox[auto counter, number within=chapter, list inside=infobox]{infobox}[2][]{
+	breakable,
+	parbox=false,
+	colback=white,
+	colbacktitle=white,
+	coltitle=black,
+	toptitle=2mm,
+	bottomtitle=2mm,
+	fonttitle=\bfseries,
+	width=\textwidth,
+	boxrule=0.6pt,
+	title=#1,
+	label=\thetcbcounter 
+}
+\newcommand\listboxname{List of Boxes}
 
 
 %% Uncomment the following and create mythesis-macros.sty for all your own macros.  This keeps this top level file looking fairly neat
@@ -101,7 +118,7 @@
 
 
 %% Abstract Section. Keep the following line in this file to include Abstract.tex
-% \include{Preface/Abstract}
+\include{Preface/Abstract}
 
 
 %% Other preface sections. The last preface section is the acknowledgement.tex

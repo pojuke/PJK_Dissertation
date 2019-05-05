@@ -1,3 +1,4 @@
+\contentsline {chapter}{Abstract}{v}{chapter*.1}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}General introduction}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}Overview}{2}{section.1.2}
@@ -18,25 +19,25 @@
 \contentsline {section}{\numberline {2.9}Conclusions}{33}{section.2.9}
 \contentsline {section}{\numberline {2.10}Acknowledgements}{34}{section.2.10}
 \contentsline {section}{\numberline {2.11}Figures}{35}{section.2.11}
-\contentsline {chapter}{\numberline {3}Coexistence theory and the frequency-dependence of priority effects}{45}{chapter.3}
-\contentsline {section}{\numberline {3.1}Abstract}{45}{section.3.1}
-\contentsline {section}{\numberline {3.2}Main text}{45}{section.3.2}
-\contentsline {section}{\numberline {3.3}Methods}{51}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Positive frequency dependence in an equilibrium system}{51}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Positive frequency dependence in an non-equilibrium system}{53}{subsection.3.3.2}
-\contentsline {section}{\numberline {3.4}Acknowledgements}{54}{section.3.4}
-\contentsline {section}{\numberline {3.5}Figures}{55}{section.3.5}
-\contentsline {chapter}{\numberline {A}Linking modern coexistence theory and contemporary niche theory: Appendices S1--S5}{60}{appendix.A}
-\contentsline {section}{\numberline {A.1}Appendix S1}{60}{section.A.1}
-\contentsline {subsection}{\numberline {A.1.1}Mathematical derivation of Chesson's niche overlap and fitness differences for two consumers competing for two substitutable resources}{61}{subsection.A.1.1}
-\contentsline {subsection}{\numberline {A.1.2}Mathematical derivation of Chesson's niche overlap and fitness differences for two consumers competing for two essential resources}{64}{subsection.A.1.2}
-\contentsline {section}{\numberline {A.2}Appendix S2}{68}{section.A.2}
-\contentsline {subsection}{\numberline {A.2.1}Analytical form and positivity criteria of $E_{N1}^{*}$}{68}{subsection.A.2.1}
-\contentsline {subsection}{\numberline {A.2.2}Analytical form and positivity criteria of $E_{N2}^{*}$}{70}{subsection.A.2.2}
-\contentsline {section}{\numberline {A.3}Appendix S3}{71}{section.A.3}
-\contentsline {section}{\numberline {A.4}Appendix S4}{72}{section.A.4}
-\contentsline {section}{\numberline {A.5}Appendix S5}{74}{section.A.5}
-\contentsline {chapter}{\numberline {B}Coexistence theory and the frequency-dependence of priority effects: Appendix S1}{75}{appendix.B}
-\contentsline {section}{\numberline {B.1}Appendix S1}{75}{section.B.1}
-\contentsline {subsection}{\numberline {B.1.1}Positive frequency dependence in an equilibrium system}{75}{subsection.B.1.1}
-\contentsline {subsection}{\numberline {B.1.2}Positive frequency dependence in an non-equilibrium system}{78}{subsection.B.1.2}
+\contentsline {chapter}{\numberline {3}Coexistence theory and the frequency-dependence of priority effects}{46}{chapter.3}
+\contentsline {section}{\numberline {3.1}Abstract}{46}{section.3.1}
+\contentsline {section}{\numberline {3.2}Main text}{46}{section.3.2}
+\contentsline {section}{\numberline {3.3}Methods}{52}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Positive frequency dependence in an equilibrium system}{52}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Positive frequency dependence in an non-equilibrium system}{54}{subsection.3.3.2}
+\contentsline {section}{\numberline {3.4}Acknowledgements}{55}{section.3.4}
+\contentsline {section}{\numberline {3.5}Figures}{56}{section.3.5}
+\contentsline {chapter}{\numberline {A}Linking modern coexistence theory and contemporary niche theory: Appendices S1--S5}{61}{appendix.A}
+\contentsline {section}{\numberline {A.1}Appendix S1}{61}{section.A.1}
+\contentsline {subsection}{\numberline {A.1.1}Mathematical derivation of Chesson's niche overlap and fitness differences for two consumers competing for two substitutable resources}{62}{subsection.A.1.1}
+\contentsline {subsection}{\numberline {A.1.2}Mathematical derivation of Chesson's niche overlap and fitness differences for two consumers competing for two essential resources}{65}{subsection.A.1.2}
+\contentsline {section}{\numberline {A.2}Appendix S2}{69}{section.A.2}
+\contentsline {subsection}{\numberline {A.2.1}Analytical form and positivity criteria of $E_{N1}^{*}$}{69}{subsection.A.2.1}
+\contentsline {subsection}{\numberline {A.2.2}Analytical form and positivity criteria of $E_{N2}^{*}$}{71}{subsection.A.2.2}
+\contentsline {section}{\numberline {A.3}Appendix S3}{72}{section.A.3}
+\contentsline {section}{\numberline {A.4}Appendix S4}{73}{section.A.4}
+\contentsline {section}{\numberline {A.5}Appendix S5}{75}{section.A.5}
+\contentsline {chapter}{\numberline {B}Coexistence theory and the frequency-dependence of priority effects: Appendix S1}{76}{appendix.B}
+\contentsline {section}{\numberline {B.1}Appendix S1}{76}{section.B.1}
+\contentsline {subsection}{\numberline {B.1.1}Positive frequency dependence in an equilibrium system}{76}{subsection.B.1.1}
+\contentsline {subsection}{\numberline {B.1.2}Positive frequency dependence in an non-equilibrium system}{79}{subsection.B.1.2}
