@@ -7,6 +7,7 @@ A level-1 auxiliary file: Chapter2/Chapter2.aux
 A level-1 auxiliary file: Chapter3/Chapter3.aux
 A level-1 auxiliary file: Chapter2/Chapter2Appendix.aux
 A level-1 auxiliary file: Chapter3/Chapter3Appendix.aux
+A level-1 auxiliary file: Chapter6/Chapter6Appendix.aux
 The style file: ecol-mono.bst
 Database file #1: ThesisBibliography.bib
 Repeated entry---line 2213 of file ThesisBibliography.bib
@@ -59,45 +60,45 @@ Repeated entry---line 11200 of file ThesisBibliography.bib
 I'm skipping whatever remains of this entry
 Warning--can't use both volume and number fields in Hubbell2001
 Warning--empty journal in soetaert2016package
-You've used 116 entries,
+You've used 133 entries,
             2712 wiz_defined-function locations,
-            1362 strings with 25155 characters,
-and the built_in function-call counts, 57932 in all, are:
-= -- 5400
-> -- 3324
-< -- 81
-+ -- 1115
-- -- 979
-* -- 5159
-:= -- 10464
-add.period$ -- 349
-call.type$ -- 116
-change.case$ -- 897
-chr.to.int$ -- 114
-cite$ -- 118
-duplicate$ -- 2265
-empty$ -- 3695
-format.name$ -- 1151
-if$ -- 11256
+            1469 strings with 29112 characters,
+and the built_in function-call counts, 67923 in all, are:
+= -- 6233
+> -- 4146
+< -- 86
++ -- 1384
+- -- 1231
+* -- 6164
+:= -- 12308
+add.period$ -- 400
+call.type$ -- 133
+change.case$ -- 1065
+chr.to.int$ -- 131
+cite$ -- 135
+duplicate$ -- 2585
+empty$ -- 4223
+format.name$ -- 1428
+if$ -- 13166
 int.to.chr$ -- 3
 int.to.str$ -- 1
-missing$ -- 129
-newline$ -- 582
-num.names$ -- 468
-pop$ -- 653
+missing$ -- 145
+newline$ -- 667
+num.names$ -- 536
+pop$ -- 773
 preamble$ -- 1
-purify$ -- 788
+purify$ -- 940
 quote$ -- 0
-skip$ -- 1474
+skip$ -- 1669
 stack$ -- 0
-substring$ -- 3827
-swap$ -- 467
+substring$ -- 4336
+swap$ -- 536
 text.length$ -- 13
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1005
+type$ -- 1158
 warning$ -- 2
-while$ -- 534
+while$ -- 602
 width$ -- 0
-write$ -- 1502
+write$ -- 1723
 (There were 12 error messages)

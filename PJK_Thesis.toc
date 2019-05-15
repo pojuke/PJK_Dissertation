@@ -41,3 +41,17 @@
 \contentsline {section}{\numberline {B.1}Appendix S1}{76}{section.B.1}
 \contentsline {subsection}{\numberline {B.1.1}Positive frequency dependence in an equilibrium system}{76}{subsection.B.1.1}
 \contentsline {subsection}{\numberline {B.1.2}Positive frequency dependence in an non-equilibrium system}{79}{subsection.B.1.2}
+\contentsline {chapter}{\numberline {C}Effects of soil microbes on plant competition: a perspective from modern coexistence theory: Appendices S1 -- S4}{81}{appendix.C}
+\contentsline {section}{\numberline {C.1}Appendix S1 -- Deriving the general plant--soil microbe interaction model from other candidate models}{81}{section.C.1}
+\contentsline {section}{\numberline {C.2}Appendix S2 -- Separating stabilizing and equalizing components}{81}{section.C.2}
+\contentsline {section}{\numberline {C.3}Appendix S3 -- Invasion analysis for the plant--soil microbe interaction model}{81}{section.C.3}
+\contentsline {section}{\numberline {C.4}Appendix S4 -- Supplementary Tables and Figures}{81}{section.C.4}
+\contentsline {chapter}{\numberline {D}Testing chronosequence predictions with longitudinal data reveals microbial community convergence: Appendix S1}{82}{appendix.D}
+\contentsline {section}{\numberline {D.1}Appendix S1}{82}{section.D.1}
+\contentsline {chapter}{\numberline {E}Dynamic plant--soil microbe interactions: the neglected effect of soil conditioning time: Appendices S1--S2}{84}{appendix.E}
+\contentsline {section}{\numberline {E.1}Appendix S1 -- Detailed methods}{84}{section.E.1}
+\contentsline {subsection}{\numberline {E.1.1}DNA sequencing of fungal and bacterial communities}{84}{subsection.E.1.1}
+\contentsline {subsection}{\numberline {E.1.2}Statistical analysis of microbial communities}{86}{subsection.E.1.2}
+\contentsline {subsection}{\numberline {E.1.3}Greenhouse experiment}{87}{subsection.E.1.3}
+\contentsline {subsection}{\numberline {E.1.4}Simulation model}{89}{subsection.E.1.4}
+\contentsline {section}{\numberline {E.2}Appendix S2 -- Supplementary Figures}{94}{section.E.2}
