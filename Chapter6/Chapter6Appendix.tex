@@ -10,70 +10,111 @@
 
 
 \begin{comment}
-\documentclass[hidelinks,12pt]{article}
-\usepackage{graphicx,bm, booktabs,lineno,array}
+\documentclass[hidelinks,letterpaper, 11pt]{article}
+\usepackage{graphicx, bm, booktabs, lineno, array}
 \usepackage[fleqn]{amsmath}
-\setlength{\mathindent}{0pt}
-\usepackage[super,comma,numbers, compress]{natbib}
-\usepackage[a4paper]{geometry}
+\usepackage{nicefrac}
+\usepackage[compress,comma]{natbib}
+\usepackage[right=1in, left=1in, top=1in, bottom=1in]{geometry}
 \usepackage[parfill]{parskip}
 \usepackage[usenames,dvipsnames]{color}
-\usepackage[font=footnotesize,labelfont=bf,margin=1cm, labelsep = none]{caption} 
+\usepackage[font=large,labelfont=bf,margin=1cm, labelsep = none]{caption} % caption formatting
 \usepackage{setspace}
 \usepackage{gensymb}
-\usepackage{color} 
+\usepackage{color}
 \usepackage{sidecap}
-\usepackage{epigraph}
-\usepackage{float}
-\usepackage{soul,xcolor}
-\setstcolor{red}
-\setlength\epigraphwidth{12cm}
-\setlength\epigraphrule{0pt}
+%\usepackage{floatrow}
 \usepackage{etoolbox}
 \usepackage{tcolorbox}
+\usepackage{newpxtext,newpxmath}
 \tcbuselibrary{breakable}
-\usepackage[bottom, symbol]{footmisc}
+%\usepackage{indentfirst}
+\newbool{MyRefNumbers}
 \usepackage{authblk}
 \usepackage{hyperref}
-\usepackage[color=cyan]{todonotes}
-\pdfminorversion=3
-\doublespacing
+\usepackage{mathpazo}
+\usepackage[color=cyan, textsize=tiny]{todonotes}
+\usepackage[font={normalsize}]{caption}
+\usepackage{adjustbox}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{tabularx}
+% \usepackage{titling}
 
-\renewcommand{\epigraphflush}{center}
-\renewcommand{\sourceflush}{flushleft}
-\newcommand{\plus}{\raisebox{.4\height}{\scalebox{.6}{+}}}
-\newcommand{\minus}{\raisebox{.4\height}{\scalebox{.8}{-}}}
-\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+\setlength{\mathindent}{0pt}
+\setlength{\parindent}{1cm}
+% \makeatletter
+% \makeatother
+\pdfminorversion=3
+
+% For table
+\newenvironment{myindentpar}[1]%
+{\begin{list}{}%
+		{\setlength{\leftmargin}{#1}}%
+		\item[]%
+	}
+	{\end{list}}
 \newcommand*\samethanks[1][\value{footnote}]{\footnotemark[#1]}
 \newcommand\blfootnote[1]{%
-\begingroup
-\renewcommand\thefootnote{}\footnote{#1}%
-\addtocounter{footnote}{-1}%
-\endgroup
+	\begingroup
+	\renewcommand\thefootnote{}\footnote{#1}%
+	\addtocounter{footnote}{-1}%
+	\endgroup
 }
+\newcommand{\plus}{\raisebox{.4\height}{\scalebox{.6}{+}}}
+\newcommand{\minus}{\raisebox{.4\height}{\scalebox{.8}{-}}}
+% Command to recount supplement
+\newcommand{\beginsupplement}{%
+	\setcounter{table}{0}
+	\renewcommand{\thetable}{S\arabic{table}}%
+	\setcounter{figure}{0}
+	\renewcommand{\thefigure}{S\arabic{figure}}%
+}
+% Command to center oversized images in floats
+\newcommand{\centerfloat}{%
+	\parindent \z@
+	\leftskip \z@ \@plus 1fil \@minus \textwidth
+	\rightskip\leftskip
+	\parfillskip \z@skip}
+\renewcommand\Affilfont{\fontsize{12}{12}\selectfont}
+\newcommand{\ignore}[2]{\hspace{0in}#2}
 \end{comment}
 
 
 
 \begin{comment}
-\title{Coexistence theory and the frequency-dependence of priority effects}
-\author[1]{Po-Ju Ke \thanks{Both authors contributed equally.}}
-\author[1,2,3]{Andrew D. Letten \samethanks}
-\affil[1]{Department of Biology, Stanford University, Stanford, California, 94305-5020, USA}
-\affil[2]{Centre for Integrative Ecology, University of Canterbury, Christchurch, New Zealand}
-\affil[3]{Institute of Integrative Biology, Department of Environmental Systems Science, ETH Z{\"u}rich, 8092 Z{\"u}rich, Switzerland}
-
 \begin{document}
 
-\date{}
+\doublespacing
+\title{Dynamic plant--soil microbe interactions: \\ the neglected effect of soil conditioning time}
+\author[1, $\dagger$]{Po-Ju Ke}
+\author[2]{Peter C. Zee}
+\author[1, $\dagger$]{Tadashi Fukami}
+\affil[1]{Department of Biology, Stanford University, Stanford, California, 94305, USA}
+\affil[2]{Department of Biology, University of Mississippi, University, Mississippi, 38677, USA}
+\date{\today}
 \maketitle
-\blfootnote{Correspondence email: pojuke@stanford.edu, andrew.letten@usys.ethz.ch}
-%\textbf{Running title:} PFD
-%\textbf{Keywords:} No key words for Forum 
-\textbf{Type of article:} Brief Communication\\
-\textbf{Number of words:} 1847 [main text] \\
-\textbf{References:} 17\\
-\textbf{Display items:} 3\\
+\blfootnote{$\dagger$ Correspondence author: Department of Biology, Stanford University, Stanford, California 94305-5020, USA. Phone: +1 650-721-1711. Fax: +1 650-723-6132. Email: pojuke@stanford.edu, fukamit@stanford.edu}
+	
+\onehalfspacing
+\noindent \textbf{Running title:} Temporal development of plant--soil feedback\\
+\noindent \textbf{Keywords:} aerial photos, chronosequence, microbial community, plant--soil feedback, sand dunes, space-for-time substitution\\
+\noindent \textbf{Type of article:} Letter\\
+	
+\begin{myindentpar}{1cm}
+	\textbf{Words in Abstract:} 150\\
+	\textbf{Words in main text:} $\sim$ 4000\\
+	\textbf{Number of references:} 63\\
+	\textbf{Number of figures:} 5\\
+\end{myindentpar}
+	
+\noindent \textbf{Authorship statement:} PJK and TF conceived the study; PJK conducted the study and analyzed the data; PJK and PCZ developed the model and performed the simulation; PJK wrote the first draft of the manuscript with substantial contribution from all authors.\\
+	
+\noindent \textbf{Data accessibility statement:} Should the manuscript be accepted, all data and computer scripts supporting the results will be archived in a public Github repository, with the DOI included at the end of the article.\\
+
+\linenumbers
+\doublespacing
 \end{comment}
 
 
@@ -154,7 +195,7 @@ We assembled communities by following these rules of immigration, reproduction, 
 
 \subsubsection*{Age-dependent plant--soil interactions}
 The value of $S_{ij}^{\tau}$ captures the direction and strength of soil microbial legacy effects that an individual of species $j$, which died at the age of $\tau$, imposes on species $i$. A value of 1 indicates no microbial effects as it does not modify the competitiveness of species $i$. A value greater than 1 indicates positive microbial effects (e.g., facilitation through beneficial microbes), whereas a value less than 1 indicates negative microbial effects (e.g., antagonism through detrimental pathogens). Following \citet{Fukami2013}, we considered four types of plant--soil microbe interactions: 
-(1) `no interactions', where $S_{ij}^{1}$ (i.e., the initial microbial effect generated by an individual that only survived for one year) is 1 for all pairs of species $i$ and $j$; 
+(1) `no interactions', where $S_{ij}^{1}$ (i.e., the baseline microbial effect generated by an individual that only survived for one year) is 1 for all pairs of species $i$ and $j$; 
 (2) `positive conspecific interactions', where $S_{ij}^{1}$ is chosen randomly from a uniform distribution $U\left ( 1.0, 1.5 \right )$ when $i = j$ but equals 1 when $i \neq j$; 
 (3) `negative conspecific interactions', where $S_{ij}^{1}$ is chosen randomly from $U\left ( 0.5, 1.0 \right )$ when $i = j$ but equals 1 when $i \neq j$; 
 (4) `complex plant--soil microbe interactions', where $S_{ij}^{1}$ is chosen randomly from $U\left ( 0.5, 1.0 \right )$ when $i = j$ and from $U\left ( 0.5, 1.5 \right )$ when $i \neq j$ (i.e., conspecific interactions are negative whereas heterospecific ones can be either positive or negative).
@@ -162,9 +203,9 @@ The value of $S_{ij}^{\tau}$ captures the direction and strength of soil microbi
 
 
 To incorporate age-dependent plant--soil microbe interactions, we considered four temporal development scenarios of $S_{ij}^{\tau}$: 
-(1) `constant', where the microbial effect remains at its initial $S_{ij}^{1}$ value and is independent to the age-at-death, $\tau$, of the individual of species $j$; 
-(2) `magnifying', where positive and negative microbial effects intensify in their strengths with greater age-at-death of the individual of species $j$ (i.e., $S_{ij}^{\tau}$ start from its initial $S_{ij}^{1}$ value and intensify towards its biological extremes, 1.5 and 0.5 for positive and negative microbial effects, respectively, with increasing $\tau$); 
-(3) `decaying', where positive and negative microbial effects attenuate with greater age-at-death of the individual of species $j$ (i.e., $S_{ij}^{\tau}$ start from its initial $S_{ij}^{1}$ value and decay towards 1 with increasing $\tau$); 
+(1) `constant', where the microbial effect remains at its baseline $S_{ij}^{1}$ value and is independent to the age-at-death, $\tau$, of the individual of species $j$; 
+(2) `magnifying', where positive and negative microbial effects intensify in their strengths with greater age-at-death of the individual of species $j$ (i.e., $S_{ij}^{\tau}$ start from its baseline $S_{ij}^{1}$ value and intensify towards its biological extremes, 1.5 and 0.5 for positive and negative microbial effects, respectively, with increasing $\tau$); 
+(3) `decaying', where positive and negative microbial effects attenuate with greater age-at-death of the individual of species $j$ (i.e., $S_{ij}^{\tau}$ start from its baseline $S_{ij}^{1}$ value and decay towards 1 with increasing $\tau$); 
 (4) `bidirectionally varying', where $S_{ij}^{1}$ has equal probability to either intensify (towards biological extremes) or attenuate (towards no feedback) with increasing $\tau$.
 For scenarios (2)--(4), we assumed that changes in $S_{ij}^{\tau}$ follow a linear function and set the rate of change to 0.1 per year. 
 A schematic description of microbial effects varying through time is given in Fig.~\ref{fig:SimulationComplexPSF}.
@@ -173,7 +214,7 @@ A schematic description of microbial effects varying through time is given in Fi
 
 \subsubsection*{Simulation exercise and calculating species diversity}
 We focused on the effects of different temporal development scenarios on plant community convergence.
-For each of the four plant--soil microbe interactions types (i.e., no interactions, positive, negative, and complex interactions), we generated one set of initial plant--soil interaction matrix (i.e., $S_{ij}^{1}$ values) and ran simulations with $S_{ij}^{\tau}$ values following different temporal development scenarios (i.e., constant, magnifying, decaying, and bidirectionally varying).
+For each of the four plant--soil microbe interactions types (i.e., no interactions, positive, negative, and complex interactions), we generated one set of baseline plant--soil interaction matrix (i.e., $S_{ij}^{1}$ values) and ran simulations with $S_{ij}^{\tau}$ values following different temporal development scenarios (i.e., constant, magnifying, decaying, and bidirectionally varying).
 In total, our simulation resulted in 13 interaction type $\times$ temporal development combinations since the no interaction simulations can only remain constant through time.
 For our whole simulation exercise, we generated 10 patches for the regional species pools to colonize independently and quantified changes in species diversity indexes through time. 
 We measured alpha-diversity as the average number of species presented in the 10 patches, and gamma-diversity as the number of species presented in at least one patch. We measured beta-diversity as the gamma-diversity divided by the averaged alpha-diversity, which can be viewed as a proxy of the effective number of distinct local communities in the region \citep{FukamiNakajima2011}.
@@ -186,7 +227,7 @@ For each interaction type $\times$ temporal development combination, the above s
 \section{Appendix S2 -- Supplementary Figures}
 \begin{figure}[h]
 	\centering
-	\makebox[\textwidth][c]{\includegraphics[width=17cm]{Chapter6/Composition_Both_Species.pdf}}
+	\makebox[\textwidth][c]{\includegraphics[width=15cm]{Chapter6/Composition_Both_Species.pdf}}
 	\caption[NMDS ordination of all (a) fungal and (b) bacterial communities.]
 		{\hspace{1mm} 
 		NMDS ordination of all (a) fungal and (b) bacterial communities. Points are color-coded based on the identity of the plant species: \textit{A. arenaria} (brown); \textit{B. pilularis} (yellow); \textit{C. edulis} (orange); \textit{L. arboreus} (green); sand (black). 
@@ -199,7 +240,7 @@ For each interaction type $\times$ temporal development combination, the above s
 \newpage
 \begin{figure}[h]
 	\centering
-	\makebox[\textwidth][c]{\includegraphics[width=17cm]{Chapter6/Richness_Fungi_Summary.pdf}}
+	\makebox[\textwidth][c]{\includegraphics[width=15cm]{Chapter6/Richness_Fungi_Summary.pdf}}
 	\caption[Fungal community richness as a function of plant age.]
 		{\hspace{1mm} 
 		Fungal community richness as a function of plant age. (a) Species-specific difference in observed fungal OTU richness. 
@@ -213,7 +254,7 @@ For each interaction type $\times$ temporal development combination, the above s
 \newpage
 \begin{figure}[h]
 	\centering
-	\makebox[\textwidth][c]{\includegraphics[width=17cm]{Chapter6/Richness_Bacteria_Summary.pdf}}
+	\makebox[\textwidth][c]{\includegraphics[width=15cm]{Chapter6/Richness_Bacteria_Summary.pdf}}
 	\caption[Bacterial community richness as a function of plant age.]
 		{\hspace{1mm} 
 		Bacterial community richness as a function of plant age. (a) Species-specific difference in observed bacterial OTU richness.
@@ -227,7 +268,7 @@ For each interaction type $\times$ temporal development combination, the above s
 \newpage
 \begin{figure}[h]
 	\centering
-	\makebox[\textwidth][c]{\includegraphics[width=13cm]{Chapter6/Composition_Bacteria_Age.pdf}}
+	\makebox[\textwidth][c]{\includegraphics[width=14cm]{Chapter6/Composition_Bacteria_Age.pdf}}
 	\caption[Bacterial community composition as a function of plant species and the age of plant individuals.]
 		{\hspace{1mm} 
 		Bacterial community composition as a function of plant species and the age of plant individuals. Each panel highlights one focal plant species on the NMDS ordination plot of all bacterial communities. Bacterial communities associated with the focal species are color-coded by individual plant age, whereas the other three species are in gray. Purple to yellow represent the age gradient from young to old, with species-specific minimum and maximum age. (a) \textit{A. arenaria}; (b) \textit{B. pilularis}; (c) \textit{C. edulis}; (d) \textit{L. arboreus}. 
@@ -238,31 +279,31 @@ For each interaction type $\times$ temporal development combination, the above s
 
 
 \newpage
-\begin{figure}[h]
+\begin{sidewaysfigure}[h]
 	\centering
-	\makebox[\textwidth][c]{\includegraphics[width=18cm]{Chapter6/HMSC_Fungi_Family_Summary.pdf}}
+	\makebox[\textwidth][c]{\includegraphics[width=20cm]{Chapter6/HMSC_Fungi_Family_Summary.pdf}}
 	\caption[HMSC results demonstrating which fungal families show significant temporal trends.]
 		{\hspace{1mm} HMSC results demonstrating which fungal families show significant temporal trends. Points and line segments represent the mean and the 95$\%$ credible interval of the fitted age coefficient for different fungal families (y-axis). All model fitting were performed separately for each plant species, from left to right: \textit{A. arenaria} (brown); \textit{B. pilularis} (yellow); \textit{C. edulis} (orange); \textit{L. arboreus} (green).}
 	\label{fig:FunHMSC}
-\end{figure}
+\end{sidewaysfigure}
 
 
 
 \newpage
-\begin{figure}[h]
+\begin{sidewaysfigure}[h]
 	\centering
-	\makebox[\textwidth][c]{\includegraphics[width=18cm]{Chapter6/HMSC_Bacteria_Family_Summary.pdf}}
+	\makebox[\textwidth][c]{\includegraphics[width=20cm]{Chapter6/HMSC_Bacteria_Family_Summary.pdf}}
 	\caption[HMSC results demonstrating which bacterial families show significant temporal trends.]
 		{\hspace{1mm} HMSC results demonstrating which bacterial families show significant temporal trends. Points and line segments represent the mean and the 95$\%$ credible interval of the fitted age coefficient for different bacterial families (y-axis). All model fitting were performed separately for each plant species, from left to right: \textit{A. arenaria} (brown); \textit{B. pilularis} (yellow); \textit{C. edulis} (orange); \textit{L. arboreus} (green).}
 	\label{fig:BacHMSC}
-\end{figure}
+\end{sidewaysfigure}
 
 
 
 \newpage
-\begin{figure}[h]
+\begin{sidewaysfigure}[h]
 	\centering
-	\makebox[18cm][c]{\includegraphics[width=18cm]{Chapter6/Simulation_AllPSF_Aggregate.pdf}}
+	\makebox[18cm][c]{\includegraphics[width=20cm]{Chapter6/Simulation_AllPSF_Aggregate.pdf}}
 	\caption[Simulated community convergence patterns under different plant--soil microbe interaction types and different temporal development scenarios.]
 		{\hspace{1mm} 
 		Simulated community convergence patterns under different plant--soil microbe interaction types and different temporal development scenarios.
@@ -271,6 +312,6 @@ For each interaction type $\times$ temporal development combination, the above s
 		Within each plant--soil microbe interaction type, the following temporal development scenarios were considered: 
 		No plant--soil microbe interactions (light gray); Constant interaction strengths that are independent to plant age (black); Magnifying interaction strengths that intensify to their biological extremes with increasing plant age (orange); Decaying interaction strengths that attenuate to one with increasing plant age (blue); and Bidirectionally varying interaction strengths that either intensify or attenuate with increasing plant age (green). See Appendix S1 for detailed model description.}
 	\label{fig:SimulationAllPSF}
-\end{figure}
+\end{sidewaysfigure}
 
 
