@@ -5,6 +5,17 @@ A level-1 auxiliary file: Preface/Abstract.aux
 A level-1 auxiliary file: Chapter1/Introduction.aux
 A level-1 auxiliary file: Chapter2/Chapter2.aux
 A level-1 auxiliary file: Chapter3/Chapter3.aux
+A level-1 auxiliary file: Chapter4/Chapter4.aux
+Case mismatch error between cite keys HilleRisLambers2012 and Hillerislambers2012
+---line 24 of file Chapter4/Chapter4.aux
+ : \citation{Chesson2000,Adler2007,HilleRisLambers2012
+ :                                                    }
+I'm skipping whatever remains of this command
+Case mismatch error between cite keys Inouye2001 and inouye2001
+---line 105 of file Chapter4/Chapter4.aux
+ : \citation{Inouye2001
+ :                     }
+I'm skipping whatever remains of this command
 A level-1 auxiliary file: Chapter5/Chapter5.aux
 A level-1 auxiliary file: Chapter6/Chapter6.aux
 A level-1 auxiliary file: Chapter2/Chapter2Appendix.aux
@@ -13,121 +24,184 @@ A level-1 auxiliary file: Chapter4/Chapter4Appendix.aux
 A level-1 auxiliary file: Chapter5/Chapter5Appendix.aux
 A level-1 auxiliary file: Chapter6/Chapter6Appendix.aux
 The style file: ecol-mono.bst
+Reallocated field_info (elt_size=4) to 10520 items from 5000.
 Database file #1: ThesisBibliography.bib
-Repeated entry---line 1350 of file ThesisBibliography.bib
+Repeated entry---line 1913 of file ThesisBibliography.bib
  : @article{Meaden2016
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1515 of file ThesisBibliography.bib
+Repeated entry---line 2078 of file ThesisBibliography.bib
  : @article{Suding2013
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2234 of file ThesisBibliography.bib
+Repeated entry---line 2612 of file ThesisBibliography.bib
+ : @article{Aguilera2011
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2631 of file ThesisBibliography.bib
+ : @article{Bever2002
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2651 of file ThesisBibliography.bib
+ : @article{Kulmatiski2008
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2670 of file ThesisBibliography.bib
+ : @article{Revilla2013
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2699 of file ThesisBibliography.bib
+ : @article{Kulmatiski2011
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2724 of file ThesisBibliography.bib
+ : @article{Reinhart2006
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2797 of file ThesisBibliography.bib
  : @article{Klironomos2002
  :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2301 of file ThesisBibliography.bib
+Repeated entry---line 2841 of file ThesisBibliography.bib
+ : @article{Chung2016
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2864 of file ThesisBibliography.bib
  : @article{Bever2003
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2528 of file ThesisBibliography.bib
+Repeated entry---line 3047 of file ThesisBibliography.bib
+ : @article{Bell2006
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3077 of file ThesisBibliography.bib
+ : @article{Cardinaux2018
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3091 of file ThesisBibliography.bib
  : @article{Reinhart2010
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2753 of file ThesisBibliography.bib
+Repeated entry---line 3105 of file ThesisBibliography.bib
+ : @article{Shannon2012
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3120 of file ThesisBibliography.bib
+ : @article{Crawford2017
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3193 of file ThesisBibliography.bib
+ : @article{Yamazaki2008
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3221 of file ThesisBibliography.bib
+ : @article{Janzen1970
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3234 of file ThesisBibliography.bib
+ : @incollection{Connell1971
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3259 of file ThesisBibliography.bib
+ : @article{Bagchi2010
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3316 of file ThesisBibliography.bib
  : @article{Bever2010
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2975 of file ThesisBibliography.bib
+Repeated entry---line 3538 of file ThesisBibliography.bib
  : @book{Vellend2016
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3837 of file ThesisBibliography.bib
+Repeated entry---line 4400 of file ThesisBibliography.bib
  : @article{Fukami2005
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 6250 of file ThesisBibliography.bib
+Repeated entry---line 6813 of file ThesisBibliography.bib
  : @article{Adler2010
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 6830 of file ThesisBibliography.bib
+Repeated entry---line 7393 of file ThesisBibliography.bib
  : @book{Hubbell2001
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 6868 of file ThesisBibliography.bib
- : @article{inouye2001
- :                    ,
+Repeated entry---line 8468 of file ThesisBibliography.bib
+ : @article{Silvertown2004
+ :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 9462 of file ThesisBibliography.bib
+Repeated entry---line 10025 of file ThesisBibliography.bib
  : @article{Chesson2008
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 9947 of file ThesisBibliography.bib
+Repeated entry---line 10510 of file ThesisBibliography.bib
  : @article{Miller2011
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 10767 of file ThesisBibliography.bib
+Repeated entry---line 11330 of file ThesisBibliography.bib
  : @article{Godoy2014
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 11152 of file ThesisBibliography.bib
+Repeated entry---line 11715 of file ThesisBibliography.bib
  : @article{Adler2006
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 11219 of file ThesisBibliography.bib
+Repeated entry---line 11782 of file ThesisBibliography.bib
  : @article{Sears2007
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 11269 of file ThesisBibliography.bib
+Repeated entry---line 11832 of file ThesisBibliography.bib
  : @article{Adler2007
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 11288 of file ThesisBibliography.bib
+Repeated entry---line 11851 of file ThesisBibliography.bib
  : @article{Adler2010
  :                   ,
 I'm skipping whatever remains of this entry
+Warning--to sort, need author or key in Reinhart2006
+Warning--empty author in Reinhart2006
 Warning--can't use both volume and number fields in Hubbell2001
 Warning--can't use both author and editor fields in KulmatiskiKardol2008
 Warning--empty journal in soetaert2016package
-You've used 191 entries,
+You've used 240 entries,
             2712 wiz_defined-function locations,
-            1833 strings with 41404 characters,
-and the built_in function-call counts, 100038 in all, are:
-= -- 9067
-> -- 6436
-< -- 104
-+ -- 2148
-- -- 1921
-* -- 9289
-:= -- 18156
-add.period$ -- 576
-call.type$ -- 191
-change.case$ -- 1583
-chr.to.int$ -- 189
-cite$ -- 194
-duplicate$ -- 3690
-empty$ -- 6069
-format.name$ -- 2198
-if$ -- 19344
+            2110 strings with 51659 characters,
+and the built_in function-call counts, 127912 in all, are:
+= -- 11555
+> -- 8434
+< -- 124
++ -- 2817
+- -- 2529
+* -- 11994
+:= -- 23208
+add.period$ -- 724
+call.type$ -- 240
+change.case$ -- 2032
+chr.to.int$ -- 238
+cite$ -- 247
+duplicate$ -- 4633
+empty$ -- 7662
+format.name$ -- 2872
+if$ -- 24679
 int.to.chr$ -- 3
 int.to.str$ -- 1
-missing$ -- 205
-newline$ -- 959
-num.names$ -- 768
-pop$ -- 1131
+missing$ -- 254
+newline$ -- 1204
+num.names$ -- 962
+pop$ -- 1438
 preamble$ -- 1
-purify$ -- 1402
+purify$ -- 1800
 quote$ -- 0
-skip$ -- 2348
+skip$ -- 2928
 stack$ -- 0
-substring$ -- 6268
-swap$ -- 772
-text.length$ -- 14
+substring$ -- 8028
+swap$ -- 964
+text.length$ -- 15
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1674
-warning$ -- 3
-while$ -- 854
+type$ -- 2115
+warning$ -- 5
+while$ -- 1088
 width$ -- 0
-write$ -- 2480
-(There were 18 error messages)
+write$ -- 3118
+(There were 35 error messages)

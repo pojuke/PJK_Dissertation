@@ -131,7 +131,7 @@ Taken together, we suggest that future studies should consider the temporal deve
 \medskip
 
 
-\textbf{Keywords:} aerial photos, chronosequence, microbial community, plant--soil feedback, sand dunes, space-for-time substitution
+\noindent \textbf{Keywords:} aerial photos, chronosequence, microbial community, plant--soil feedback, sand dunes, space-for-time substitution
 
 
 
@@ -189,7 +189,7 @@ The fungal and bacterial communities of the resulting 430 soil samples (i.e., 13
 
 \subsection*{DNA sequencing of fungal and bacterial communities}
 %Brief overview of NGS flow
-For each processed soil sample collected in July 2016, we extracted microbial DNA from 0.25 g of subsampled soil with the PowerSoil DNA Isolation Kit. We then PCR-amplified the bacterial 16S ribosomal DNA region and the fungal internal transcribed spacer 1 region (ITS1) with specific primer pairs \citep{Caporaso2012, Toju2012, Lundberg2013, Hamady2008}. Amplicon libraries were then normalized, pooled, sequenced by the Illumina MiSeq sequencer, and processed through a bioinformatic pipeline \citep{Wang2007, Edgar2011, McMurdie2013, Tanabe2013, Zhang2014, Deshpande2016, Rognes2016, Davis2018} to obtain a rarefied sample $\times$ operational taxonomic units (OTUs) matrix. See Appendix S1 for detailed description.
+For each processed soil sample collected in July 2016, we extracted microbial DNA from 0.25 g of subsampled soil with the PowerSoil DNA Isolation Kit. We then PCR-amplified the bacterial 16S ribosomal DNA region and the fungal internal transcribed spacer 1 region (ITS1) with specific primer pairs \citep{Caporaso2012, Toju2012, Lundberg2013, Hamady2008}. Amplicon libraries were then normalized, pooled, sequenced by the Illumina MiSeq sequencer, and processed through a bioinformatic pipeline \citep{Wang2007, Edgar2011, McMurdie2013, Tanabe2013, Zhang2014, Deshpande2016, Rognes2016, Davis2018} to obtain a rarefied sample $\times$ operational taxonomic units (OTUs) matrix. See Appendix E.1 for detailed description.
 \par
 
 
@@ -211,8 +211,8 @@ Soils collected from 9 individuals were discarded due to handling mistakes (i.e.
 
 
 %Seedling transplant for the greenhouse experiment
-Seeds of the four species were surface-sterilized and allowed to germinate on autoclaved sand under controlled condition (see Appendix S1). After two weeks, we transplanted the seedlings individually into 107 mL ``cone-tainer'' pots (i.e., one seedling per pot) filled with 80 mL of sterilized sand and added 20 mL of either live or sterile soil inoculum to the top. 
-Our experiment examined the full combination of transplanting each of the four species into all 222 soil environments. However, \textit{B. pilularis} was omitted during the second round due to low germination rate, resulting in a total of 774 pots (i.e., 432 in the first round (54 individuals $\times$ 2 sterilization treatments $\times$ 4 species) and 342 in the second round (57 individuals $\times$ 2 sterilization treatments $\times$ 3 species); see Appendix S1 for detail).
+Seeds of the four species were surface-sterilized and allowed to germinate on autoclaved sand under controlled condition (see Appendix E.1). After two weeks, we transplanted the seedlings individually into 107 mL ``cone-tainer'' pots (i.e., one seedling per pot) filled with 80 mL of sterilized sand and added 20 mL of either live or sterile soil inoculum to the top. 
+Our experiment examined the full combination of transplanting each of the four species into all 222 soil environments. However, \textit{B. pilularis} was omitted during the second round due to low germination rate, resulting in a total of 774 pots (i.e., 432 in the first round (54 individuals $\times$ 2 sterilization treatments $\times$ 4 species) and 342 in the second round (57 individuals $\times$ 2 sterilization treatments $\times$ 3 species); see Appendix E.1 for detail).
 Seedlings grew in the greenhouse for 12 weeks, after which we harvested and oven-dried all plant tissues from each pot at 70$^{\circ}$C for 96 h. The resulting total dry biomass was weighed to quantify the effects of soil microbes on plant performance.
 \par
 
@@ -223,7 +223,7 @@ Seedlings grew in the greenhouse for 12 weeks, after which we harvested and oven
 We analyzed the fungal and bacterial communities separately. To better match our microbial community data from soil samples to the soils used in our greenhouse experiment, we summed the OTU reads of the three samples that belonged to the same plant individual. As a result, the following statistical analyses were performed by viewing plant individuals as the unit of replication. 
 To examine how alpha diversity of the microbial community varied with plant age, we fitted linear, quadratic, and Monod functions (with R package nlme) to model ln(observed OTU richness) as a function of plant age. Models were fitted for each plant species separately, and the best model was selected based on their AICc values.
 To visualize compositional differences among microbial communities, we used non-metric multidimensional scaling (NMDS) to ordinate microbial communities based on Bray-Curtis dissimilarity matrices (with R packages vegan and phyloseq). Effects of soil host species identity and plant age on microbial community composition were tested with permutational multivariate analysis of variance (PERMANOVA with 999 permutations, \citealp{Anderson2011}). 
-To identify the microbial taxonomic groups that drove the observed community pattern, we aggregated the microbial communities to the family level and modeled the abundance of each family as a function of plant age using the R package HMSC (\citealp{Ovaskainen2017}, see Appendix S1 for detail). 
+To identify the microbial taxonomic groups that drove the observed community pattern, we aggregated the microbial communities to the family level and modeled the abundance of each family as a function of plant age using the R package HMSC (\citealp{Ovaskainen2017}, see Appendix E.1 for detail). 
 Note that all statistics with plant age as a predictor were performed for each plant species separately. This is because species vary in their longevity and thus the same age does not necessarily represent the same life stage for different species.
 \par
 
@@ -261,7 +261,7 @@ Our simulation exercise focuses on both transient and steady states of plant com
 The model consists of species pools containing 50 species (each with a different trait value) and patches consisting of 1024 local sites (each with a different habitat conditions). We simulated the processes of immigration, reproduction, arrival, competition for establishment, and death of plant individuals. 
 Competition for establishment at empty sites is determined not only by the match between species' trait values and local habitat conditions (i.e., environmental filtering) but also by the soil microbial legacy effects (i.e., PSF) created by the previously established plant species. 
 Based on empirical evidence, we allowed the microbial legacy effects to be either positive or negative (i.e., complex feedback regime, \textit{sensu} \citealp{Fukami2013}).
-The key distinction between our model and previous studies is that microbial legacy effects in our model are age-dependent, i.e., the strength depends on the age of death of the previous established individual. See Appendix S1 for full details of the simulation model.
+The key distinction between our model and previous studies is that microbial legacy effects in our model are age-dependent, i.e., the strength depends on the age of death of the previous established individual. See Appendix E.1 for full details of the simulation model.
 \par
 
 
@@ -290,8 +290,8 @@ We quantified the beta diversity among the 10 patches for each replicated run, w
 \section{Results}
 \subsection*{Temporal patterns of microbial communities}
 Fungal community composition differed among plant species (Fig.~\ref{fig:BothComposition}a, PERMANOVA, $R^{2}=0.148$, $P<0.001$). Within each plant species, fungal composition varied with plant age (Fig.~\ref{fig:FunComposition}, age effect for \textit{A. arenaria}: $R^{2}=0.096$; \textit{B. pilularis}: $R^{2}=0.083$; \textit{C. edulis}: $R^{2}=0.100$; \textit{L. arboreus}: $R^{2}=0.077$; all $P<0.001$) and became progressively different from bare sand communities with increasing conditioning time (fungal richness ceased to increase further after a few years following plant colonization, Fig.~\ref{fig:FunRichness}).
-Similar results were observed for bacterial communities (Figs~\ref{fig:BothComposition}b, \ref{fig:BacRichness}, and \ref{fig:BacComposition}, species effect: $R^{2}=0.126$; age effect for \textit{A. arenaria}: $R^{2}=0.115$; \textit{B. pilularis}: $R^{2}=0.112$; \textit{C. edulis}: $R^{2}=0.120$; \textit{L. arboreus}: $R^{2}=0.116$; all $P<0.001$). 
-Fungal and bacterial families responded differently to increasing plant age, and the temporal changes of a family depended on the identity of the plant species (Figs~\ref{fig:FunHMSC} and \ref{fig:BacHMSC}). 
+Similar results were observed for bacterial communities (Figs.~\ref{fig:BothComposition}b, \ref{fig:BacRichness}, and \ref{fig:BacComposition}, species effect: $R^{2}=0.126$; age effect for \textit{A. arenaria}: $R^{2}=0.115$; \textit{B. pilularis}: $R^{2}=0.112$; \textit{C. edulis}: $R^{2}=0.120$; \textit{L. arboreus}: $R^{2}=0.116$; all $P<0.001$). 
+Fungal and bacterial families responded differently to increasing plant age, and the temporal changes of a family depended on the identity of the plant species (Figs.~\ref{fig:FunHMSC} and \ref{fig:BacHMSC}). 
 \par
 
 
@@ -323,13 +323,13 @@ When the strength of microbial legacies varied depending on the age of death of 
 \section{Discussion}
 % Result summary and significance statement
 By combining a fine-scale chronosequence and a greenhouse experiment that preserved age-specific soil microbial communities, we provide evidence for a temporally varying PSF. 
-We show that compositional changes in the soil microbial community with increasing plant age result in different temporal development patterns of PSFs (Figs~\ref{fig:FunComposition} and \ref{fig:PSFTemporal}), which could in turn influence plant community dynamics (Fig.~\ref{fig:SimulationComplexPSF}). 
+We show that compositional changes in the soil microbial community with increasing plant age result in different temporal development patterns of PSFs (Figs.~\ref{fig:FunComposition} and \ref{fig:PSFTemporal}), which could in turn influence plant community dynamics (Fig.~\ref{fig:SimulationComplexPSF}). 
 \par
 
 
-We found that microbial richness reached its maximum within a few years after plant establishment (Figs~\ref{fig:FunRichness} and \ref{fig:BacRichness}), but community composition continued to turn over and became progressively more different from that in bare sand in a manner specific to plant species (Figs~\ref{fig:FunComposition} and \ref{fig:BacComposition}). 
+We found that microbial richness reached its maximum within a few years after plant establishment (Figs.~\ref{fig:FunRichness} and \ref{fig:BacRichness}), but community composition continued to turn over and became progressively more different from that in bare sand in a manner specific to plant species (Figs.~\ref{fig:FunComposition} and \ref{fig:BacComposition}). 
 For example, compared to the other three plant species, soils collected from young \textit{A. arenaria} individuals had microbial communities that were more similar to sand microbial communities, potentially because of their ability to capture more wind-blown sand.
-With the model-based approach, we identified potential taxonomic groups that drove the observed turnover in soil microbial communities (Figs~\ref{fig:FunHMSC} and \ref{fig:BacHMSC}). For instance, the fungal family \textit{Sporormiaceae}, many members of which are saprotrophic fungi, increased through time in soils of the two natives but decreased in \textit{C. edulis} soils presumably because of the recalcitrant litter it produces \citep{Novoa2014}.
+With the model-based approach, we identified potential taxonomic groups that drove the observed turnover in soil microbial communities (Figs.~\ref{fig:FunHMSC} and \ref{fig:BacHMSC}). For instance, the fungal family \textit{Sporormiaceae}, many members of which are saprotrophic fungi, increased through time in soils of the two natives but decreased in \textit{C. edulis} soils presumably because of the recalcitrant litter it produces \citep{Novoa2014}.
 Whether turnover of the soil microbial community resulted in temporally varying PSF, however, depended on the plant $\times$ soil host species combination. For example, the microbial community associated with \textit{C. edulis} changed through time (Fig.~\ref{fig:FunComposition}c), but only their effect on conspecifics showed significant temporal patterns (i.e., compare Fig.~\ref{fig:PSFTemporal}k to Fig.~\ref{fig:PSFTemporal}c, g, and o).
 Since plant $\times$ soil host species combinations differed in their PSF temporal patterns, the length of soil conditioning set in greenhouse experiments can influence the relative magnitude of species' PSF.
 Moreover, by only looking at the time-averaged microbial effects (e.g., if studies homogenized soils collected from individuals of different ages; Fig.~\ref{fig:PSFBar}), one would have erroneously concluded that soil host identity had little impact on the microbial effects that a species experienced in our system.
@@ -480,7 +480,7 @@ We thank staff members at the Bodega Marine Laboratory and Sonoma State Park, in
 		{\hspace{1mm} 
 		Simulated community convergence patterns under different temporal development scenarios of the underlying plant--soil microbe interactions.
 		(a) Temporal trends of beta-diversity (mean $\pm$ SE, $n = 20$) among the 10 simulated patches for five different plant--soil microbe interaction scenarios. (b)--(f) Schematic diagrams of the five different scenarios in (a), demonstrating how the interaction strength changes with the age of the conditioning individual.
-		(b) No plant--soil microbe interactions (light gray); (c) Plant--soil microbe interactions that are independent to plant age (black); (d) Magnifying interaction strengths that intensify to their biological extremes with increasing plant age (orange); (e) Decaying interaction strengths that attenuate to one with increasing plant age (blue); (f) Bidirectionally varying interaction strengths that either intensify or attenuate with increasing plant age (green). See Appendix S1 for detailed model description.}
+		(b) No plant--soil microbe interactions (light gray); (c) Plant--soil microbe interactions that are independent to plant age (black); (d) Magnifying interaction strengths that intensify to their biological extremes with increasing plant age (orange); (e) Decaying interaction strengths that attenuate to one with increasing plant age (blue); (f) Bidirectionally varying interaction strengths that either intensify or attenuate with increasing plant age (green). See Appendix E.1 for detailed model description.}
 	\label{fig:SimulationComplexPSF}
 \end{figure}
 

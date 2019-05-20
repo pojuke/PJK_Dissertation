@@ -1,4 +1,9 @@
-\begin{thebibliography}{191}
+\begin{thebibliography}{240}
+
+\bibitem[Rei(2006)]{Reinhart2006}
+2006.
+\newblock {Soil biota and invasive plants}.
+\newblock \emph{New phytologist} \textbf{170}:445--457.
 
 \bibitem[Adler et~al.(2010)Adler, Ellner, and Levine]{Adler2010}
 Adler, P.~B., S.~P. Ellner, and J.~M. Levine, 2010.
@@ -19,6 +24,19 @@ Adler, P.~B., J.~Hillerislambers, and J.~M. Levine, 2007.
 \newblock {A niche for neutrality.}
 \newblock \emph{Ecology Letters} \textbf{10}:95--104.
 
+\bibitem[Aguilera(2011)]{Aguilera2011}
+Aguilera, A.~G., 2011.
+\newblock {The influence of soil community density on plant--soil feedbacks: An
+  important unknown in plant invasion}.
+\newblock \emph{Ecological Modelling} \textbf{222}:3413--3420.
+
+\bibitem[Aguilera et~al.(2017)Aguilera, Morey, Gammon, Jiang, Ramos, and
+  Kesseli]{Aguilera2017}
+Aguilera, A.~G., S.~Morey, M.~Gammon, M.~Jiang, S.~Ramos, and R.~Kesseli, 2017.
+\newblock Effect of plant--soil feedbacks on the growth and competition of
+  lactuca species.
+\newblock \emph{Plant Ecology} \textbf{218}:359--372.
+
 \bibitem[Amarasekare(2007)]{Amarasekare2007}
 Amarasekare, P., 2007.
 \newblock Trade-offs, temporal variation, and species coexistence in
@@ -36,6 +54,25 @@ Angert, A.~L., T.~E. Huxman, P.~Chesson, and D.~L. Venable, 2009.
   effect.}
 \newblock \emph{Proceedings of the National Academy of Sciences of the United
   States of America} \textbf{106}:11641--11645.
+
+\bibitem[Augspurger and Kelly(1984)]{Augspurger1984}
+Augspurger, C.~K. and C.~K. Kelly, 1984.
+\newblock Pathogen mortality of tropical tree seedlings: experimental studies
+  of the effects of dispersal distance, seedling density, and light conditions.
+\newblock \emph{Oecologia} \textbf{61}:211--217.
+
+\bibitem[Bagchi et~al.(2010)Bagchi, Swinfield, Gallery, Lewis, Gripenberg,
+  Narayan, and Freckleton]{Bagchi2010}
+Bagchi, R., T.~Swinfield, R.~E. Gallery, O.~T. Lewis, S.~Gripenberg,
+  L.~Narayan, and R.~P. Freckleton, 2010.
+\newblock {Testing the Janzen--Connell mechanism: pathogens cause
+  overcompensating density dependence in a tropical tree.}
+\newblock \emph{Ecology letters} \textbf{13}:1262--1269.
+
+\bibitem[Barab\'{a}s et~al.(2018)Barab\'{a}s, D'Andrea, and Stump]{Barabas2018}
+Barab\'{a}s, G., R.~D'Andrea, and S.~M. Stump, 2018.
+\newblock Chesson's coexistence theory.
+\newblock \emph{Ecological Monographs} \textbf{88}:277--303.
 
 \bibitem[Barab{\'{a}}s et~al.(2014)Barab{\'{a}}s, P{\'{a}}sztor, Mesz{\'{e}}na,
   and Ostling]{Barabas2014}
@@ -62,7 +99,7 @@ Bascompte, J. and P.~Jordano, 2013.
 
 \bibitem[Bauer et~al.(2015)Bauer, Mack, and Bever]{Bauer2015}
 Bauer, J.~T., K.~M.~L. Mack, and J.~D. Bever, 2015.
-\newblock Plant-soil feedbacks as drivers of succession: evidence from remnant
+\newblock Plant--soil feedbacks as drivers of succession: evidence from remnant
   and restored tallgrass prairies.
 \newblock \emph{Ecosphere} \textbf{6}:art158.
 
@@ -71,6 +108,33 @@ Beckstead, J. and I.~M. Parker, 2003.
 \newblock Invasiveness of ammophila arenaria: Release from soil-borne
   pathogens?
 \newblock \emph{Ecology} \textbf{84}:2824--2831.
+
+\bibitem[Bell et~al.(2006)Bell, Freckleton, and Lewis]{Bell2006}
+Bell, T., R.~P. Freckleton, and O.~T. Lewis, 2006.
+\newblock {Plant pathogens drive density-dependent seedling mortality in a
+  tropical tree.}
+\newblock \emph{Ecology letters} \textbf{9}:569--574.
+
+\bibitem[Bennett et~al.(2017)Bennett, Maherali, Reinhart, Lekberg, Hart, and
+  Klironomos]{Bennett2017}
+Bennett, J.~A., H.~Maherali, K.~O. Reinhart, Y.~Lekberg, M.~M. Hart, and
+  J.~Klironomos, 2017.
+\newblock {Plant--soil feedbacks and mycorrhizal type influence temperate
+  forest population dynamics SI}.
+\newblock \emph{Science} \textbf{355}:181--184.
+
+\bibitem[Bever(1999)]{Bever1999}
+Bever, J., 1999.
+\newblock Dynamics within mutualism and the maintenance of diversity: inference
+  from a model of interguild frequency dependence.
+\newblock \emph{Ecology Letters} \textbf{2}:52--61.
+
+\bibitem[Bever(2002)]{Bever2002}
+Bever, J.~D., 2002.
+\newblock Negative feedback within a mutualism: host-specific growth of
+  mycorrhizal fungi reduces plant benefit.
+\newblock \emph{Proceedings of the Royal Society B: Biological Sciences}
+  \textbf{269}:2595--2601.
 
 \bibitem[Bever(2003)]{Bever2003}
 Bever, J.~D., 2003.
@@ -86,6 +150,12 @@ Bever, J.~D., I.~A. Dickie, E.~Facelli, J.~M. Facelli, J.~Klironomos, M.~Moora,
   interactions}.
 \newblock \emph{Trends in Ecology {\&} Evolution} \textbf{25}:468--478.
 
+\bibitem[Bever et~al.(2015)Bever, Mangan, and Alexander]{Bever2015}
+Bever, J.~D., S.~A. Mangan, and H.~M. Alexander, 2015.
+\newblock Maintenance of plant species diversity by pathogens.
+\newblock \emph{Annual Review of Ecology, Evolution, and Systematics}
+  \textbf{46}:305--325.
+
 \bibitem[Bever et~al.(1997)Bever, Westover, and Antonovics]{Bever1997}
 Bever, J.~D., K.~M. Westover, and J.~Antonovics, 1997.
 \newblock {Incorporating the Soil Community into Plant Population Dynamics: The
@@ -95,9 +165,15 @@ Bever, J.~D., K.~M. Westover, and J.~Antonovics, 1997.
 \bibitem[Bezemer et~al.(2018)Bezemer, Jing, Bakx-Schotman, and
   Bijleveld]{Bezemer2018}
 Bezemer, T.~M., J.~Jing, J.~M.~T. Bakx-Schotman, and E.-J. Bijleveld, 2018.
-\newblock Plant competition alters the temporal dynamics of plant-soil
+\newblock Plant competition alters the temporal dynamics of plant--soil
   feedbacks.
 \newblock \emph{Journal of Ecology} \textbf{106}:2287--2300.
+
+\bibitem[Bimler et~al.(2018)Bimler, Stouffer, Lai, and Mayfield]{Bimler2018}
+Bimler, M.~D., D.~B. Stouffer, H.~R. Lai, and M.~M. Mayfield, 2018.
+\newblock Accurate predictions of coexistence in natural systems require the
+  inclusion of facilitative interactions and environmental dependency.
+\newblock \emph{Journal of Ecology} \textbf{106}:1839--1852.
 
 \bibitem[Brown and Jumpponen(2014)]{BrownJumpponen2014}
 Brown, S.~P. and A.~Jumpponen, 2014.
@@ -126,11 +202,23 @@ Caporaso, J.~G., C.~L. Lauber, W.~A. Walters, D.~Berg-Lyons, J.~Huntley,
   HiSeq and MiSeq platforms}.
 \newblock \emph{The ISME Journal} \textbf{6}:1621--1624.
 
+\bibitem[Cardinaux et~al.(2018)Cardinaux, Hart, and Alexander]{Cardinaux2018}
+Cardinaux, A., S.~P. Hart, and J.~M. Alexander, 2018.
+\newblock Do soil biota influence the outcome of novel interactions between
+  plant competitors?
+\newblock \emph{Journal of Ecology} \textbf{106}:1853--1863.
+
 \bibitem[Carroll et~al.(2011)Carroll, Cardinale, and Nisbet]{Carroll2011}
 Carroll, I.~T., B.~J. Cardinale, and R.~M. Nisbet, 2011.
 \newblock {Niche and fitness differences relate the maintenance of diversity to
   ecosystem function}.
 \newblock \emph{Ecology} \textbf{92}:1157--1165.
+
+\bibitem[Casper and Castelli(2007)]{Casper2007}
+Casper, B.~B. and J.~P. Castelli, 2007.
+\newblock Evaluating plant--soil feedback together with competition in a
+  serpentine grassland.
+\newblock \emph{Ecology Letters} \textbf{10}:394--400.
 
 \bibitem[Castle et~al.(2016)Castle, Nemergut, Grandy, Leff, Graham, Hood,
   Schmidt, Wickings, and Cleveland]{Castle2016}
@@ -177,6 +265,12 @@ Chesson, P., 2000{b}.
 \newblock {Mechanisms of maintenance of species diversity}.
 \newblock \emph{Annual Review of Ecology and Systematics} \textbf{31}:343--366.
 
+\bibitem[Chesson(2003)]{Chesson2003}
+Chesson, P., 2003.
+\newblock {Quantifying and testing coexistence mechanisms arising from
+  recruitment fluctuations}.
+\newblock \emph{Theor. Popul. Biol.} \textbf{64}:345--357.
+
 \bibitem[Chesson(2008)]{Chesson2008}
 Chesson, P., 2008.
 \newblock {Quantifying and testing species coexistence mechanisms}.
@@ -202,6 +296,13 @@ Chesson, P. and J.~J. Kuang, 2008.
 \newblock {The interaction between predation and competition.}
 \newblock \emph{Nature} \textbf{456}:235--8.
 
+\bibitem[Chung and Rudgers(2016)]{Chung2016}
+Chung, Y.~A. and J.~A. Rudgers, 2016.
+\newblock {Plant--soil feedbacks promote negative frequency dependence in the
+  coexistence of two aridland grasses}.
+\newblock \emph{Proceedings of the Royal Society B: Biological Sciences}
+  \textbf{283}:20160608.
+
 \bibitem[Clark et~al.(2019)Clark, Knops, and Tilman]{Clark2019}
 Clark, A.~T., J.~M. Knops, and D.~Tilman, 2019.
 \newblock Contingent factors explain average divergence in functional
@@ -216,6 +317,14 @@ Clark, C.~M., E.~E. Cleland, S.~L. Collins, J.~E. Fargione, L.~Gough, K.~L.
   following nitrogen enrichment.
 \newblock \emph{Ecology Letters} \textbf{10}:596--607.
 
+\bibitem[Connell(1971)]{Connell1971}
+Connell, J., 1971.
+\newblock On the role of natural enemies in preventing competitive exclusion in
+  some marine animals and in rain forest trees.
+\newblock In P.~Den~Boer and G.~Gradwell, editors, \emph{Dynamics of
+  Populations}, pages 298--312. Centre for Agricultural Publishing and
+  Documentation, Wageningen, The Netherlands.
+
 \bibitem[Connell and Slatyer(1977)]{Connell1977}
 Connell, J.~H. and R.~O. Slatyer, 1977.
 \newblock {Mechanisms of Succession in Natural Communities and Their Role in
@@ -227,6 +336,12 @@ Conser, C. and E.~F. Connor, 2009.
 \newblock Assessing the residual effects of carpobrotus edulis invasion,
   implications for restoration.
 \newblock \emph{Biological Invasions} \textbf{11}:349--358.
+
+\bibitem[Crawford and Knight(2017)]{Crawford2017}
+Crawford, K.~M. and T.~M. Knight, 2017.
+\newblock Competition overwhelms the positive plant--soil feedback generated by
+  an invasive plant.
+\newblock \emph{Oecologia} \textbf{183}:211--220.
 
 \bibitem[Damgaard(2019)]{Damgaard2019}
 Damgaard, C., 2019.
@@ -257,7 +372,7 @@ Davis, N.~M., D.~M. Proctor, S.~P. Holmes, D.~A. Relman, and B.~J. Callahan,
 
 \bibitem[Day et~al.(2015)Day, Dunfield, and Antunes]{Day2015}
 Day, N.~J., K.~E. Dunfield, and P.~M. Antunes, 2015.
-\newblock {Temporal dynamics of plant-soil feedback and root-associated fungal
+\newblock {Temporal dynamics of plant--soil feedback and root-associated fungal
   communities over 100years of invasion by a non-native plant}.
 \newblock \emph{Journal of Ecology} \textbf{103}:1557--1569.
 
@@ -265,7 +380,8 @@ Day, N.~J., K.~E. Dunfield, and P.~M. Antunes, 2015.
   Roiloa, Rodr{\'i}guez-Echeverr{\'i}a, and Freitas]{delaPena2010}
 de~la Pe{\~{n}}a, E., N.~de~Clercq, D.~Bonte, S.~Roiloa,
   S.~Rodr{\'i}guez-Echeverr{\'i}a, and H.~Freitas, 2010.
-\newblock Plant-soil feedback as a mechanism of invasion by carpobrotus edulis.
+\newblock Plant--soil feedback as a mechanism of invasion by carpobrotus
+  edulis.
 \newblock \emph{Biological Invasions} \textbf{12}:3637--3648.
 
 \bibitem[de~Roos and Persson(2013)]{deRoos2013}
@@ -349,6 +465,11 @@ Edgar, R.~C., B.~J. Haas, J.~C. Clemente, C.~Quince, and R.~Knight, 2011.
 \newblock Uchime improves sensitivity and speed of chimera detection.
 \newblock \emph{Bioinformatics} \textbf{27}:2194--2200.
 
+\bibitem[Ellner et~al.(2019)Ellner, Snyder, Adler, and Hooker]{Ellner2019}
+Ellner, S.~P., R.~E. Snyder, P.~B. Adler, and G.~Hooker, 2019.
+\newblock An expanded modern coexistence theory for empirical applications.
+\newblock \emph{Ecology Letters} \textbf{22}:3--18.
+
 \bibitem[Elton(1927)]{Elton1927}
 Elton, C., 1927.
 \newblock {Animal Ecology}.
@@ -360,6 +481,21 @@ Eppinga, M.~B., M.~Baudena, D.~J. Johnson, J.~Jiang, K.~M.~L. Mack, A.~E.
   Strand, and J.~D. Bever, 2018.
 \newblock Frequency-dependent feedback constrains plant community coexistence.
 \newblock \emph{Nature Ecology \& Evolution} \textbf{2}:1403--1407.
+
+\bibitem[Eppinga et~al.(2006)Eppinga, Rietkerk, Dekker, and
+  Ruiter]{Eppinga2006}
+Eppinga, M.~B., M.~Rietkerk, S.~C. Dekker, and P.~C.~D. Ruiter, 2006.
+\newblock {Accumulation of local pathogens: a new hypothesis to explain exotic
+  plant invasion}.
+\newblock \emph{Oikos} \textbf{114}:168--176.
+
+\bibitem[Facelli et~al.(1999)Facelli, Facelli, Smith, and
+  McLaughlin]{Facelli1999}
+Facelli, E., J.~M. Facelli, S.~E. Smith, and M.~J. McLaughlin, 1999.
+\newblock Interactive effects of arbuscular mycorrhizal symbiosis,
+  intraspecific competition and resource availability on trifolium subterraneum
+  cv. mt. barker.
+\newblock \emph{New Phytologist} \textbf{141}:535--547.
 
 \bibitem[Fierer et~al.(2010)Fierer, Nemergut, Knight, and Craine]{Fierer2010}
 Fierer, N., D.~Nemergut, R.~Knight, and J.~M. Craine, 2010.
@@ -405,7 +541,7 @@ Fukami, T. and M.~Nakajima, 2011.
 
 \bibitem[Fukami and Nakajima(2013)]{Fukami2013}
 Fukami, T. and M.~Nakajima, 2013.
-\newblock {Complex plant-soil interactions enhance plant species diversity by
+\newblock {Complex plant--soil interactions enhance plant species diversity by
   delaying community convergence}.
 \newblock \emph{Journal of Ecology} \textbf{101}:316--324.
 
@@ -453,6 +589,19 @@ Grinnell, J., 1917.
 \newblock The niche-relationships of the california thrasher.
 \newblock \emph{The Auk} \textbf{34}:427--433.
 
+\bibitem[Grman(2012)]{Grman2012}
+Grman, E., 2012.
+\newblock Plant species differ in their ability to reduce allocation to
+  non-beneficial arbuscular mycorrhizal fungi.
+\newblock \emph{Ecology} \textbf{93}:711--718.
+
+\bibitem[Gross et~al.(2015)Gross, Liancourt, Butters, Duncan, and
+  Hulme]{Gross2015}
+Gross, N., P.~Liancourt, R.~Butters, R.~P. Duncan, and P.~E. Hulme, 2015.
+\newblock Functional equivalence, competitive hierarchy and facilitation
+  determine species coexistence in highly invaded grasslands.
+\newblock \emph{New Phytologist} \textbf{206}:175--186.
+
 \bibitem[Grover(1997)]{Grover1997}
 Grover, J., 1997.
 \newblock Resource Competition, volume~19.
@@ -470,6 +619,16 @@ Harpole, W.~S. and D.~Tilman, 2007.
 \newblock {Grassland species loss resulting from reduced niche dimension.}
 \newblock \emph{Nature} \textbf{446}:791--793.
 
+\bibitem[Hart et~al.(2003)Hart, Reader, and Klironomos]{Hart2003}
+Hart, M.~M., R.~J. Reader, and J.~N. Klironomos, 2003.
+\newblock Plant coexistence mediated by arbuscular mycorrhizal fungi.
+\newblock \emph{Trends in Ecology \& Evolution} \textbf{18}:418--423.
+
+\bibitem[Hart et~al.(2018)Hart, Freckleton, and Levine]{Hart2018}
+Hart, S.~P., R.~P. Freckleton, and J.~M. Levine, 2018.
+\newblock {How to quantify competitive ability}.
+\newblock \emph{Journal of Ecology} \textbf{5}:1902--1909.
+
 \bibitem[Hautier et~al.(2009)Hautier, Niklaus, and Hector]{Hautier2009}
 Hautier, Y., P.~A. Niklaus, and A.~Hector, 2009.
 \newblock Competition for light causes plant biodiversity loss after
@@ -478,7 +637,7 @@ Hautier, Y., P.~A. Niklaus, and A.~Hector, 2009.
 
 \bibitem[Hawkes et~al.(2012)Hawkes, Kivlin, Du, and Eviner]{Hawkes2012}
 Hawkes, C.~V., S.~N. Kivlin, J.~Du, and V.~T. Eviner, 2012.
-\newblock {The temporal development and additivity of plant-soil feedback in
+\newblock {The temporal development and additivity of plant--soil feedback in
   perennial grasses}.
 \newblock \emph{Plant and Soil} \textbf{369}:141--150.
 
@@ -490,6 +649,16 @@ HilleRisLambers, J., P.~B. Adler, W.~Harpole, J.~M. Levine, and M.~Mayfield,
   Theory}.
 \newblock \emph{Annual Review of Ecology, Evolution, and Systematics}
   \textbf{43}:227--248.
+
+\bibitem[Hoeksema et~al.(2010)Hoeksema, Chaudhary, Gehring, Johnson, Karst,
+  Koide, Pringle, Zabinski, Bever, Moore, Wilson, Klironomos, and
+  Umbanhowar]{Hoeksema2010}
+Hoeksema, J.~D., V.~B. Chaudhary, C.~A. Gehring, N.~C. Johnson, J.~Karst, R.~T.
+  Koide, A.~Pringle, C.~Zabinski, J.~D. Bever, J.~C. Moore, G.~W.~T. Wilson,
+  J.~N. Klironomos, and J.~Umbanhowar, 2010.
+\newblock A meta-analysis of context-dependency in plant response to
+  inoculation with mycorrhizal fungi.
+\newblock \emph{Ecology Letters} \textbf{13}:394--407.
 
 \bibitem[Hubbell(2001)]{Hubbell2001}
 Hubbell, S.~P., 2001.
@@ -521,6 +690,11 @@ Inouye, B.~D., 2001.
   competition.
 \newblock \emph{Ecology} \textbf{82}:2696--2706.
 
+\bibitem[Janzen(1970)]{Janzen1970}
+Janzen, D.~H., 1970.
+\newblock Herbivores and the number of tree species in tropical forests.
+\newblock \emph{The American Naturalist} \textbf{104}:501--528.
+
 \bibitem[Jiang and Morin(2007)]{Jiang2007}
 Jiang, L. and P.~J. Morin, 2007.
 \newblock {Temperature fluctuation facilitates coexistence of competing species
@@ -533,16 +707,29 @@ Johansson, J.~F., L.~R. Paul, and R.~D. Finlay, 2004.
   for sustainable agriculture.
 \newblock \emph{FEMS Microbiology Ecology} \textbf{48}:1--13.
 
+\bibitem[Johnson et~al.(2012)Johnson, Beaulieu, Bever, and Clay]{Johnson2012}
+Johnson, D.~J., W.~T. Beaulieu, J.~D. Bever, and K.~Clay, 2012.
+\newblock Conspecific negative density dependence and forest diversity.
+\newblock \emph{Science} \textbf{336}:904--907.
+
 \bibitem[Johnson and Miyanishi(2008)]{Johnson2008}
 Johnson, E.~A. and K.~Miyanishi, 2008.
 \newblock {Testing the assumptions of chronosequences in succession.}
 \newblock \emph{Ecology Letters} \textbf{11}:419--31.
 
+\bibitem[Kadowaki et~al.(2018)Kadowaki, Yamamoto, Sato, Tanabe, Hidaka, and
+  Toju]{Kadowaki2017}
+Kadowaki, K., S.~Yamamoto, H.~Sato, A.~S. Tanabe, A.~Hidaka, and H.~Toju, 2018.
+\newblock Mycorrhizal fungi mediate the direction and strength of plant--soil
+  feedbacks differently between arbuscular mycorrhizal and ectomycorrhizal
+  communities.
+\newblock \emph{Communications Biology} \textbf{1}:196.
+
 \bibitem[Kardol et~al.(2013{a})Kardol, {De Deyn}, Lalibert{\'{e}}, Mariotte,
   and Hawkes]{Kardol2013}
 Kardol, P., G.~B. {De Deyn}, E.~Lalibert{\'{e}}, P.~Mariotte, and C.~V. Hawkes,
   2013{a}.
-\newblock {Biotic plant-soil feedbacks across temporal scales}.
+\newblock {Biotic plant--soil feedbacks across temporal scales}.
 \newblock \emph{Journal of Ecology} \textbf{101}:309--315.
 
 \bibitem[Kardol et~al.(2013{b})Kardol, Souza, and Classen]{Kardol2013Oikos}
@@ -550,6 +737,11 @@ Kardol, P., L.~Souza, and A.~T. Classen, 2013{b}.
 \newblock {Resource availability mediates the importance of priority effects in
   plant community assembly and ecosystem function}.
 \newblock \emph{Oikos} \textbf{122}:84--94.
+
+\bibitem[Ke and Letten(2018)]{KeLetten2018}
+Ke, P.-J. and A.~D. Letten, 2018.
+\newblock Coexistence theory and the frequency dependence of priority effects.
+\newblock \emph{Nature Ecology \& Evolution} \textbf{2}:1691--1695.
 
 \bibitem[Ke and Miki(2015)]{KeMiki2015}
 Ke, P.-J. and T.~Miki, 2015.
@@ -560,7 +752,7 @@ Ke, P.-J. and T.~Miki, 2015.
 \bibitem[Ke et~al.(2015)Ke, Miki, and Ding]{Ke2015}
 Ke, P.-J., T.~Miki, and T.~Ding, 2015.
 \newblock The soil microbial community predicts the importance of plant traits
-  in plant-soil feedback.
+  in plant--soil feedback.
 \newblock \emph{New Phytologist} \textbf{206}:329--341.
 
 \bibitem[Ke and Nakazawa(2018)]{KeNakazawa2018}
@@ -610,7 +802,7 @@ Kraft, N. J.~B., O.~Godoy, and J.~M. Levine, 2015.
 
 \bibitem[Kulmatiski(2018)]{Kulmatiski2018}
 Kulmatiski, A., 2018.
-\newblock Community-level plant-soil feedbacks explain landscape distribution
+\newblock Community-level plant--soil feedbacks explain landscape distribution
   of native and non-native plants.
 \newblock \emph{Ecology and Evolution} \textbf{8}:2041--2049.
 
@@ -620,11 +812,44 @@ Kulmatiski, A., K.~H. Beard, and J.~M. Stark, 2006.
   agricultural fields.
 \newblock \emph{Journal of Applied Ecology} \textbf{43}:868--876.
 
+\bibitem[Kulmatiski et~al.(2008)Kulmatiski, Beard, Stevens, and
+  Cobbold]{Kulmatiski2008}
+Kulmatiski, A., K.~H. Beard, J.~R. Stevens, and S.~M. Cobbold, 2008.
+\newblock {Plant--soil feedbacks: a meta-analytical review}.
+\newblock \emph{Ecology Letters} \textbf{11}:980--992.
+
+\bibitem[Kulmatiski et~al.(2011)Kulmatiski, Heavilin, and
+  Beard]{Kulmatiski2011}
+Kulmatiski, A., J.~Heavilin, and K.~H. Beard, 2011.
+\newblock Testing predictions of a three-species plant--soil feedback model.
+\newblock \emph{Journal of Ecology} \textbf{99}:542--550.
+
 \bibitem[Kulmatiski and Kardol(2008)]{KulmatiskiKardol2008}
 Kulmatiski, A. and P.~Kardol, 2008.
 \newblock Getting Plant---Soil Feedbacks out of the Greenhouse: Experimental
   and Conceptual Approaches, pages 449--472.
 \newblock Springer Berlin Heidelberg, Berlin, Heidelberg.
+
+\bibitem[LaManna et~al.(2017)LaManna, Mangan, Alonso, Bourg, Brockelman,
+  Bunyavejchewin, Chang, Chiang, Chuyong, Clay, Condit, Cordell, Davies,
+  Furniss, Giardina, Gunatilleke, Gunatilleke, He, Howe, Hubbell, Hsieh,
+  Inman-Narahari, Jan{\'\i}k, Johnson, Kenfack, Korte, Kr{\'a}l, Larson, Lutz,
+  McMahon, McShea, Memiaghe, Nathalang, Novotny, Ong, Orwig, Ostertag, Parker,
+  Phillips, Sack, Sun, Tello, Thomas, Turner, Vela~D{\'\i}az, Vr{\v s}ka,
+  Weiblen, Wolf, Yap, and Myers]{LaManna2017}
+LaManna, J.~A., S.~A. Mangan, A.~Alonso, N.~A. Bourg, W.~Y. Brockelman,
+  S.~Bunyavejchewin, L.-W. Chang, J.-M. Chiang, G.~B. Chuyong, K.~Clay,
+  R.~Condit, S.~Cordell, S.~J. Davies, T.~J. Furniss, C.~P. Giardina, I.~A.
+  U.~N. Gunatilleke, C.~V.~S. Gunatilleke, F.~He, R.~W. Howe, S.~P. Hubbell,
+  C.-F. Hsieh, F.~M. Inman-Narahari, D.~Jan{\'\i}k, D.~J. Johnson, D.~Kenfack,
+  L.~Korte, K.~Kr{\'a}l, A.~J. Larson, J.~A. Lutz, S.~M. McMahon, W.~J. McShea,
+  H.~R. Memiaghe, A.~Nathalang, V.~Novotny, P.~S. Ong, D.~A. Orwig,
+  R.~Ostertag, G.~G. Parker, R.~P. Phillips, L.~Sack, I.-F. Sun, J.~S. Tello,
+  D.~W. Thomas, B.~L. Turner, D.~M. Vela~D{\'\i}az, T.~Vr{\v s}ka, G.~D.
+  Weiblen, A.~Wolf, S.~Yap, and J.~A. Myers, 2017.
+\newblock Plant diversity increases with the strength of negative density
+  dependence at the global scale.
+\newblock \emph{Science} \textbf{356}:1389--1392.
 
 \bibitem[Lanuza et~al.(2018)Lanuza, Bartomeus, and Godoy]{Lanuza2018}
 Lanuza, J.~B., I.~Bartomeus, and O.~Godoy, 2018.
@@ -658,7 +883,7 @@ Leibold, M.~A., 1998.
 Lekberg, Y., J.~D. Bever, R.~A. Bunn, R.~M. Callaway, M.~M. Hart, S.~N. Kivlin,
   J.~Klironomos, B.~G. Larkin, J.~L. Maron, K.~O. Reinhart, M.~Remke, and W.~H.
   van~der Putten, 2018.
-\newblock Relative importance of competition and plant-soil feedback, their
+\newblock Relative importance of competition and plant--soil feedback, their
   synergy, context dependency and implications for coexistence.
 \newblock \emph{Ecology Letters} \textbf{21}:1268--1281.
 
@@ -667,6 +892,12 @@ Lemoine, N.~P. and D.~E. Burkepile, 2012.
 \newblock Temperature-induced mismatches between consumption and metabolism
   reduce consumer fitness.
 \newblock \emph{Ecology} \textbf{93}:2483--2489.
+
+\bibitem[Lennon and Jones(2011)]{Lennon2011}
+Lennon, J.~T. and S.~E. Jones, 2011.
+\newblock Microbial seed banks: the ecological and evolutionary implications of
+  dormancy.
+\newblock \emph{Nature reviews microbiology} \textbf{9}:119.
 
 \bibitem[Le{\'o}n and Tumpson(1975)]{leon1975}
 Le{\'o}n, J.~A. and D.~B. Tumpson, 1975.
@@ -678,7 +909,7 @@ Le{\'o}n, J.~A. and D.~B. Tumpson, 1975.
   M{\"u}nzbergov{\'a}]{Lepinay2018}
 Lepinay, C., Z.~Vondr{\'a}kov{\'a}, T.~Dost{\'a}lek, and
   Z.~M{\"u}nzbergov{\'a}, 2018.
-\newblock Duration of the conditioning phase affects the results of plant-soil
+\newblock Duration of the conditioning phase affects the results of plant--soil
   feedback experiments via soil chemical properties.
 \newblock \emph{Oecologia} \textbf{186}:459--470.
 
@@ -693,6 +924,12 @@ Letten, A.~D., M.~K. Dhami, P.-J. Ke, and T.~Fukami, 2018.
 Letten, A.~D., P.-J. Ke, and T.~Fukami, 2017.
 \newblock Linking modern coexistence theory and contemporary niche theory.
 \newblock \emph{Ecological Monographs} \textbf{87}:161--177.
+
+\bibitem[Letten and Stouffer(2019)]{Letten2019}
+Letten, A.~D. and D.~B. Stouffer, 2019.
+\newblock The mechanistic basis for higher-order interactions and
+  non-additivity in competitive communities.
+\newblock \emph{Ecology letters} \textbf{22}:423--436.
 
 \bibitem[Levine and HilleRisLambers(2009)]{Levine2009}
 Levine, J.~M. and J.~HilleRisLambers, 2009.
@@ -744,7 +981,7 @@ MacArthur, R.~H., 1972.
   and Bever]{Mangan2010}
 Mangan, S.~A., S.~A. Schnitzer, E.~A. Herre, K.~M.~L. Mack, M.~C. Valencia,
   E.~I. Sanchez, and J.~D. Bever, 2010.
-\newblock {Negative plant-soil feedback predicts tree-species relative
+\newblock {Negative plant--soil feedback predicts tree-species relative
   abundance in a tropical forest.}
 \newblock \emph{Nature} \textbf{466}:752--755.
 
@@ -752,7 +989,7 @@ Mangan, S.~A., S.~A. Schnitzer, E.~A. Herre, K.~M.~L. Mack, M.~C. Valencia,
   Drigo, Veen, van~der Heijden, and Kardol]{Mariotte2018}
 Mariotte, P., Z.~Mehrabi, T.~M. Bezemer, G.~B. De~Deyn, A.~Kulmatiski,
   B.~Drigo, G.~F.~C. Veen, M.~G.~A. van~der Heijden, and P.~Kardol, 2018.
-\newblock Plant-soil feedback: Bridging natural and agricultural sciences.
+\newblock Plant--soil feedback: Bridging natural and agricultural sciences.
 \newblock \emph{Trends in Ecology \& Evolution} \textbf{33}:129--142.
 
 \bibitem[Maron and Connors(1996)]{Maron1996}
@@ -794,6 +1031,12 @@ Mazzola, M., 1999.
 McCann, K.~S., 2011.
 \newblock Food webs.
 \newblock Princeton University Press, Princeton, NJ, USA.
+
+\bibitem[McGuire(2007)]{McGuire2007}
+McGuire, K.~L., 2007.
+\newblock Common ectomycorrhizal networks may maintain monodominance in a
+  tropical rain forest.
+\newblock \emph{Ecology} \textbf{88}:567--574.
 
 \bibitem[McMurdie and Holmes(2013)]{McMurdie2013}
 McMurdie, P.~J. and S.~Holmes, 2013.
@@ -888,6 +1131,12 @@ Nguyen, N.~H., Z.~Song, S.~T. Bates, S.~Branco, L.~Tedersoo, J.~Menke, J.~S.
   datasets by ecological guild.
 \newblock \emph{Fungal Ecology} \textbf{20}:241 -- 248.
 
+\bibitem[Norby et~al.(1987)Norby, O'Neill, Hood, and Luxmoore]{Norby1987}
+Norby, R.~J., E.~G. O'Neill, W.~G. Hood, and R.~J. Luxmoore, 1987.
+\newblock Carbon allocation, root exudation and mycorrhizal colonization of
+  {{Pinus}} echinata seedlings grown under {{CO2}} enrichment.
+\newblock \emph{Tree Physiology} \textbf{3}:203--210.
+
 \bibitem[Novoa et~al.(2013)Novoa, González, Moravcová, and Pyšek]{Novoa2013}
 Novoa, A., L.~González, L.~Moravcová, and P.~Pyšek, 2013.
 \newblock Constraints to native plant species establishment in coastal dune
@@ -927,11 +1176,24 @@ Pauw, A., 2013.
 \newblock Can pollination niches facilitate plant coexistence?
 \newblock \emph{Trends in Ecology \& Evolution} \textbf{28}:30--37.
 
+\bibitem[Peay(2016)]{Peay2016}
+Peay, K.~G., 2016.
+\newblock The mutualistic niche: mycorrhizal symbiosis and community dynamics.
+\newblock \emph{Annual Review of Ecology, Evolution, and Systematics}
+  \textbf{47}:143--164.
+
 \bibitem[Peay(2018)]{Peay2018}
 Peay, K.~G., 2018.
 \newblock Timing of mutualist arrival has a greater effect on pinus muricata
   seedling growth than interspecific competition.
 \newblock \emph{Journal of Ecology} \textbf{106}:514--523.
+
+\bibitem[Petermann et~al.(2008)Petermann, Fergus, Turnbull, and
+  Schmid]{Petermann2008}
+Petermann, J.~S., A.~J.~F. Fergus, L.~A. Turnbull, and B.~Schmid, 2008.
+\newblock Janzen--{{Connell effects are widespread}} and {{strong enough}} to
+  {{maintain diversity}} in {{grasslands}}.
+\newblock \emph{Ecology} \textbf{89}:2399--2406.
 
 \bibitem[Petraitis(2013)]{Petraitis2013}
 Petraitis, P., 2013.
@@ -966,11 +1228,22 @@ Rall, B.~C., O.~Vucic-Pestic, R.~B. Ehnes, M.~Emmerson, and U.~Brose, 2010.
   stability.
 \newblock \emph{Global Change Biology} \textbf{16}:2145--2157.
 
+\bibitem[Rasmann et~al.(2011)Rasmann, Bauerle, Poveda, and
+  Vannette]{Rasmann2011}
+Rasmann, S., T.~L. Bauerle, K.~Poveda, and R.~Vannette, 2011.
+\newblock Predicting root defence against herbivores during succession.
+\newblock \emph{Functional Ecology} \textbf{25}:368--379.
+
 \bibitem[Reinhart et~al.(2010)Reinhart, Royo, Kageyama, and Clay]{Reinhart2010}
 Reinhart, K.~O., A.~a. Royo, S.~A. Kageyama, and K.~Clay, 2010.
 \newblock {Canopy gaps decrease microbial densities and disease risk for a
   shade-intolerant tree species}.
 \newblock \emph{Acta Oecologica} \textbf{36}:530--536.
+
+\bibitem[Revilla et~al.(2013)Revilla, Veen, Eppinga, and Weissing]{Revilla2013}
+Revilla, T.~A., G.~F.~C. Veen, M.~B. Eppinga, and F.~J. Weissing, 2013.
+\newblock {Plant--soil feedbacks and the coexistence of competing plants}.
+\newblock \emph{Theoretical Ecology} \textbf{6}:99--113.
 
 \bibitem[Rinaldi and Scheffer(2000)]{Rinaldi2000}
 Rinaldi, S. and M.~Scheffer, 2000.
@@ -979,7 +1252,7 @@ Rinaldi, S. and M.~Scheffer, 2000.
 
 \bibitem[Rinella and Reinhart(2018)]{Rinella2018}
 Rinella, M.~J. and K.~O. Reinhart, 2018.
-\newblock Toward more robust plant-soil feedback research.
+\newblock Toward more robust plant--soil feedback research.
 \newblock \emph{Ecology} \textbf{99}:550--556.
 
 \bibitem[Rognes et~al.(2016)Rognes, Flouri, Nichols, Quince, and
@@ -1007,6 +1280,13 @@ Roy-Bolduc, A., E.~Lalibert{\'e}, S.~Boudreau, and M.~Hijri, 2016.
   successional coastal dune system}.
 \newblock \emph{FEMS Microbiology Ecology} \textbf{92}.
 
+\bibitem[Saavedra et~al.(2017)Saavedra, Rohr, Bascompte, Godoy, Kraft, and
+  Levine]{Saavedra2017}
+Saavedra, S., R.~P. Rohr, J.~Bascompte, O.~Godoy, N.~J.~B. Kraft, and J.~M.
+  Levine, 2017.
+\newblock A structural approach for understanding multispecies coexistence.
+\newblock \emph{Ecological Monographs} \textbf{87}:470--486.
+
 \bibitem[Scheublin et~al.(2004)Scheublin, Ridgway, Young, and van~der
   Heijden]{Scheublin2004}
 Scheublin, T.~R., K.~P. Ridgway, J.~P.~W. Young, and M.~G.~A. van~der Heijden,
@@ -1028,6 +1308,12 @@ Sears, A. L.~W. and P.~Chesson, 2007.
   illustration with desert annuals}.
 \newblock \emph{Ecology} \textbf{88}:2240--2247.
 
+\bibitem[Shannon et~al.(2012)Shannon, Flory, and Reynolds]{Shannon2012}
+Shannon, S., S.~L. Flory, and H.~Reynolds, 2012.
+\newblock Competitive context alters plant--soil feedback in an experimental
+  woodland community.
+\newblock \emph{Oecologia} \textbf{169}:235--243.
+
 \bibitem[Siepielski et~al.(2011)Siepielski, Mertens, Wilkinson, and
   McPeek]{Siepielski2011}
 Siepielski, A.~M., A.~N. Mertens, B.~L. Wilkinson, and M.~A. McPeek, 2011.
@@ -1040,6 +1326,11 @@ Sikes, B.~A., H.~Maherali, and J.~N. Klironomos, 2014.
 \newblock Mycorrhizal fungal growth responds to soil characteristics, but not
   host plant identity, during a primary lacustrine dune succession.
 \newblock \emph{Mycorrhiza} \textbf{24}:219--226.
+
+\bibitem[Silvertown(2004)]{Silvertown2004}
+Silvertown, J., 2004.
+\newblock {Plant coexistence and the niche}.
+\newblock \emph{Trends in Ecology \& Evolution} \textbf{19}:605--611.
 
 \bibitem[Slatkin(1974)]{Slatkin1974}
 Slatkin, M., 1974.
@@ -1061,7 +1352,7 @@ Sousa, W.~P., 1984.
 Speek, T.~A., J.~H. Schamin{\'e}e, J.~M. Stam, L.~A. Lotz, W.~A. Ozinga, and
   W.~H. van~der Putten, 2015.
 \newblock Local dominance of exotic plants declines with residence time: a role
-  for plant-soil feedback?
+  for plant--soil feedback?
 \newblock \emph{AoB Plants} \textbf{7}:plv021.
 
 \bibitem[Suding et~al.(2013)Suding, Stanley~Harpole, Fukami, Kulmatiski,
@@ -1082,7 +1373,7 @@ Tanabe, A.~S. and H.~Toju, 2013.
   Lalibert{\'e}]{Teste2017}
 Teste, F.~P., P.~Kardol, B.~L. Turner, D.~A. Wardle, G.~Zemunik, M.~Renton, and
   E.~Lalibert{\'e}, 2017.
-\newblock Plant-soil feedback and the maintenance of diversity in
+\newblock Plant--soil feedback and the maintenance of diversity in
   mediterranean-climate shrublands.
 \newblock \emph{Science} \textbf{355}:173--176.
 
@@ -1110,6 +1401,18 @@ Tucker, C.~M. and T.~Fukami, 2014.
 \newblock \emph{Proceedings of the Royal Society B: Biological Sciences}
   \textbf{281}:20132637.
 
+\bibitem[Umbanhowar and McCann(2005)]{Umbanhowar2005}
+Umbanhowar, J. and K.~McCann, 2005.
+\newblock Simple rules for the coexistence and competitive dominance of plants
+  mediated by mycorrhizal fungi.
+\newblock \emph{Ecology Letters} \textbf{8}:247--252.
+
+\bibitem[Urcelay and D{\'\i}az(2003)]{Urcelay2003}
+Urcelay, C. and S.~D{\'\i}az, 2003.
+\newblock The mycorrhizal dependence of subordinates determines the effect of
+  arbuscular mycorrhizal fungi on plant diversity.
+\newblock \emph{Ecology Letters} \textbf{6}:388--391.
+
 \bibitem[van Breugel et~al.(2006)van Breugel, Martínez-Ramos, and
   Bongers]{vanbreugel2006}
 van Breugel, M., M.~Martínez-Ramos, and F.~Bongers, 2006.
@@ -1123,7 +1426,8 @@ van Breugel, M., M.~Martínez-Ramos, and F.~Bongers, 2006.
 van~der Putten, W.~H., R.~D. Bardgett, J.~D. Bever, T.~M. Bezemer, B.~B.
   Casper, T.~Fukami, P.~Kardol, J.~N. Klironomos, A.~Kulmatiski, J.~A.
   Schweitzer, K.~N. Suding, T.~F.~J. van~der Voorde, and D.~A. Wardle, 2013.
-\newblock {Plant-soil feedbacks : the past, the present and future challenges}.
+\newblock {Plant--soil feedbacks : the past, the present and future
+  challenges}.
 \newblock \emph{Journal of Ecology} \textbf{101}:265--276.
 
 \bibitem[Vannette and Fukami(2014)]{Vannette2014}
@@ -1136,6 +1440,14 @@ Vannette, R.~L. and T.~Fukami, 2014.
 Vellend, M., 2016.
 \newblock The Theory of Ecological Communities.
 \newblock Princeton University Press, Princeton, NJ, USA.
+
+\bibitem[Veresoglou et~al.(2012)Veresoglou, Menexes, and
+  Rillig]{Veresoglou2012}
+Veresoglou, S.~D., G.~Menexes, and M.~C. Rillig, 2012.
+\newblock Do arbuscular mycorrhizal fungi affect the allometric partition of
+  host plant biomass to shoots and roots? a meta-analysis of studies from 1990
+  to 2010.
+\newblock \emph{Mycorrhiza} \textbf{22}:227--235.
 
 \bibitem[Vincent et~al.(1996)Vincent, Scheel, Brown, and Vincent]{Vincent1996}
 Vincent, T., D.~Scheel, J.~S. Brown, and T.~Vincent, 1996.
@@ -1169,7 +1481,7 @@ Wang, Q., G.~M. Garrity, J.~M. Tiedje, and J.~R. Cole, 2007.
 
 \bibitem[Wubs and Bezemer(2018)]{Wubs2017}
 Wubs, E. R.~J. and T.~M. Bezemer, 2018.
-\newblock Temporal carry-over effects in sequential plant-soil feedbacks.
+\newblock Temporal carry-over effects in sequential plant--soil feedbacks.
 \newblock \emph{Oikos} \textbf{127}:220--229.
 
 \bibitem[Wubs et~al.(2016)Wubs, van~der Putten, Bosch, and Bezemer]{Wubs2016}
@@ -1177,6 +1489,12 @@ Wubs, E. R.~J., W.~H. van~der Putten, M.~Bosch, and T.~M. Bezemer, 2016.
 \newblock Soil inoculation steers restoration of terrestrial ecosystems.
 \newblock \emph{Nature Plants} \textbf{2}:16107 EP --.
 \newblock Letter.
+
+\bibitem[Yamazaki et~al.(2008)Yamazaki, Iwamoto, and Seiwa]{Yamazaki2008}
+Yamazaki, M., S.~Iwamoto, and K.~Seiwa, 2008.
+\newblock {Distance- and density-dependent seedling mortality caused by several
+  diseases in eight tree species co-occurring in a temperate forest}.
+\newblock \emph{Plant Ecology} \textbf{201}:181--196.
 
 \bibitem[Yang and Rudolf(2010)]{Yang2010}
 Yang, L.~H. and V.~Rudolf, 2010.
@@ -1200,5 +1518,11 @@ Zhao, L., Q.-G. Zhang, and D.-Y. Zhang, 2016.
 \newblock Evolution alters ecological mechanisms of coexistence in experimental
   microcosms.
 \newblock \emph{Functional Ecology} \textbf{30}:1440--1446.
+
+\bibitem[Zheng et~al.(2015)Zheng, Ji, Zhang, Zhang, and Bever]{Zheng2015}
+Zheng, C., B.~Ji, J.~Zhang, F.~Zhang, and J.~D. Bever, 2015.
+\newblock Shading decreases plant carbon preferential allocation towards the
+  most beneficial mycorrhizal mutualist.
+\newblock \emph{New Phytologist} \textbf{205}:361--368.
 
 \end{thebibliography}

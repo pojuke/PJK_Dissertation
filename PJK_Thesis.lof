@@ -11,33 +11,43 @@
 \contentsline {figure}{\numberline {3.2}{\ignorespaces Effect of changing species' consumption vector and the supply ratio of two resources in a consumer-resource model on the fitness ratio and stabilization potential of coexistence theory.}}{57}{figure.caption.34}
 \contentsline {figure}{\numberline {3.3}{\ignorespaces Positive frequency dependence emergeing from endogenously generated resource fluctuations.}}{58}{figure.caption.35}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Compositional differences among fungal communities associated with plant individuals across three sampling years.}}{75}{figure.caption.40}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Overall compositional shifts of the fungal community from 2015 to 2017.}}{76}{figure.caption.41}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces The relationship between plant age and beta diversity of fungal communities associated with chronosequence plant individuals when a three-year moving window was applied.}}{77}{figure.caption.42}
-\contentsline {figure}{\numberline {4.4}{\ignorespaces The relationship between plant age and Bray--Curtis dissimilarity between the fungal community observed in 2016 and the 2015 chronosequence prediction.}}{78}{figure.caption.43}
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Predicted temporal trends of potential pathotrophic fungal OTUs associated with \textit {C. edulis} and \textit {L. arboreus} individuals.}}{79}{figure.caption.44}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Conceptual framework for the plant--soil microbe interaction model.}}{91}{figure.caption.46}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Potential effects of soil microbes on the outcome of plant competition, visualized on the parameter space of niche difference and fitness ratio.}}{92}{figure.caption.47}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Examples of how plant--soil microbe interactions and plant--plant competition together determine competition outcome.}}{93}{figure.caption.48}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Experimental designs to quantify the effects of soil microbes on plant competitive outcome.}}{94}{figure.caption.49}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Applying modern coexistence theory to understand the effects of soil microbes on plant competitive outcome using data from \citet {Aguilera2017}as a case study.}}{95}{figure.caption.50}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Study area at Bodega Bay.}}{99}{figure.caption.45}
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Fungal community composition as a function of plant species and the age of plant individuals.}}{100}{figure.caption.46}
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Mean ($\pm $ SE) microbial effects for each plant species in soils conditioned by different plants, neglecting the effects of soil conditioning length.}}{101}{figure.caption.47}
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Temporal trends of microbial effects for each plant $\times $ soil host species combination.}}{102}{figure.caption.48}
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Simulated community convergence patterns under different temporal development scenarios of the underlying plant--soil microbe interactions.}}{103}{figure.caption.49}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Compositional differences among fungal communities associated with plant individuals across three sampling years.}}{114}{figure.caption.54}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Overall compositional shifts of the fungal community from 2015 to 2017.}}{115}{figure.caption.55}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces The relationship between plant age and beta diversity of fungal communities associated with chronosequence plant individuals when a three-year moving window was applied.}}{116}{figure.caption.56}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces The relationship between plant age and Bray--Curtis dissimilarity between the fungal community observed in 2016 and the 2015 chronosequence prediction.}}{117}{figure.caption.57}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Predicted temporal trends of potential pathotrophic fungal OTUs associated with \textit {C. edulis} and \textit {L. arboreus} individuals.}}{118}{figure.caption.58}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces The effect of changing impact niche overlap asymmetrically under pairwise competition for substitutable resources.}}{115}{figure.caption.106}
-\contentsline {figure}{\numberline {A.2}{\ignorespaces The effect of rotating the impact vectors in a common direction whilst holding impact niche overlap constant, under pairwise competition for substitutable resources.}}{117}{figure.caption.107}
-\contentsline {figure}{\numberline {A.3}{\ignorespaces The effects of changing requirement niche overlap without fixing the equilibrium resource density for the essential resources model.}}{118}{figure.caption.108}
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Study area at Bodega Bay.}}{138}{figure.caption.59}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Fungal community composition as a function of plant species and the age of plant individuals.}}{139}{figure.caption.60}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Mean ($\pm $ SE) microbial effects for each plant species in soils conditioned by different plants, neglecting the effects of soil conditioning length.}}{140}{figure.caption.61}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Temporal trends of microbial effects for each plant $\times $ soil host species combination.}}{141}{figure.caption.62}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Simulated community convergence patterns under different temporal development scenarios of the underlying plant--soil microbe interactions.}}{142}{figure.caption.63}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces The effect of changing impact niche overlap asymmetrically under pairwise competition for substitutable resources.}}{154}{figure.caption.120}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces The effect of rotating the impact vectors in a common direction whilst holding impact niche overlap constant, under pairwise competition for substitutable resources.}}{156}{figure.caption.121}
+\contentsline {figure}{\numberline {A.3}{\ignorespaces The effects of changing requirement niche overlap without fixing the equilibrium resource density for the essential resources model.}}{157}{figure.caption.122}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {C.1}{\ignorespaces The effects of varying plant--soil microbe interactions ($\sigma _{AA}$ and $\sigma _{BB}$) and plant--plant competition on competitive outcomes for the Janzen--Connell scenario.}}{172}{figure.caption.157}
+\contentsline {figure}{\numberline {C.2}{\ignorespaces The effects of varying plant--soil microbe interactions ($\sigma _{BA}$ and $\sigma _{BB}$) and plant--plant competition on competition outcomes for the enemy release scenario.}}{173}{figure.caption.158}
+\contentsline {figure}{\numberline {C.3}{\ignorespaces The effects of varying plant--soil microbe interactions ($\sigma _{BA}$ and $\sigma _{AB}$) and plant--plant competition on competition outcomes for the mutual facilitation scenario.}}{174}{figure.caption.159}
+\contentsline {figure}{\numberline {C.4}{\ignorespaces The effects of varying plant--soil microbe interactions ($\phi _{B}$) and plant--plant competition on competition outcomes for the differential soil conditioning scenario.}}{175}{figure.caption.160}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {D.1}{\ignorespaces Compositional shifts in fungal communities from the same plant individual among different sampling years.}}{126}{figure.caption.118}
-\contentsline {figure}{\numberline {D.2}{\ignorespaces The relationship between plant age and beta diversity of fungal communities associated with chronosequence plant individuals.}}{127}{figure.caption.119}
-\contentsline {figure}{\numberline {D.3}{\ignorespaces The relationship between plant age and Bray--Curtis dissimilarity between the fungal community observed in 2017 and the 2015 chronosequence prediction.}}{128}{figure.caption.120}
-\contentsline {figure}{\numberline {D.4}{\ignorespaces Predicted temporal trends and potential functional guilds of fungal OTUs associated with \textit {C. edulis} and \textit {L. arboreus}.}}{129}{figure.caption.121}
+\contentsline {figure}{\numberline {D.1}{\ignorespaces Compositional shifts in fungal communities from the same plant individual among different sampling years.}}{177}{figure.caption.161}
+\contentsline {figure}{\numberline {D.2}{\ignorespaces The relationship between plant age and beta diversity of fungal communities associated with chronosequence plant individuals.}}{178}{figure.caption.162}
+\contentsline {figure}{\numberline {D.3}{\ignorespaces The relationship between plant age and Bray--Curtis dissimilarity between the fungal community observed in 2017 and the 2015 chronosequence prediction.}}{179}{figure.caption.163}
+\contentsline {figure}{\numberline {D.4}{\ignorespaces Predicted temporal trends and potential functional guilds of fungal OTUs associated with \textit {C. edulis} and \textit {L. arboreus}.}}{180}{figure.caption.164}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {E.1}{\ignorespaces NMDS ordination of all (a) fungal and (b) bacterial communities.}}{140}{figure.caption.122}
-\contentsline {figure}{\numberline {E.2}{\ignorespaces Fungal community richness as a function of plant age.}}{141}{figure.caption.123}
-\contentsline {figure}{\numberline {E.3}{\ignorespaces Bacterial community richness as a function of plant age.}}{142}{figure.caption.124}
-\contentsline {figure}{\numberline {E.4}{\ignorespaces Bacterial community composition as a function of plant species and the age of plant individuals.}}{143}{figure.caption.125}
-\contentsline {figure}{\numberline {E.5}{\ignorespaces HMSC results demonstrating which fungal families show significant temporal trends.}}{144}{figure.caption.126}
-\contentsline {figure}{\numberline {E.6}{\ignorespaces HMSC results demonstrating which bacterial families show significant temporal trends.}}{145}{figure.caption.127}
-\contentsline {figure}{\numberline {E.7}{\ignorespaces Simulated community convergence patterns under different plant--soil microbe interaction types and different temporal development scenarios.}}{146}{figure.caption.128}
+\contentsline {figure}{\numberline {E.1}{\ignorespaces NMDS ordination of all (a) fungal and (b) bacterial communities.}}{191}{figure.caption.165}
+\contentsline {figure}{\numberline {E.2}{\ignorespaces Fungal community richness as a function of plant age.}}{192}{figure.caption.166}
+\contentsline {figure}{\numberline {E.3}{\ignorespaces Bacterial community richness as a function of plant age.}}{193}{figure.caption.167}
+\contentsline {figure}{\numberline {E.4}{\ignorespaces Bacterial community composition as a function of plant species and the age of plant individuals.}}{194}{figure.caption.168}
+\contentsline {figure}{\numberline {E.5}{\ignorespaces HMSC results demonstrating which fungal families show significant temporal trends.}}{195}{figure.caption.169}
+\contentsline {figure}{\numberline {E.6}{\ignorespaces HMSC results demonstrating which bacterial families show significant temporal trends.}}{196}{figure.caption.170}
+\contentsline {figure}{\numberline {E.7}{\ignorespaces Simulated community convergence patterns under different plant--soil microbe interaction types and different temporal development scenarios.}}{197}{figure.caption.171}

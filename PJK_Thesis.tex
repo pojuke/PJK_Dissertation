@@ -67,6 +67,32 @@
 \usepackage{comment}
 \usepackage{fancyhdr}
 
+% For table
+\newenvironment{myindentpar}[1]%
+{\begin{list}{}%
+		{\setlength{\leftmargin}{#1}}%
+		\item[]%
+	}
+	{\end{list}}
+\newcommand*\samethanks[1][\value{footnote}]{\footnotemark[#1]}
+\newcommand\blfootnote[1]{%
+	\begingroup
+	\renewcommand\thefootnote{}\footnote{#1}%
+	\addtocounter{footnote}{-1}%
+	\endgroup
+}
+%\newcommand{+}{\raisebox{.4\height}{\scalebox{.6}{+}}}
+\newcommand{\minus}{\raisebox{.4\height}{\scalebox{.8}{-}}}
+
+% Command to center oversized images in floats
+\makeatletter
+\newcommand{\centerfloat}{%
+	\parindent \z@
+	\leftskip \z@ \@plus 1fil \@minus \textwidth
+	\rightskip\leftskip
+	\parfillskip \z@skip}
+\makeatother
+
 % Super nice code adding numbers to the text boxes
 \newtcolorbox[auto counter, number within=chapter, list inside=infobox]{infobox}[2][]{
 	breakable,
@@ -135,7 +161,7 @@
 \include{Chapter1/Introduction}
 \include{Chapter2/Chapter2}
 \include{Chapter3/Chapter3}
-% \include{Chapter4/Chapter4}
+\include{Chapter4/Chapter4}
 \include{Chapter5/Chapter5}
 \include{Chapter6/Chapter6}
 

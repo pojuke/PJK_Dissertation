@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  19 MAY 2019 01:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  20 MAY 2019 01:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1188,64 +1188,65 @@ Package: tabularx 2014/10/28 v2.10 `tabularx' package (DPC)
 
 Excluding comment 'comment')
 \c@tcb@cnt@infobox=\count186
-LaTeX Font Info:    Try loading font information for T1+zpltlf on input line 11
-2.
+LaTeX Font Info:    Try loading font information for T1+zpltlf on input line 13
+8.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/newpx/t1zpltlf.fd
 File: t1zpltlf.fd 2015/01/17 v1.0 font definition file for T1/zpl/tlf
 )
 LaTeX Font Info:    Font shape `T1/zpltlf/m/n' will be
-(Font)              scaled to size 10.95pt on input line 112.
+(Font)              scaled to size 10.95pt on input line 138.
 
 (./PJK_Thesis.aux (./Preface/Abstract.aux) (./Chapter1/Introduction.aux)
-(./Chapter2/Chapter2.aux) (./Chapter3/Chapter3.aux) (./Chapter5/Chapter5.aux)
-(./Chapter6/Chapter6.aux) (./Chapter2/Chapter2Appendix.aux)
-(./Chapter3/Chapter3Appendix.aux) (./Chapter4/Chapter4Appendix.aux)
-(./Chapter5/Chapter5Appendix.aux) (./Chapter6/Chapter6Appendix.aux))
+(./Chapter2/Chapter2.aux) (./Chapter3/Chapter3.aux) (./Chapter4/Chapter4.aux)
+(./Chapter5/Chapter5.aux) (./Chapter6/Chapter6.aux)
+(./Chapter2/Chapter2Appendix.aux) (./Chapter3/Chapter3Appendix.aux)
+(./Chapter4/Chapter4Appendix.aux) (./Chapter5/Chapter5Appendix.aux)
+(./Chapter6/Chapter6Appendix.aux))
 \openout1 = `PJK_Thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/npxmi/m/it on input line 112.
-LaTeX Font Info:    Try loading font information for OML+npxmi on input line 11
-2.
+LaTeX Font Info:    Checking defaults for OML/npxmi/m/it on input line 138.
+LaTeX Font Info:    Try loading font information for OML+npxmi on input line 13
+8.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/newpx/omlnpxmi.fd
 File: omlnpxmi.fd 2013/03/21 Fontinst v1.933 font definitions for OML/npxmi.
 )
-LaTeX Font Info:    ... okay on input line 112.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 112.
-LaTeX Font Info:    ... okay on input line 112.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 112.
-LaTeX Font Info:    ... okay on input line 112.
-LaTeX Font Info:    Checking defaults for OMS/npxsy/m/n on input line 112.
-LaTeX Font Info:    Try loading font information for OMS+npxsy on input line 11
-2.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for OMS/npxsy/m/n on input line 138.
+LaTeX Font Info:    Try loading font information for OMS+npxsy on input line 13
+8.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/newpx/omsnpxsy.fd
 File: omsnpxsy.fd 2013/03/24 Fontinst v1.933 font definitions for OMS/npxsy.
 )
-LaTeX Font Info:    ... okay on input line 112.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 112.
-LaTeX Font Info:    ... okay on input line 112.
-LaTeX Font Info:    Checking defaults for U/npxexa/m/n on input line 112.
-LaTeX Font Info:    Try loading font information for U+npxexa on input line 112
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for U/npxexa/m/n on input line 138.
+LaTeX Font Info:    Try loading font information for U+npxexa on input line 138
 .
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/newpx/unpxexa.fd
 File: unpxexa.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxexa.
 )
-LaTeX Font Info:    ... okay on input line 112.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 112.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 112.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 138.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 138.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 112.
-LaTeX Font Info:    Checking defaults for LMX/npxexx/m/n on input line 112.
-LaTeX Font Info:    ... okay on input line 112.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 112.
-LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for LMX/npxexx/m/n on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
 
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1263,15 +1264,15 @@ LaTeX Font Info:    ... okay on input line 112.
 )
 \symgns@font=\mathgroup10
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
-(Font)                  TS1/zpltlf/m/n --> TS1/zpltlf/bx/n on input line 112.
-Package gensymb Info: Math companion symbols declared on input line 112.
-LaTeX Info: Redefining \degree on input line 112.
-LaTeX Info: Redefining \celsius on input line 112.
+(Font)                  TS1/zpltlf/m/n --> TS1/zpltlf/bx/n on input line 138.
+Package gensymb Info: Math companion symbols declared on input line 138.
+LaTeX Info: Redefining \degree on input line 138.
+LaTeX Info: Redefining \celsius on input line 138.
 Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
-erthousand on input line 112.
-LaTeX Info: Redefining \ohm on input line 112.
-Package gensymb Info: Using \textohm for \ohm on input line 112.
-Package gensymb Info: Using \textmu for \micro on input line 112.
+erthousand on input line 138.
+LaTeX Info: Redefining \ohm on input line 138.
+Package gensymb Info: Using \textohm for \ohm on input line 138.
+Package gensymb Info: Using \textmu for \micro on input line 138.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/ms/ragged2e.sty
 Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
 
@@ -1300,7 +1301,7 @@ ABD: EveryShipout initializing macros
 \c@mv@tabular=\count193
 \c@mv@boldtabular=\count194
 \AtBeginShipoutBox=\box74
-Package hyperref Info: Link coloring OFF on input line 112.
+Package hyperref Info: Link coloring OFF on input line 138.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1310,9 +1311,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count195
 )
-LaTeX Info: Redefining \ref on input line 112.
-LaTeX Info: Redefining \pageref on input line 112.
-LaTeX Info: Redefining \nameref on input line 112.
+LaTeX Info: Redefining \ref on input line 138.
+LaTeX Info: Redefining \pageref on input line 138.
+LaTeX Info: Redefining \nameref on input line 138.
 
 (./PJK_Thesis.out) (./PJK_Thesis.out)
 \@outlinefile=\write7
@@ -1321,57 +1322,57 @@ LaTeX Info: Redefining \nameref on input line 112.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Font shape `T1/zpltlf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 117.
+(Font)              scaled to size 12.0pt on input line 143.
  [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Try loading font information for TS1+zpltlf on input line 1
-17.
+43.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/newpx/ts1zpltlf.fd
 File: ts1zpltlf.fd 2015/01/18 v1.0 fd file for TS1/zpltlf
 )
 LaTeX Font Info:    Font shape `TS1/zpltlf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 117.
+(Font)              scaled to size 12.0pt on input line 143.
  [2]
 LaTeX Font Info:    Font shape `T1/zpltlf/m/n' will be
-(Font)              scaled to size 8.0pt on input line 117.
+(Font)              scaled to size 8.0pt on input line 143.
 LaTeX Font Info:    Font shape `T1/zpltlf/m/n' will be
-(Font)              scaled to size 6.1pt on input line 117.
-LaTeX Font Info:    Try loading font information for U+msa on input line 117.
+(Font)              scaled to size 6.1pt on input line 143.
+LaTeX Font Info:    Try loading font information for U+msa on input line 143.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 117.
+LaTeX Font Info:    Try loading font information for U+msb on input line 143.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+npxmia on input line 117
+LaTeX Font Info:    Try loading font information for U+npxmia on input line 143
 .
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/newpx/unpxmia.fd
 File: unpxmia.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxmia.
 )
-LaTeX Font Info:    Try loading font information for U+npxsym on input line 117
+LaTeX Font Info:    Try loading font information for U+npxsym on input line 143
 .
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/newpx/unpxsym.fd
 File: unpxsym.fd 2015/03/21 Fontinst v1.933 font definitions for U/npxsym.
 )
-LaTeX Font Info:    Try loading font information for U+npxsyc on input line 117
+LaTeX Font Info:    Try loading font information for U+npxsyc on input line 143
 .
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/newpx/unpxsyc.fd
 File: unpxsyc.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxsyc.
 )
 LaTeX Font Info:    Font shape `TS1/zpltlf/m/n' will be
-(Font)              scaled to size 10.95pt on input line 117.
+(Font)              scaled to size 10.95pt on input line 143.
 LaTeX Font Info:    Font shape `TS1/zpltlf/m/n' will be
-(Font)              scaled to size 8.0pt on input line 117.
+(Font)              scaled to size 8.0pt on input line 143.
 LaTeX Font Info:    Font shape `TS1/zpltlf/m/n' will be
-(Font)              scaled to size 6.1pt on input line 117.
+(Font)              scaled to size 6.1pt on input line 143.
  [3] [4
 
 ]
@@ -1392,41 +1393,52 @@ LaTeX Font Info:    Font shape `T1/zpltlf/b/n' will be
  [6
 
 
-]
+] [7]
+Overfull \hbox (3.3604pt too wide) in paragraph at lines 71--71
+ [][] [][]\T1/zpltlf/m/n/10.95 Appendix S1 -- Pos-i-tive fre-quency de-pen-denc
+e in an equi-lib-rium and nonequi- 
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7]
-[8])
+ [8])
 \tf@toc=\write8
 \openout8 = `PJK_Thesis.toc'.
 
- [9] (./PJK_Thesis.lot)
+
+[9] (./PJK_Thesis.lot)
 \tf@lot=\write9
 \openout9 = `PJK_Thesis.lot'.
 
  [10
 
 ] (./PJK_Thesis.lof
-Underfull \vbox (badness 5771) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11
 
 ]
 LaTeX Font Info:    Font shape `T1/zpltlf/m/it' will be
-(Font)              scaled to size 10.95pt on input line 18.
+(Font)              scaled to size 10.95pt on input line 24.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [12])
+ [12]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13])
 \tf@lof=\write10
 \openout10 = `PJK_Thesis.lof'.
 
 
-[13] (./PJK_Thesis.infobox)
+[14] (./PJK_Thesis.infobox)
 \tf@infobox=\write11
 \openout11 = `PJK_Thesis.infobox'.
 
- [14
+ [15
+
+] [16
 
 ]
 \openout2 = `Chapter1/Introduction.aux'.
@@ -1440,7 +1452,6 @@ LaTeX Font Info:    Font shape `T1/zpltlf/bx/n' in size <14.4> not available
 LaTeX Font Info:    Font shape `T1/zpltlf/b/n' will be
 (Font)              scaled to size 14.4pt on input line 12.
 [1
-
 
 
 ]
@@ -1708,7 +1719,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[34] <Chapter2/conceptfig.pdf, id=1237, 867.24pt x 433.62pt>
+[34] <Chapter2/conceptfig.pdf, id=1352, 867.24pt x 433.62pt>
 File: Chapter2/conceptfig.pdf Graphic file (type pdf)
 
 <use Chapter2/conceptfig.pdf>
@@ -1724,7 +1735,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [35
 
  <./Chapter2/conceptfig.pdf>]
-<Chapter2/supply-ms-fig-flippedcols.pdf, id=1274, 722.7pt x 722.7pt>
+<Chapter2/supply-ms-fig-flippedcols.pdf, id=1387, 722.7pt x 722.7pt>
 File: Chapter2/supply-ms-fig-flippedcols.pdf Graphic file (type pdf)
 
 <use Chapter2/supply-ms-fig-flippedcols.pdf>
@@ -1739,7 +1750,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [36 <./Chapter2/supply-ms-fig-flippedcols.pdf>]
-<Chapter2/Box2-fig-Rothhaupt-colswitch.pdf, id=1309, 289.08pt x 578.16pt>
+<Chapter2/Box2-fig-Rothhaupt-colswitch.pdf, id=1423, 289.08pt x 578.16pt>
 File: Chapter2/Box2-fig-Rothhaupt-colswitch.pdf Graphic file (type pdf)
 
 <use Chapter2/Box2-fig-Rothhaupt-colswitch.pdf>
@@ -1754,7 +1765,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [37 <./Chapter2/Box2-fig-Rothhaupt-colswitch.pdf>]
-<Chapter2/Box2-fig-Tilman-colswitch.pdf, id=1348, 289.08pt x 578.16pt>
+<Chapter2/Box2-fig-Tilman-colswitch.pdf, id=1462, 289.08pt x 578.16pt>
 File: Chapter2/Box2-fig-Tilman-colswitch.pdf Graphic file (type pdf)
 
 <use Chapter2/Box2-fig-Tilman-colswitch.pdf>
@@ -1769,7 +1780,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [38 <./Chapter2/Box2-fig-Tilman-colswitch.pdf>]
-<Chapter2/impact-ms-fig-flippedcols.pdf, id=1393, 722.7pt x 722.7pt>
+<Chapter2/impact-ms-fig-flippedcols.pdf, id=1507, 722.7pt x 722.7pt>
 File: Chapter2/impact-ms-fig-flippedcols.pdf Graphic file (type pdf)
 
 <use Chapter2/impact-ms-fig-flippedcols.pdf>
@@ -1785,7 +1796,7 @@ LaTeX Font Info:    Font shape `T1/zpltlf/m/it' will be
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<Chapter2/require-ms-fig-fixedequilibrium-flippedcols.pdf, id=1394, 722.7pt x 7
+<Chapter2/require-ms-fig-fixedequilibrium-flippedcols.pdf, id=1508, 722.7pt x 7
 22.7pt>
 File: Chapter2/require-ms-fig-fixedequilibrium-flippedcols.pdf Graphic file (ty
 pe pdf)
@@ -2168,7 +2179,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[55] <Chapter3/Conceptual.pdf, id=1689, 1308.82971pt x 711.31744pt>
+[55] <Chapter3/Conceptual.pdf, id=1814, 1308.82971pt x 711.31744pt>
 File: Chapter3/Conceptual.pdf Graphic file (type pdf)
 
 <use Chapter3/Conceptual.pdf>
@@ -2182,7 +2193,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [56 <./Chapter3/Conceptual.pdf>]
-<Chapter3/Fig1.pdf, id=1753, 1300.86pt x 650.43pt>
+<Chapter3/Fig1.pdf, id=1878, 1300.86pt x 650.43pt>
 File: Chapter3/Fig1.pdf Graphic file (type pdf)
  <use Chapter3/Fig1.pdf>
 Package pdftex.def Info: Chapter3/Fig1.pdf used on input line 410.
@@ -2195,7 +2206,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [57 <./Chapter3/Fig1.pdf>]
-<Chapter3/relnonlin.pdf, id=1798, 867.24pt x 289.08pt>
+<Chapter3/relnonlin.pdf, id=1923, 867.24pt x 289.08pt>
 File: Chapter3/relnonlin.pdf Graphic file (type pdf)
 
 <use Chapter3/relnonlin.pdf>
@@ -2238,15 +2249,10 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [60]
-\openout2 = `Chapter5/Chapter5.aux'.
+\openout2 = `Chapter4/Chapter4.aux'.
 
- (./Chapter5/Chapter5.tex
+ (./Chapter4/Chapter4.tex
 Chapter 4.
-
-Overfull \hbox (5.98433pt too wide) in paragraph at lines 1--1
- |[]\T1/zpltlf/m/n/20.74 Testing chronose-quence pre-dic-tions with lon-
- []
-
 Excluding 'comment' comment. Excluding 'comment' comment. [61
 
 
@@ -2259,6 +2265,10 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [62]
+
+Package natbib Warning: Citation `HilleRisLambers2012' on page 63 undefined on 
+input line 152.
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -2273,18 +2283,6 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [64]
-
-LaTeX Warning: Command \textunderscore invalid in math mode on input line 210.
-
-
-LaTeX Warning: Command \textunderscore invalid in math mode on input line 210.
-
-
-LaTeX Warning: Command \textunderscore invalid in math mode on input line 210.
-
-
-LaTeX Warning: Command \textunderscore invalid in math mode on input line 210.
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -2305,7 +2303,53 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[67]
+[67pdfTeX warning (ext4): destination with the same identifier (name{equation.4
+.3.1}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.213 
+      ]pdfTeX warning (ext4): destination with the same identifier (name{equati
+on.4.3.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.214 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.4.3.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.214 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.4.3.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.214 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.4.3.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.214 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.4.3.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.219 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.4.3.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.219 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.4.3.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.219 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.4.3.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.219 \begin{equation}
+                      
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -2354,121 +2398,49 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[74] <Chapter5/3YrNMDS_Species_Common.pdf, id=2164, 469.755pt x 505.89pt>
-File: Chapter5/3YrNMDS_Species_Common.pdf Graphic file (type pdf)
-
-<use Chapter5/3YrNMDS_Species_Common.pdf>
-Package pdftex.def Info: Chapter5/3YrNMDS_Species_Common.pdf used on input line
- 360.
-(pdftex.def)             Requested size: 312.9803pt x 337.05331pt.
-
+[74]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[75 <./Chapter5/3YrNMDS_Species_Common.pdf>]
-<Chapter5/FourQuadrateMovement_Species_Common_RevisedMS.pdf, id=2643, 455.24078
-pt x 455.24078pt>
-File: Chapter5/FourQuadrateMovement_Species_Common_RevisedMS.pdf Graphic file (
-type pdf)
-
-<use Chapter5/FourQuadrateMovement_Species_Common_RevisedMS.pdf>
-Package pdftex.def Info: Chapter5/FourQuadrateMovement_Species_Common_RevisedMS
-.pdf used on input line 373.
-(pdftex.def)             Requested size: 341.43306pt x 341.44363pt.
-
+[75]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[76
-
- <./Chapter5/FourQuadrateMovement_Species_Common_RevisedMS.pdf>]
-<Chapter5/BetaDiversity_CompiledFull2015_Common_RevisedMS.pdf, id=2822, 578.16p
-t x 289.08pt>
-File: Chapter5/BetaDiversity_CompiledFull2015_Common_RevisedMS.pdf Graphic file
- (type pdf)
-
-<use Chapter5/BetaDiversity_CompiledFull2015_Common_RevisedMS.pdf>
-Package pdftex.def Info: Chapter5/BetaDiversity_CompiledFull2015_Common_Revised
-MS.pdf used on input line 386.
-(pdftex.def)             Requested size: 426.79134pt x 213.39534pt.
-
+[76]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[77
-
- <./Chapter5/BetaDiversity_CompiledFull2015_Common_RevisedMS.pdf>]
-<Chapter5/Goodness_FungiSpecies_CombinedIndividual_Full2015glmmTMBTotal_Revised
-2MS.pdf, id=2844, 578.16pt x 289.08pt>
-File: Chapter5/Goodness_FungiSpecies_CombinedIndividual_Full2015glmmTMBTotal_Re
-vised2MS.pdf Graphic file (type pdf)
-
-<use Chapter5/Goodness_FungiSpecies_CombinedIndividual_Full2015glmmTMBTotal_Rev
-ised2MS.pdf>
-Package pdftex.def Info: Chapter5/Goodness_FungiSpecies_CombinedIndividual_Full
-2015glmmTMBTotal_Revised2MS.pdf used on input line 402.
-(pdftex.def)             Requested size: 426.79134pt x 213.39534pt.
-
+[77]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[78
-
- <./Chapter5/Goodness_FungiSpecies_CombinedIndividual_Full2015glmmTMBTotal_Revi
-sed2MS.pdf>]
-<Chapter5/Funguild_HMSC_FungiSpecies_CombinedIndividual_Full2015Total_PathogenL
-ong.pdf, id=2866, 289.08pt x 867.24pt>
-File: Chapter5/Funguild_HMSC_FungiSpecies_CombinedIndividual_Full2015Total_Path
-ogenLong.pdf Graphic file (type pdf)
-
-<use Chapter5/Funguild_HMSC_FungiSpecies_CombinedIndividual_Full2015Total_Patho
-genLong.pdf>
-Package pdftex.def Info: Chapter5/Funguild_HMSC_FungiSpecies_CombinedIndividual
-_Full2015Total_PathogenLong.pdf used on input line 418.
-(pdftex.def)             Requested size: 184.9429pt x 554.81999pt.
-
-
-LaTeX Warning: Float too large for page by 32.57983pt on input line 422.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-)
+[78]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[79 <./Chapter5/Funguild_HMSC_FungiSpecies_CombinedIndividual_Full2015Total_Pat
-hogenLong.pdf>]
-\openout2 = `Chapter6/Chapter6.aux'.
+[79]
 
- (./Chapter6/Chapter6.tex
-Chapter 5.
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
-Overfull \hbox (3.10164pt too wide) in paragraph at lines 1--1
- |[]\T1/zpltlf/m/n/20.74 Dynamic plant--soil mi-crobe in-ter-ac-tions: the
- []
-
-Excluding 'comment' comment. Excluding 'comment' comment. [80
-
-
-
-
-]
+[80]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -2483,6 +2455,10 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [82]
+
+Package natbib Warning: Citation `Inouye2001' on page 83 undefined on input lin
+e 432.
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -2518,76 +2494,588 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [87]
+Overfull \hbox (10.81204pt too wide) in paragraph at lines 512--512
+[] [] 
+ []
+
+
+Overfull \vbox (40.80003pt too high) detected at line 581
+ []
+
+
+Overfull \vbox (40.80003pt too high) detected at line 581
+ []
+
+
+Overfull \vbox (40.80003pt too high) detected at line 581
+ []
+
+
+Overfull \vbox (54.40004pt too high) detected at line 581
+ []
+
+
+Overfull \vbox (40.80003pt too high) detected at line 581
+ []
+
+
+Overfull \vbox (40.80003pt too high) detected at line 581
+ []
+
+
+Overfull \vbox (40.80003pt too high) detected at line 581
+ []
+
+
+Overfull \vbox (54.40004pt too high) detected at line 581
+ []
+
+
+Overfull \vbox (40.80003pt too high) detected at line 581
+ []
+
+
+Overfull \vbox (40.80003pt too high) detected at line 581
+ []
+
+
+Overfull \vbox (40.80003pt too high) detected at line 581
+ []
+
+
+Overfull \vbox (54.40004pt too high) detected at line 581
+ []
+
+
+LaTeX Warning: Float too large for page by 34.52435pt on input line 582.
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[88]
+[88
+
+]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[89] Excluding 'comment' comment.
+[89]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[90]
+[90
+
+]
+<Chapter4/ModelFramework4_color_Revised2.pdf, id=2565, 825.13268pt x 455.24078p
+t>
+File: Chapter4/ModelFramework4_color_Revised2.pdf Graphic file (type pdf)
+ <use Chapter4/ModelFramework4_color_Revised2.pdf>
+Package pdftex.def Info: Chapter4/ModelFramework4_color_Revised2.pdf used on in
+put line 617.
+(pdftex.def)             Requested size: 455.24408pt x 251.16814pt.
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[91]
+[91
+
+ <./Chapter4/ModelFramework4_color_Revised2.pdf>]
+<Chapter4/Conceptual2.pdf, id=2625, 469.755pt x 469.755pt>
+File: Chapter4/Conceptual2.pdf Graphic file (type pdf)
+
+<use Chapter4/Conceptual2.pdf>
+Package pdftex.def Info: Chapter4/Conceptual2.pdf used on input line 628.
+(pdftex.def)             Requested size: 312.9803pt x 312.97809pt.
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[92]
+[92
+
+ <./Chapter4/Conceptual2.pdf>]
+<Chapter4/Translated_All_together.pdf, id=2687, 542.025pt x 542.025pt>
+File: Chapter4/Translated_All_together.pdf Graphic file (type pdf)
+
+<use Chapter4/Translated_All_together.pdf>
+Package pdftex.def Info: Chapter4/Translated_All_together.pdf used on input lin
+e 639.
+(pdftex.def)             Requested size: 398.33858pt x 398.35463pt.
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[93]
+[93
+
+ <./Chapter4/Translated_All_together.pdf>]
+<Chapter4/ExperimentSetupSmall_OnlyPots_Revised2_starred.pdf, id=2750, 682.8611
+6pt x 256.0767pt>
+File: Chapter4/ExperimentSetupSmall_OnlyPots_Revised2_starred.pdf Graphic file 
+(type pdf)
+
+<use Chapter4/ExperimentSetupSmall_OnlyPots_Revised2_starred.pdf>
+Package pdftex.def Info: Chapter4/ExperimentSetupSmall_OnlyPots_Revised2_starre
+d.pdf used on input line 650.
+(pdftex.def)             Requested size: 455.24408pt x 170.7226pt.
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[94]
+[94
+
+ <./Chapter4/ExperimentSetupSmall_OnlyPots_Revised2_starred.pdf>]
+<Chapter4/Aguilera_2panel_calculations_soil.pdf, id=2770, 542.025pt x 542.025pt
+>
+File: Chapter4/Aguilera_2panel_calculations_soil.pdf Graphic file (type pdf)
+ <use Chapter4/Aguilera_2panel_calculations_soil.pdf>
+Package pdftex.def Info: Chapter4/Aguilera_2panel_calculations_soil.pdf used on
+ input line 661.
+(pdftex.def)             Requested size: 426.79134pt x 426.80559pt.
+
+
+LaTeX Warning: Float too large for page by 28.21822pt on input line 665.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[95]
+[95 <./Chapter4/Aguilera_2panel_calculations_soil.pdf>]
+Overfull \hbox (30.0pt too wide) in paragraph at lines 703--703
+[][] 
+ []
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[96]
+[96
+
+
+]
+Overfull \hbox (30.0pt too wide) in paragraph at lines 703--703
+[][] 
+ []
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[97] <Chapter6/Map_long_Revised.png, id=3231, 343.2825pt x 674.64046pt>
+[97pdfTeX warning (ext4): destination with the same identifier (name{equation.4
+.9.1}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.707 \clearpage
+                pdfTeX warning (ext4): destination with the same identifier (na
+me{equation.4.9.1}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.707 \clearpage
+                ]
+Overfull \hbox (30.0pt too wide) in paragraph at lines 721--721
+[][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[98
+
+]
+Overfull \hbox (30.0pt too wide) in paragraph at lines 721--721
+[][] 
+ []
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[99]
+\openout2 = `Chapter5/Chapter5.aux'.
+
+ (./Chapter5/Chapter5.tex
+Chapter 5.
+
+Overfull \hbox (5.98433pt too wide) in paragraph at lines 1--1
+ |[]\T1/zpltlf/m/n/20.74 Testing chronose-quence pre-dic-tions with lon-
+ []
+
+Excluding 'comment' comment. Excluding 'comment' comment. [100
+
+
+
+]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[101]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[102]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[103]
+
+LaTeX Warning: Command \textunderscore invalid in math mode on input line 210.
+
+
+LaTeX Warning: Command \textunderscore invalid in math mode on input line 210.
+
+
+LaTeX Warning: Command \textunderscore invalid in math mode on input line 210.
+
+
+LaTeX Warning: Command \textunderscore invalid in math mode on input line 210.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[104]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[105]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[106]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[107]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[108]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[109]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[110]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[111]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[112]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[113] <Chapter5/3YrNMDS_Species_Common.pdf, id=3139, 469.755pt x 505.89pt>
+File: Chapter5/3YrNMDS_Species_Common.pdf Graphic file (type pdf)
+
+<use Chapter5/3YrNMDS_Species_Common.pdf>
+Package pdftex.def Info: Chapter5/3YrNMDS_Species_Common.pdf used on input line
+ 360.
+(pdftex.def)             Requested size: 312.9803pt x 337.05331pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[114 <./Chapter5/3YrNMDS_Species_Common.pdf>]
+<Chapter5/FourQuadrateMovement_Species_Common_RevisedMS.pdf, id=3618, 455.24078
+pt x 455.24078pt>
+File: Chapter5/FourQuadrateMovement_Species_Common_RevisedMS.pdf Graphic file (
+type pdf)
+
+<use Chapter5/FourQuadrateMovement_Species_Common_RevisedMS.pdf>
+Package pdftex.def Info: Chapter5/FourQuadrateMovement_Species_Common_RevisedMS
+.pdf used on input line 373.
+(pdftex.def)             Requested size: 341.43306pt x 341.44363pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[115
+
+ <./Chapter5/FourQuadrateMovement_Species_Common_RevisedMS.pdf>]
+<Chapter5/BetaDiversity_CompiledFull2015_Common_RevisedMS.pdf, id=3797, 578.16p
+t x 289.08pt>
+File: Chapter5/BetaDiversity_CompiledFull2015_Common_RevisedMS.pdf Graphic file
+ (type pdf)
+
+<use Chapter5/BetaDiversity_CompiledFull2015_Common_RevisedMS.pdf>
+Package pdftex.def Info: Chapter5/BetaDiversity_CompiledFull2015_Common_Revised
+MS.pdf used on input line 386.
+(pdftex.def)             Requested size: 426.79134pt x 213.39534pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[116
+
+ <./Chapter5/BetaDiversity_CompiledFull2015_Common_RevisedMS.pdf>]
+<Chapter5/Goodness_FungiSpecies_CombinedIndividual_Full2015glmmTMBTotal_Revised
+2MS.pdf, id=3818, 578.16pt x 289.08pt>
+File: Chapter5/Goodness_FungiSpecies_CombinedIndividual_Full2015glmmTMBTotal_Re
+vised2MS.pdf Graphic file (type pdf)
+
+<use Chapter5/Goodness_FungiSpecies_CombinedIndividual_Full2015glmmTMBTotal_Rev
+ised2MS.pdf>
+Package pdftex.def Info: Chapter5/Goodness_FungiSpecies_CombinedIndividual_Full
+2015glmmTMBTotal_Revised2MS.pdf used on input line 402.
+(pdftex.def)             Requested size: 426.79134pt x 213.39534pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[117
+
+ <./Chapter5/Goodness_FungiSpecies_CombinedIndividual_Full2015glmmTMBTotal_Revi
+sed2MS.pdf>]
+<Chapter5/Funguild_HMSC_FungiSpecies_CombinedIndividual_Full2015Total_PathogenL
+ong.pdf, id=3840, 289.08pt x 867.24pt>
+File: Chapter5/Funguild_HMSC_FungiSpecies_CombinedIndividual_Full2015Total_Path
+ogenLong.pdf Graphic file (type pdf)
+
+<use Chapter5/Funguild_HMSC_FungiSpecies_CombinedIndividual_Full2015Total_Patho
+genLong.pdf>
+Package pdftex.def Info: Chapter5/Funguild_HMSC_FungiSpecies_CombinedIndividual
+_Full2015Total_PathogenLong.pdf used on input line 418.
+(pdftex.def)             Requested size: 184.9429pt x 554.81999pt.
+
+
+LaTeX Warning: Float too large for page by 32.57983pt on input line 422.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[118 <./Chapter5/Funguild_HMSC_FungiSpecies_CombinedIndividual_Full2015Total_Pa
+thogenLong.pdf>]
+\openout2 = `Chapter6/Chapter6.aux'.
+
+ (./Chapter6/Chapter6.tex
+Chapter 6.
+
+Overfull \hbox (3.10164pt too wide) in paragraph at lines 1--1
+ |[]\T1/zpltlf/m/n/20.74 Dynamic plant--soil mi-crobe in-ter-ac-tions: the
+ []
+
+Excluding 'comment' comment. Excluding 'comment' comment. [119
+
+
+
+
+]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[120]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[121]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[122]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[123]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[124]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[125]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[126]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[127]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[128] Excluding 'comment' comment.
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[129]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[130]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[131]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[132]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[133]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[134]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[135]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[136] <Chapter6/Map_long_Revised.png, id=4200, 343.2825pt x 674.64046pt>
 File: Chapter6/Map_long_Revised.png Graphic file (type png)
 
 <use Chapter6/Map_long_Revised.png>
@@ -2606,7 +3094,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[98] <Chapter6/Composition_Fungi_Age.pdf, id=3237, 540.59969pt x 512.1534pt>
+[137] <Chapter6/Composition_Fungi_Age.pdf, id=4206, 540.59969pt x 512.1534pt>
 File: Chapter6/Composition_Fungi_Age.pdf Graphic file (type pdf)
 
 <use Chapter6/Composition_Fungi_Age.pdf>
@@ -2617,7 +3105,7 @@ Package pdftex.def Info: Chapter6/Composition_Fungi_Age.pdf used on input line
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Chapter6/LiveSterRatioBarplot_Revised.pdf, id=3240, 578.16pt x 650.43pt>
+<Chapter6/LiveSterRatioBarplot_Revised.pdf, id=4209, 578.16pt x 650.43pt>
 File: Chapter6/LiveSterRatioBarplot_Revised.pdf Graphic file (type pdf)
 
 <use Chapter6/LiveSterRatioBarplot_Revised.pdf>
@@ -2629,7 +3117,7 @@ t line 445.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<Chapter6/TemporalLiveSterRatio_Saturating_Revised.pdf, id=3241, 650.43pt x 650
+<Chapter6/TemporalLiveSterRatio_Saturating_Revised.pdf, id=4210, 650.43pt x 650
 .43pt>
 File: Chapter6/TemporalLiveSterRatio_Saturating_Revised.pdf Graphic file (type 
 pdf)
@@ -2644,7 +3132,7 @@ LaTeX Warning: Float too large for page by 40.56232pt on input line 471.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Chapter6/Simulation_ComplexPSF_Aggregate.pdf, id=3244, 794.97pt x 505.89pt>
+<Chapter6/Simulation_ComplexPSF_Aggregate.pdf, id=4213, 794.97pt x 505.89pt>
 File: Chapter6/Simulation_ComplexPSF_Aggregate.pdf Graphic file (type pdf)
 
 <use Chapter6/Simulation_ComplexPSF_Aggregate.pdf>
@@ -2662,35 +3150,35 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[99 <./Chapter6/Map_long_Revised.png>]
+[138 <./Chapter6/Map_long_Revised.png>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[100 <./Chapter6/Composition_Fungi_Age.pdf>]
+[139 <./Chapter6/Composition_Fungi_Age.pdf>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[101 <./Chapter6/LiveSterRatioBarplot_Revised.pdf>]
+[140 <./Chapter6/LiveSterRatioBarplot_Revised.pdf>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[102 <./Chapter6/TemporalLiveSterRatio_Saturating_Revised.pdf>]
+[141 <./Chapter6/TemporalLiveSterRatio_Saturating_Revised.pdf>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[103 <./Chapter6/Simulation_ComplexPSF_Aggregate.pdf>]
+[142 <./Chapter6/Simulation_ComplexPSF_Aggregate.pdf>]
 \openout2 = `Chapter2/Chapter2Appendix.aux'.
 
 
@@ -2701,7 +3189,7 @@ Overfull \hbox (2.23029pt too wide) in paragraph at lines 1--1
  |[]\T1/zpltlf/m/n/20.74 Linking mod-ern co-ex-is-tence the-ory and con-
  []
 
-Excluding 'comment' comment. Excluding 'comment' comment. [104
+Excluding 'comment' comment. Excluding 'comment' comment. [143
 
 
 
@@ -2710,9 +3198,10 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.A.1.
 
 \@EveryShipout@Output ...@Org@Shipout \box \@cclv 
                                                   
-l.88 \par
-         ]pdfTeX warning (ext4): destination with the same identifier (name{equ
-ation.A.1.1}) has been already used, duplicate ignored
+l.87 I
+      n this appendix, we provide detailed mathematical derivations for two ...
+]pdfTeX warning (ext4): destination with the same identifier (name{equation.A.1
+.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.94 \begin{equation}
@@ -2798,7 +3287,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[105]pdfTeX warning (ext4): destination with the same identifier (name{equation
+[144]pdfTeX warning (ext4): destination with the same identifier (name{equation
 .A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -2905,7 +3394,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[106]pdfTeX warning (ext4): destination with the same identifier (name{equation
+[145]pdfTeX warning (ext4): destination with the same identifier (name{equation
 .A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -3012,7 +3501,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[107]pdfTeX warning (ext4): destination with the same identifier (name{equation
+[146]pdfTeX warning (ext4): destination with the same identifier (name{equation
 .A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -3139,7 +3628,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[108]pdfTeX warning (ext4): destination with the same identifier (name{equation
+[147]pdfTeX warning (ext4): destination with the same identifier (name{equation
 .A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -3246,7 +3735,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[109]pdfTeX warning (ext4): destination with the same identifier (name{equation
+[148]pdfTeX warning (ext4): destination with the same identifier (name{equation
 .A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -3413,7 +3902,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[110]pdfTeX warning (ext4): destination with the same identifier (name{equation
+[149]pdfTeX warning (ext4): destination with the same identifier (name{equation
 .A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -3620,7 +4109,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[111]pdfTeX warning (ext4): destination with the same identifier (name{equation
+[150]pdfTeX warning (ext4): destination with the same identifier (name{equation
 .A.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -3641,6 +4130,44 @@ er (name{equation.A.1.1}) has been already used, duplicate ignored
                    \relax 
 l.329 \begin{equation}
                       
+LaTeX Font Info:    Font shape `T1/zpltlf/m/n' will be
+(Font)              scaled to size 10.5pt on input line 336.
+LaTeX Font Info:    Font shape `T1/zpltlf/m/n' will be
+(Font)              scaled to size 7.9pt on input line 336.
+LaTeX Font Info:    Font shape `T1/zpltlf/m/it' will be
+(Font)              scaled to size 14.4pt on input line 336.
+LaTeX Font Info:    Font shape `T1/zpltlf/m/it' will be
+(Font)              scaled to size 10.5pt on input line 336.
+LaTeX Font Info:    Font shape `T1/zpltlf/m/it' will be
+(Font)              scaled to size 7.9pt on input line 336.
+LaTeX Font Info:    Font shape `TS1/zpltlf/m/n' will be
+(Font)              scaled to size 14.4pt on input line 336.
+LaTeX Font Info:    Font shape `TS1/zpltlf/m/n' will be
+(Font)              scaled to size 10.5pt on input line 336.
+LaTeX Font Info:    Font shape `TS1/zpltlf/m/n' will be
+(Font)              scaled to size 7.9pt on input line 336.
+
+Overfull \hbox (12.18369pt too wide) in paragraph at lines 336--336
+ |[]\T1/zpltlf/b/n/14.4 Appendix S2 -- An-a-lyt-i-cal form and pos-i-tiv-ity cr
+i-te-ria of $\OML/npxmi/m/it/14.4 E[]$| 
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 336.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 336.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 336.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 336.
+
 LaTeX Font Info:    Font shape `T1/zpltlf/m/n' will be
 (Font)              scaled to size 8.8pt on input line 341.
 LaTeX Font Info:    Font shape `T1/zpltlf/m/n' will be
@@ -3656,52 +4183,19 @@ LaTeX Font Info:    Font shape `TS1/zpltlf/m/n' will be
 LaTeX Font Info:    Font shape `TS1/zpltlf/m/n' will be
 (Font)              scaled to size 6.6pt on input line 341.
 
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 341.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 341.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 341.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 341.
-
+[151]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[112]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 380.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 380.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 380.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 380.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[113pdfTeX warning (ext4): destination with the same identifier (name{equation.
+[152pdfTeX warning (ext4): destination with the same identifier (name{equation.
 A.2.1}) has been already used, duplicate ignored
 
 \@EveryShipout@Output ...@Org@Shipout \box \@cclv 
@@ -3818,9 +4312,9 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[114]
-<Chapter2/impact-appendix-fig-asymmetry-update.pdf, id=9292, 722.7pt x 433.62pt
->
+[153]
+<Chapter2/impact-appendix-fig-asymmetry-update.pdf, id=10261, 722.7pt x 433.62p
+t>
 File: Chapter2/impact-appendix-fig-asymmetry-update.pdf Graphic file (type pdf)
 
  <use Chapter2/impact-appendix-fig-asymmetry-update.pdf>
@@ -3834,7 +4328,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[115
+[154
 
  <./Chapter2/impact-appendix-fig-asymmetry-update.pdf>]
 
@@ -3843,11 +4337,11 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[116
+[155
 
 ]
-<Chapter2/impact-ms-fig-fixed-overlap-appendix.pdf, id=9331, 722.7pt x 433.62pt
->
+<Chapter2/impact-ms-fig-fixed-overlap-appendix.pdf, id=10301, 722.7pt x 433.62p
+t>
 File: Chapter2/impact-ms-fig-fixed-overlap-appendix.pdf Graphic file (type pdf)
 
  <use Chapter2/impact-ms-fig-fixed-overlap-appendix.pdf>
@@ -3861,9 +4355,9 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[117 <./Chapter2/impact-ms-fig-fixed-overlap-appendix.pdf>]
-<Chapter2/require-ms-fig-unfixedequilibrium-appendix.pdf, id=9366, 722.7pt x 43
-3.62pt>
+[156 <./Chapter2/impact-ms-fig-fixed-overlap-appendix.pdf>]
+<Chapter2/require-ms-fig-unfixedequilibrium-appendix.pdf, id=10336, 722.7pt x 4
+33.62pt>
 File: Chapter2/require-ms-fig-unfixedequilibrium-appendix.pdf Graphic file (typ
 e pdf)
  <use Chapter2/require-ms-fig-unfixedequilibrium-appendix.pdf>
@@ -3877,7 +4371,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[118
+[157
 
  <./Chapter2/require-ms-fig-unfixedequilibrium-appendix.pdf>]
 \openout2 = `Chapter3/Chapter3Appendix.aux'.
@@ -3890,7 +4384,7 @@ Overfull \hbox (55.1382pt too wide) in paragraph at lines 1--1
  |[]\T1/zpltlf/m/n/20.74 Coexistence the-ory and the frequency-dependence
  []
 
-Excluding 'comment' comment. Excluding 'comment' comment. [119
+Excluding 'comment' comment. Excluding 'comment' comment. [158
 
 
 
@@ -3987,7 +4481,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[120]
+[159]
 Overfull \hbox (1.98499pt too wide) in paragraph at lines 125--126
 []\T1/zpltlf/m/n/10.95 Following the same math-e-mat-i-cal trick in Ap-pendix A
 .1, we can trans-form Eqns. []S3.2.1[]
@@ -3999,7 +4493,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[121]pdfTeX warning (ext4): destination with the same identifier (name{equation
+[160]pdfTeX warning (ext4): destination with the same identifier (name{equation
 .B.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -4066,23 +4560,525 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[122])
+[161])
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[123]
+[162]
 \openout2 = `Chapter4/Chapter4Appendix.aux'.
 
  (./Chapter4/Chapter4Appendix.tex
 Appendix C.
-Excluding 'comment' comment. Excluding 'comment' comment.) [124
+Excluding 'comment' comment. Excluding 'comment' comment. [163
 
 
+
+]pdfTeX warning (ext4): destination with the same identifier (name{equation.C.1
+.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.114 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.114 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.114 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.114 \begin{equation}
+                      
+LaTeX Font Info:    Font shape `T1/zpltlf/m/n' will be
+(Font)              scaled to size 7.3pt on input line 126.
+LaTeX Font Info:    Font shape `T1/zpltlf/m/n' will be
+(Font)              scaled to size 5.5pt on input line 126.
+LaTeX Font Info:    Font shape `T1/zpltlf/m/it' will be
+(Font)              scaled to size 9.0pt on input line 126.
+LaTeX Font Info:    Font shape `T1/zpltlf/m/it' will be
+(Font)              scaled to size 7.3pt on input line 126.
+LaTeX Font Info:    Font shape `T1/zpltlf/m/it' will be
+(Font)              scaled to size 5.5pt on input line 126.
+LaTeX Font Info:    Font shape `TS1/zpltlf/m/n' will be
+(Font)              scaled to size 9.0pt on input line 126.
+LaTeX Font Info:    Font shape `TS1/zpltlf/m/n' will be
+(Font)              scaled to size 7.3pt on input line 126.
+LaTeX Font Info:    Font shape `TS1/zpltlf/m/n' will be
+(Font)              scaled to size 5.5pt on input line 126.
+pdfTeX warning (ext4): destination with the same identifier (name{equation.C.1.
+1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.126 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.126 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.126 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.126 \begin{equation}
+                      
+Overfull \hbox (31.49928pt too wide) in paragraph at lines 134--134
+[] 
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{equation.C.1.
+1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.135 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.135 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.135 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.135 \begin{equation}
+                      
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[164pdfTeX warning (ext4): destination with the same identifier (name{equation.
+C.1.1}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.148 \begin{equation}
+                      ]pdfTeX warning (ext4): destination with the same identif
+ier (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.148 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.148 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.148 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.148 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.165 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.165 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.165 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.165 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.170 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.170 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.170 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.170 \begin{equation}
+                      
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[165]pdfTeX warning (ext4): destination with the same identifier (name{equation
+.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.177 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.177 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.177 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.177 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.189 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.189 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.189 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.189 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.194 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.194 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.194 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.194 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.203 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.203 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.203 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.203 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.207 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.207 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.207 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.207 \begin{equation}
+                      
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[166]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[167pdfTeX warning (ext4): destination with the same identifier (name{equation.
+C.2.1}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.236 \end{equation}
+                    ]pdfTeX warning (ext4): destination with the same identifie
+r (name{equation.C.2.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.242 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.2.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.242 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.2.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.242 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.2.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.242 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.2.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.249 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.2.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.249 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.2.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.249 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.2.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.249 \begin{equation}
+                      
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[168pdfTeX warning (ext4): destination with the same identifier (name{equation.
+C.2.1}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.258 
+      ]pdfTeX warning (ext4): destination with the same identifier (name{equati
+on.C.2.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.259 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.2.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.259 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.2.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.259 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.2.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.259 \begin{equation}
+                      
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[169pdfTeX warning (ext4): destination with the same identifier (name{equation.
+C.3.1}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.291 \end{equation}
+                    ]pdfTeX warning (ext4): destination with the same identifie
+r (name{equation.C.3.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.299 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.3.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.299 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.3.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.299 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.3.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.299 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.3.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.304 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.3.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.304 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.3.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.304 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.C.3.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.304 \begin{equation}
+                      
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[170pdfTeX warning (ext4): destination with the same identifier (name{equation.
+C.3.1}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.313 \clearpage
+                ]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[171
 
 ]
+<Chapter4/Translated_Janzen_Connell_full.pdf, id=10554, 542.025pt x 722.7pt>
+File: Chapter4/Translated_Janzen_Connell_full.pdf Graphic file (type pdf)
+
+<use Chapter4/Translated_Janzen_Connell_full.pdf>
+Package pdftex.def Info: Chapter4/Translated_Janzen_Connell_full.pdf used on in
+put line 345.
+(pdftex.def)             Requested size: 341.43306pt x 455.2593pt.
+
+
+LaTeX Warning: Float too large for page by 29.47191pt on input line 351.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[172 <./Chapter4/Translated_Janzen_Connell_full.pdf>]
+<Chapter4/Translated_Enemy_Release_full.pdf, id=10637, 542.025pt x 722.7pt>
+File: Chapter4/Translated_Enemy_Release_full.pdf Graphic file (type pdf)
+
+<use Chapter4/Translated_Enemy_Release_full.pdf>
+Package pdftex.def Info: Chapter4/Translated_Enemy_Release_full.pdf used on inp
+ut line 358.
+(pdftex.def)             Requested size: 341.43306pt x 455.2593pt.
+
+
+LaTeX Warning: Float too large for page by 29.47191pt on input line 364.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[173 <./Chapter4/Translated_Enemy_Release_full.pdf>]
+<Chapter4/Translated_Mutual_Facilitation_full.pdf, id=10721, 542.025pt x 722.7p
+t>
+File: Chapter4/Translated_Mutual_Facilitation_full.pdf Graphic file (type pdf)
+ <use Chapter4/Translated_Mutual_Facilitation_full.pdf>
+Package pdftex.def Info: Chapter4/Translated_Mutual_Facilitation_full.pdf used 
+on input line 371.
+(pdftex.def)             Requested size: 341.43306pt x 455.2593pt.
+
+
+LaTeX Warning: Float too large for page by 29.47191pt on input line 377.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[174 <./Chapter4/Translated_Mutual_Facilitation_full.pdf>]
+<Chapter4/Translated_Soil_Conditioning_full.pdf, id=10805, 542.025pt x 722.7pt>
+File: Chapter4/Translated_Soil_Conditioning_full.pdf Graphic file (type pdf)
+<use Chapter4/Translated_Soil_Conditioning_full.pdf>
+Package pdftex.def Info: Chapter4/Translated_Soil_Conditioning_full.pdf used on
+ input line 384.
+(pdftex.def)             Requested size: 341.43306pt x 455.2593pt.
+
+
+LaTeX Warning: Float too large for page by 29.47191pt on input line 390.
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[175 <./Chapter4/Translated_Soil_Conditioning_full.pdf>]
 \openout2 = `Chapter5/Chapter5Appendix.aux'.
 
 
@@ -4093,13 +5089,17 @@ Overfull \hbox (11.6671pt too wide) in paragraph at lines 1--1
  |[]\T1/zpltlf/m/n/20.74 Testing chronose-quence pre-dic-tions with lon-
  []
 
-Excluding 'comment' comment. Excluding 'comment' comment. [125
+Excluding 'comment' comment. Excluding 'comment' comment. [176
+
+
+
+
 
 
 
 ]
-<Chapter5/FourQuadrateMovement_Species_Common_RevisedSI.pdf, id=9476, 1084.05pt
- x 361.35pt>
+<Chapter5/FourQuadrateMovement_Species_Common_RevisedSI.pdf, id=10886, 1084.05p
+t x 361.35pt>
 File: Chapter5/FourQuadrateMovement_Species_Common_RevisedSI.pdf Graphic file (
 type pdf)
  <use Chapter5/FourQuadrateMovement_Species_Common_RevisedSI.pdf>
@@ -4116,9 +5116,9 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[126 <./Chapter5/FourQuadrateMovement_Species_Common_RevisedSI.pdf>]
-<Chapter5/BetaDiversity_CompiledFull2015_Common_RevisedSI.pdf, id=9507, 578.16p
-t x 289.08pt>
+[177 <./Chapter5/FourQuadrateMovement_Species_Common_RevisedSI.pdf>]
+<Chapter5/BetaDiversity_CompiledFull2015_Common_RevisedSI.pdf, id=10917, 578.16
+pt x 289.08pt>
 File: Chapter5/BetaDiversity_CompiledFull2015_Common_RevisedSI.pdf Graphic file
  (type pdf)
 
@@ -4133,12 +5133,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[127
+[178
 
 
  <./Chapter5/BetaDiversity_CompiledFull2015_Common_RevisedSI.pdf>]
 <Chapter5/Goodness_FungiSpecies_CombinedIndividual_Full2015glmmTMBTotal_Revised
-2SI.pdf, id=9526, 578.16pt x 289.08pt>
+2SI.pdf, id=10936, 578.16pt x 289.08pt>
 File: Chapter5/Goodness_FungiSpecies_CombinedIndividual_Full2015glmmTMBTotal_Re
 vised2SI.pdf Graphic file (type pdf)
 
@@ -4154,12 +5154,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[128
+[179
 
  <./Chapter5/Goodness_FungiSpecies_CombinedIndividual_Full2015glmmTMBTotal_Revi
 sed2SI.pdf>]
 <Chapter5/Funguild_HMSC_FungiSpecies_CombinedIndividual_Full2015Total_Long.pdf,
- id=9545, 361.35pt x 939.51pt>
+ id=10956, 361.35pt x 939.51pt>
 File: Chapter5/Funguild_HMSC_FungiSpecies_CombinedIndividual_Full2015Total_Long
 .pdf Graphic file (type pdf)
 
@@ -4182,7 +5182,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[129 <./Chapter5/Funguild_HMSC_FungiSpecies_CombinedIndividual_Full2015Total_Lo
+[180 <./Chapter5/Funguild_HMSC_FungiSpecies_CombinedIndividual_Full2015Total_Lo
 ng.pdf>]
 \openout2 = `Chapter6/Chapter6Appendix.aux'.
 
@@ -4206,7 +5206,7 @@ LaTeX Warning: Command \textunderscore invalid in math mode on input line 124.
 
 LaTeX Warning: Command \textunderscore invalid in math mode on input line 124.
 
-[130
+[181
 
 
 
@@ -4218,64 +5218,64 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[131]
+[182]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[132]
+[183]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[133]
+[184]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[134]
+[185]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[135]
+[186]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[136]
+[187]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[137]
+[188]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[138]
+[189]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[139]
-<Chapter6/Composition_Both_Species.pdf, id=9659, 1081.20943pt x 512.1534pt>
+[190]
+<Chapter6/Composition_Both_Species.pdf, id=11070, 1081.20943pt x 512.1534pt>
 File: Chapter6/Composition_Both_Species.pdf Graphic file (type pdf)
 
 <use Chapter6/Composition_Both_Species.pdf>
@@ -4289,10 +5289,10 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[140
+[191
 
  <./Chapter6/Composition_Both_Species.pdf>]
-<Chapter6/Richness_Fungi_Summary.pdf, id=12700, 1011.78pt x 505.89pt>
+<Chapter6/Richness_Fungi_Summary.pdf, id=14111, 1011.78pt x 505.89pt>
 File: Chapter6/Richness_Fungi_Summary.pdf Graphic file (type pdf)
 
 <use Chapter6/Richness_Fungi_Summary.pdf>
@@ -4306,8 +5306,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[141 <./Chapter6/Richness_Fungi_Summary.pdf>]
-<Chapter6/Richness_Bacteria_Summary.pdf, id=13420, 1011.78pt x 505.89pt>
+[192 <./Chapter6/Richness_Fungi_Summary.pdf>]
+<Chapter6/Richness_Bacteria_Summary.pdf, id=14830, 1011.78pt x 505.89pt>
 File: Chapter6/Richness_Bacteria_Summary.pdf Graphic file (type pdf)
 
 <use Chapter6/Richness_Bacteria_Summary.pdf>
@@ -4321,8 +5321,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[142 <./Chapter6/Richness_Bacteria_Summary.pdf>]
-<Chapter6/Composition_Bacteria_Age.pdf, id=14240, 540.59969pt x 512.1534pt>
+[193 <./Chapter6/Richness_Bacteria_Summary.pdf>]
+<Chapter6/Composition_Bacteria_Age.pdf, id=15650, 540.59969pt x 512.1534pt>
 File: Chapter6/Composition_Bacteria_Age.pdf Graphic file (type pdf)
 
 <use Chapter6/Composition_Bacteria_Age.pdf>
@@ -4333,7 +5333,7 @@ ne 271.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Chapter6/HMSC_Fungi_Family_Summary.pdf, id=14243, 867.24pt x 505.89pt>
+<Chapter6/HMSC_Fungi_Family_Summary.pdf, id=15653, 867.24pt x 505.89pt>
 File: Chapter6/HMSC_Fungi_Family_Summary.pdf Graphic file (type pdf)
 
 <use Chapter6/HMSC_Fungi_Family_Summary.pdf>
@@ -4344,7 +5344,7 @@ ine 284.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Chapter6/HMSC_Bacteria_Family_Summary.pdf, id=14244, 867.24pt x 505.89pt>
+<Chapter6/HMSC_Bacteria_Family_Summary.pdf, id=15654, 867.24pt x 505.89pt>
 File: Chapter6/HMSC_Bacteria_Family_Summary.pdf Graphic file (type pdf)
 
 <use Chapter6/HMSC_Bacteria_Family_Summary.pdf>
@@ -4355,7 +5355,7 @@ t line 295.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Chapter6/Simulation_AllPSF_Aggregate.pdf, id=14245, 1011.78pt x 289.08pt>
+<Chapter6/Simulation_AllPSF_Aggregate.pdf, id=15655, 1011.78pt x 289.08pt>
 File: Chapter6/Simulation_AllPSF_Aggregate.pdf Graphic file (type pdf)
 
 <use Chapter6/Simulation_AllPSF_Aggregate.pdf>
@@ -4373,28 +5373,28 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[143 <./Chapter6/Composition_Bacteria_Age.pdf>]
+[194 <./Chapter6/Composition_Bacteria_Age.pdf>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[144 <./Chapter6/HMSC_Fungi_Family_Summary.pdf>]
+[195 <./Chapter6/HMSC_Fungi_Family_Summary.pdf>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[145 <./Chapter6/HMSC_Bacteria_Family_Summary.pdf>]
+[196 <./Chapter6/HMSC_Bacteria_Family_Summary.pdf>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[146 <./Chapter6/Simulation_AllPSF_Aggregate.pdf>] (./PJK_Thesis.bbl [147
+[197 <./Chapter6/Simulation_AllPSF_Aggregate.pdf>] (./PJK_Thesis.bbl [198
 
 
 ]
@@ -4404,153 +5404,199 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[148]
+[199]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[149]
+[200]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[150]
+[201]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[151]
+[202]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[152]
+[203]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[153]
+[204]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[154]
+[205]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[155]
+[206]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[156]
+[207]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[157]
+[208]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[158]
+[209]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[159]
+[210]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[160]
+[211]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[161]
+[212]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[162]
+[213]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[163]
+[214]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[164]
+[215]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[165])
+[216]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[166]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 163.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 163.
+[217]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[218]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[219]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[220]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[221]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[222])
+
+Package natbib Warning: There were undefined citations.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[223]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 189.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 189.
  (./PJK_Thesis.aux (./Preface/Abstract.aux) (./Chapter1/Introduction.aux)
-(./Chapter2/Chapter2.aux) (./Chapter3/Chapter3.aux) (./Chapter5/Chapter5.aux)
-(./Chapter6/Chapter6.aux) (./Chapter2/Chapter2Appendix.aux)
-(./Chapter3/Chapter3Appendix.aux) (./Chapter4/Chapter4Appendix.aux)
-(./Chapter5/Chapter5Appendix.aux) (./Chapter6/Chapter6Appendix.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 163.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 163.
+(./Chapter2/Chapter2.aux) (./Chapter3/Chapter3.aux) (./Chapter4/Chapter4.aux)
+(./Chapter5/Chapter5.aux) (./Chapter6/Chapter6.aux)
+(./Chapter2/Chapter2Appendix.aux) (./Chapter3/Chapter3Appendix.aux)
+(./Chapter4/Chapter4Appendix.aux) (./Chapter5/Chapter5Appendix.aux)
+(./Chapter6/Chapter6Appendix.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 189.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 189.
 Package rerunfilecheck Info: File `PJK_Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: A79D56EE4745C05F778FDA618DEE1015;6153.
+(rerunfilecheck)             Checksum: 9A0DD66C43C33B1EE8AAEFF368E57D6D;7377.
  ) 
 Here is how much of TeX's memory you used:
- 32092 strings out of 493089
- 627116 string characters out of 6134842
- 704952 words of memory out of 5000000
- 34280 multiletter control sequences out of 15000+600000
- 98612 words of font info for 149 fonts, out of 8000000 for 9000
+ 32634 strings out of 493089
+ 636425 string characters out of 6134842
+ 715380 words of memory out of 5000000
+ 34603 multiletter control sequences out of 15000+600000
+ 160226 words of font info for 251 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 58i,15n,93p,10440b,949s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 58i,18n,93p,10440b,949s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/newpx/ecsups.enc}{/usr/lo
 cal/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texlive/201
 5/texmf-dist/fonts/enc/dvips/newpx/tgpdiff.enc}{/usr/local/texlive/2015/texmf-d
@@ -4568,10 +5614,10 @@ exmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/local/texlive/2015/texmf-dist
 /fonts/type1/public/newpx/zplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
 pe1/public/newpx/zplri.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publ
 ic/newpx/zplx-regular.pfb>
-Output written on PJK_Thesis.pdf (180 pages, 18896578 bytes).
+Output written on PJK_Thesis.pdf (239 pages, 21863631 bytes).
 PDF statistics:
- 19008 PDF objects out of 22161 (max. 8388607)
- 10676 compressed objects within 107 object streams
- 584 named destinations out of 1000 (max. 500000)
- 770 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 20482 PDF objects out of 22161 (max. 8388607)
+ 11880 compressed objects within 119 object streams
+ 753 named destinations out of 1000 (max. 500000)
+ 903 words of extra memory for PDF output out of 10000 (max. 10000000)
 
