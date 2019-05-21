@@ -1,4 +1,4 @@
-\begin{thebibliography}{239}
+\begin{thebibliography}{241}
 
 \bibitem[Adler et~al.(2010)Adler, Ellner, and Levine]{Adler2010}
 Adler, P.~B., S.~P. Ellner, and J.~M. Levine, 2010.
@@ -181,9 +181,17 @@ Brown, W. and E.~Wilson, 1956.
 \newblock Character displacement.
 \newblock \emph{Systematic Biology} \textbf{5}:49--64.
 
-\bibitem[Callaway et~al.(2004)Callaway, Thelen, Rodriguez, and
-  Holben]{Callaway2004}
-Callaway, R.~M., G.~C. Thelen, A.~Rodriguez, and W.~E. Holben, 2004.
+\bibitem[Callaway et~al.(2004{a})Callaway, Thelen, Barth, Ramsey, and
+  Gannon]{Callaway2004}
+Callaway, R.~M., G.~C. Thelen, S.~Barth, P.~W. Ramsey, and J.~E. Gannon,
+  2004{a}.
+\newblock Soil fungi alter interactions between the invader \textit{{C}entaurea
+  maculosa} and north {A}merican natives.
+\newblock \emph{Ecology} \textbf{85}:1062--1071.
+
+\bibitem[Callaway et~al.(2004{b})Callaway, Thelen, Rodriguez, and
+  Holben]{Callaway2004b}
+Callaway, R.~M., G.~C. Thelen, A.~Rodriguez, and W.~E. Holben, 2004{b}.
 \newblock {Soil biota and exotic plant invasion.}
 \newblock \emph{Nature} \textbf{427}:731--733.
 
@@ -882,7 +890,7 @@ Lemoine, N.~P. and D.~E. Burkepile, 2012.
 Lennon, J.~T. and S.~E. Jones, 2011.
 \newblock Microbial seed banks: the ecological and evolutionary implications of
   dormancy.
-\newblock \emph{Nature Reviews Microbiology} \textbf{9}:119.
+\newblock \emph{Nature Reviews Microbiology} \textbf{9}:119--130.
 
 \bibitem[Le{\'o}n and Tumpson(1975)]{leon1975}
 Le{\'o}n, J.~A. and D.~B. Tumpson, 1975.
@@ -1227,11 +1235,18 @@ Reinhart, K.~O. and R.~M. Callaway, 2006.
 \newblock Soil biota and invasive plants.
 \newblock \emph{New phytologist} \textbf{170}:445--457.
 
-\bibitem[Reinhart et~al.(2010)Reinhart, Royo, Kageyama, and Clay]{Reinhart2010}
-Reinhart, K.~O., A.~a. Royo, S.~A. Kageyama, and K.~Clay, 2010.
+\bibitem[Reinhart et~al.(2010{a})Reinhart, Royo, Kageyama, and
+  Clay]{Reinhart2010b}
+Reinhart, K.~O., A.~a. Royo, S.~A. Kageyama, and K.~Clay, 2010{a}.
 \newblock {Canopy gaps decrease microbial densities and disease risk for a
   shade-intolerant tree species}.
 \newblock \emph{Acta Oecologica} \textbf{36}:530--536.
+
+\bibitem[Reinhart et~al.(2010{b})Reinhart, Tytgat, van~der Putten, and
+  Clay]{Reinhart2010}
+Reinhart, K.~O., T.~Tytgat, W.~H. van~der Putten, and K.~Clay, 2010{b}.
+\newblock Virulence of soil-borne pathogens and invasion by prunus serotina.
+\newblock \emph{New Phytologist} \textbf{186}:484--495.
 
 \bibitem[Revilla et~al.(2013)Revilla, Veen, Eppinga, and Weissing]{Revilla2013}
 Revilla, T.~A., G.~F.~C. Veen, M.~B. Eppinga, and F.~J. Weissing, 2013.
