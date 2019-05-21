@@ -1,9 +1,11 @@
 \contentsline {chapter}{Abstract}{v}{chapter*.1}
+\contentsline {chapter}{List of Tables}{x}{chapter*.3}
+\contentsline {chapter}{List of Figures}{xi}{chapter*.4}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}General introduction}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}Overview}{2}{section.1.2}
 \contentsline {section}{\numberline {1.3}Overall conclusion and future perspectives}{5}{section.1.3}
-\contentsline {section}{\numberline {1.4}Author Contributions}{6}{section.1.4}
+\contentsline {section}{\numberline {1.4}Author contributions}{6}{section.1.4}
 \contentsline {chapter}{\numberline {2}Linking modern coexistence theory and contemporary niche theory}{9}{chapter.2}
 \contentsline {section}{\numberline {2.1}Abstract}{9}{section.2.1}
 \contentsline {section}{\numberline {2.2}Introduction}{10}{section.2.2}
@@ -41,45 +43,46 @@
 \contentsline {subsection}{\numberline {4.5.1}Recommendations for empirical experimental design}{80}{subsection.4.5.1}
 \contentsline {subsection}{\numberline {4.5.2}Applying the conceptual framework: a case study}{83}{subsection.4.5.2}
 \contentsline {section}{\numberline {4.6}Conclusion}{86}{section.4.6}
-\contentsline {section}{\numberline {4.7}Acknowledgements}{87}{section.4.7}
-\contentsline {section}{\numberline {4.8}Tables}{88}{section.4.8}
-\contentsline {section}{\numberline {4.9}Figures}{91}{section.4.9}
-\contentsline {chapter}{\numberline {5}Testing chronosequence predictions with longitudinal data reveals microbial community convergence}{100}{chapter.5}
-\contentsline {section}{\numberline {5.1}Abstract}{100}{section.5.1}
-\contentsline {section}{\numberline {5.2}Introduction}{101}{section.5.2}
-\contentsline {section}{\numberline {5.3}Methods}{102}{section.5.3}
-\contentsline {section}{\numberline {5.4}Results}{109}{section.5.4}
-\contentsline {section}{\numberline {5.5}Discussion}{110}{section.5.5}
-\contentsline {section}{\numberline {5.6}Acknowledgments}{112}{section.5.6}
-\contentsline {section}{\numberline {5.7}Figures}{114}{section.5.7}
-\contentsline {chapter}{\numberline {6}Dynamic plant--soil microbe interactions: the neglected effect of soil conditioning time}{119}{chapter.6}
-\contentsline {section}{\numberline {6.1}Abstract}{119}{section.6.1}
-\contentsline {section}{\numberline {6.2}Introduction}{119}{section.6.2}
-\contentsline {section}{\numberline {6.3}Methods}{121}{section.6.3}
-\contentsline {section}{\numberline {6.4}Results}{129}{section.6.4}
-\contentsline {section}{\numberline {6.5}Discussion}{131}{section.6.5}
-\contentsline {section}{\numberline {6.6}Conclusion}{135}{section.6.6}
-\contentsline {section}{\numberline {6.7}Acknowledgements}{136}{section.6.7}
-\contentsline {section}{\numberline {6.8}Figures}{137}{section.6.8}
-\contentsline {chapter}{\numberline {A}Linking modern coexistence theory and contemporary niche theory: Appendices S1--S5}{143}{appendix.A}
-\contentsline {section}{\numberline {A.1}Appendix S1 -- Mathematical derivation of Chesson's niche overlap and fitness differences for consumer--resource models}{143}{section.A.1}
-\contentsline {section}{\numberline {A.2}Appendix S2 -- Analytical form and positivity criteria of $E_{Ni}^{*}$}{151}{section.A.2}
-\contentsline {section}{\numberline {A.3}Appendix S3 -- The effect of changing impact niche overlap asymmetrically}{154}{section.A.3}
-\contentsline {section}{\numberline {A.4}Appendix S4 -- The effect of rotating the impact vectors whilst holding impact niche overlap constant}{155}{section.A.4}
-\contentsline {section}{\numberline {A.5}Appendix S5 -- The effects of changing requirement niche overlap without fixing the equilibrium resource density for the essential resources model}{157}{section.A.5}
-\contentsline {chapter}{\numberline {B}Coexistence theory and the frequency-dependence of priority effects: Appendix S1}{158}{appendix.B}
-\contentsline {section}{\numberline {B.1}Appendix S1 -- Positive frequency dependence in an equilibrium and nonequilibrium systems}{158}{section.B.1}
-\contentsline {chapter}{\numberline {C}Effects of soil microbes on plant competition: a perspective from modern coexistence theory: Appendices S1 -- S4}{163}{appendix.C}
-\contentsline {section}{\numberline {C.1}Appendix S1 -- Deriving the general plant--soil microbe interaction model from other candidate models}{163}{section.C.1}
-\contentsline {section}{\numberline {C.2}Appendix S2 -- Separating stabilizing and equalizing components}{167}{section.C.2}
-\contentsline {section}{\numberline {C.3}Appendix S3 -- Invasion analysis for the plant--soil microbe interaction model}{169}{section.C.3}
-\contentsline {section}{\numberline {C.4}Appendix S4 -- Supplementary Tables and Figures}{171}{section.C.4}
-\contentsline {chapter}{\numberline {D}Testing chronosequence predictions with longitudinal data reveals microbial community convergence: Appendix S1}{176}{appendix.D}
-\contentsline {section}{\numberline {D.1}Appendix S1 -- Supplementary Figures}{176}{section.D.1}
-\contentsline {chapter}{\numberline {E}Dynamic plant--soil microbe interactions: the neglected effect of soil conditioning time: Appendices S1--S2}{181}{appendix.E}
-\contentsline {section}{\numberline {E.1}Appendix S1 -- Detailed methods}{181}{section.E.1}
-\contentsline {subsection}{\numberline {E.1.1}DNA sequencing of fungal and bacterial communities}{181}{subsection.E.1.1}
-\contentsline {subsection}{\numberline {E.1.2}Statistical analysis of microbial communities}{183}{subsection.E.1.2}
-\contentsline {subsection}{\numberline {E.1.3}Greenhouse experiment}{184}{subsection.E.1.3}
-\contentsline {subsection}{\numberline {E.1.4}Simulation model}{186}{subsection.E.1.4}
-\contentsline {section}{\numberline {E.2}Appendix S2 -- Supplementary Figures}{191}{section.E.2}
+\contentsline {section}{\numberline {4.7}Acknowledgements}{88}{section.4.7}
+\contentsline {section}{\numberline {4.8}Tables}{89}{section.4.8}
+\contentsline {section}{\numberline {4.9}Figures}{92}{section.4.9}
+\contentsline {chapter}{\numberline {5}Testing chronosequence predictions with longitudinal data reveals microbial community convergence}{101}{chapter.5}
+\contentsline {section}{\numberline {5.1}Abstract}{101}{section.5.1}
+\contentsline {section}{\numberline {5.2}Introduction}{102}{section.5.2}
+\contentsline {section}{\numberline {5.3}Methods}{103}{section.5.3}
+\contentsline {section}{\numberline {5.4}Results}{110}{section.5.4}
+\contentsline {section}{\numberline {5.5}Discussion}{111}{section.5.5}
+\contentsline {section}{\numberline {5.6}Acknowledgments}{113}{section.5.6}
+\contentsline {section}{\numberline {5.7}Figures}{115}{section.5.7}
+\contentsline {chapter}{\numberline {6}Dynamic plant--soil microbe interactions: the neglected effect of soil conditioning time}{120}{chapter.6}
+\contentsline {section}{\numberline {6.1}Abstract}{120}{section.6.1}
+\contentsline {section}{\numberline {6.2}Introduction}{120}{section.6.2}
+\contentsline {section}{\numberline {6.3}Methods}{122}{section.6.3}
+\contentsline {section}{\numberline {6.4}Results}{130}{section.6.4}
+\contentsline {section}{\numberline {6.5}Discussion}{132}{section.6.5}
+\contentsline {section}{\numberline {6.6}Conclusion}{136}{section.6.6}
+\contentsline {section}{\numberline {6.7}Acknowledgements}{137}{section.6.7}
+\contentsline {section}{\numberline {6.8}Figures}{138}{section.6.8}
+\contentsline {chapter}{\numberline {A}Linking modern coexistence theory and contemporary niche theory: Appendices S1--S5}{144}{appendix.A}
+\contentsline {section}{\numberline {A.1}Appendix S1 -- Mathematical derivation of Chesson's niche overlap and fitness differences for consumer--resource models}{144}{section.A.1}
+\contentsline {section}{\numberline {A.2}Appendix S2 -- Analytical form and positivity criteria of $E_{Ni}^{*}$}{152}{section.A.2}
+\contentsline {section}{\numberline {A.3}Appendix S3 -- The effect of changing impact niche overlap asymmetrically}{155}{section.A.3}
+\contentsline {section}{\numberline {A.4}Appendix S4 -- The effect of rotating the impact vectors whilst holding impact niche overlap constant}{156}{section.A.4}
+\contentsline {section}{\numberline {A.5}Appendix S5 -- The effects of changing requirement niche overlap without fixing the equilibrium resource density for the essential resources model}{158}{section.A.5}
+\contentsline {chapter}{\numberline {B}Coexistence theory and the frequency-dependence of priority effects: Appendix S1}{159}{appendix.B}
+\contentsline {section}{\numberline {B.1}Appendix S1 -- Positive frequency dependence in an equilibrium and nonequilibrium systems}{159}{section.B.1}
+\contentsline {chapter}{\numberline {C}Effects of soil microbes on plant competition: a perspective from modern coexistence theory: Appendices S1 -- S4}{164}{appendix.C}
+\contentsline {section}{\numberline {C.1}Appendix S1 -- Deriving the general plant--soil microbe interaction model from other candidate models}{164}{section.C.1}
+\contentsline {section}{\numberline {C.2}Appendix S2 -- Separating stabilizing and equalizing components}{168}{section.C.2}
+\contentsline {section}{\numberline {C.3}Appendix S3 -- Invasion analysis for the plant--soil microbe interaction model}{170}{section.C.3}
+\contentsline {section}{\numberline {C.4}Appendix S4 -- Supplementary Tables and Figures}{172}{section.C.4}
+\contentsline {chapter}{\numberline {D}Testing chronosequence predictions with longitudinal data reveals microbial community convergence: Appendix S1}{177}{appendix.D}
+\contentsline {section}{\numberline {D.1}Appendix S1 -- Supplementary Figures}{177}{section.D.1}
+\contentsline {chapter}{\numberline {E}Dynamic plant--soil microbe interactions: the neglected effect of soil conditioning time: Appendices S1--S2}{182}{appendix.E}
+\contentsline {section}{\numberline {E.1}Appendix S1 -- Detailed methods}{182}{section.E.1}
+\contentsline {subsection}{\numberline {E.1.1}DNA sequencing of fungal and bacterial communities}{182}{subsection.E.1.1}
+\contentsline {subsection}{\numberline {E.1.2}Statistical analysis of microbial communities}{184}{subsection.E.1.2}
+\contentsline {subsection}{\numberline {E.1.3}Greenhouse experiment}{185}{subsection.E.1.3}
+\contentsline {subsection}{\numberline {E.1.4}Simulation model}{187}{subsection.E.1.4}
+\contentsline {section}{\numberline {E.2}Appendix S2 -- Supplementary Figures}{192}{section.E.2}
+\contentsline {chapter}{\numberline {F}Bibliography}{199}{appendix.F}

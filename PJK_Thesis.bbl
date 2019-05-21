@@ -1,9 +1,4 @@
-\begin{thebibliography}{240}
-
-\bibitem[Rei(2006)]{Reinhart2006}
-2006.
-\newblock {Soil biota and invasive plants}.
-\newblock \emph{New phytologist} \textbf{170}:445--457.
+\begin{thebibliography}{239}
 
 \bibitem[Adler et~al.(2010)Adler, Ellner, and Levine]{Adler2010}
 Adler, P.~B., S.~P. Ellner, and J.~M. Levine, 2010.
@@ -17,7 +12,7 @@ Adler, P.~B., J.~HilleRisLambers, P.~C. Kyriakidis, Q.~Guan, and J.~M. Levine,
 \newblock {Climate variability has a stabilizing effect on the coexistence of
   prairie grasses.}
 \newblock \emph{Proceedings of the National Academy of Sciences of the United
-  States of America} \textbf{103}:12793--8.
+  States of America} \textbf{103}:12793--12798.
 
 \bibitem[Adler et~al.(2007)Adler, Hillerislambers, and Levine]{Adler2007}
 Adler, P.~B., J.~Hillerislambers, and J.~M. Levine, 2007.
@@ -34,7 +29,7 @@ Aguilera, A.~G., 2011.
   Kesseli]{Aguilera2017}
 Aguilera, A.~G., S.~Morey, M.~Gammon, M.~Jiang, S.~Ramos, and R.~Kesseli, 2017.
 \newblock Effect of plant--soil feedbacks on the growth and competition of
-  lactuca species.
+  \textit{Lactuca} species.
 \newblock \emph{Plant Ecology} \textbf{218}:359--372.
 
 \bibitem[Amarasekare(2007)]{Amarasekare2007}
@@ -67,7 +62,7 @@ Bagchi, R., T.~Swinfield, R.~E. Gallery, O.~T. Lewis, S.~Gripenberg,
   L.~Narayan, and R.~P. Freckleton, 2010.
 \newblock {Testing the Janzen--Connell mechanism: pathogens cause
   overcompensating density dependence in a tropical tree.}
-\newblock \emph{Ecology letters} \textbf{13}:1262--1269.
+\newblock \emph{Ecology Letters} \textbf{13}:1262--1269.
 
 \bibitem[Barab\'{a}s et~al.(2018)Barab\'{a}s, D'Andrea, and Stump]{Barabas2018}
 Barab\'{a}s, G., R.~D'Andrea, and S.~M. Stump, 2018.
@@ -81,9 +76,9 @@ Barab{\'{a}}s, G., L.~P{\'{a}}sztor, G.~Mesz{\'{e}}na, and A.~Ostling, 2014.
   theory and application}.
 \newblock \emph{Ecology Letters} \textbf{12}:1479--1494.
 
-\bibitem[Barbour et~al.(1973)Barbour, Craig, Drysdale, , and
+\bibitem[Barbour et~al.(1973)Barbour, Craig, Drysdale, and
   Ghiselin]{Barbour1973}
-Barbour, M.~G., R.~B. Craig, F.~R. Drysdale, , and M.~T. Ghiselin, 1973.
+Barbour, M.~G., R.~B. Craig, F.~R. Drysdale, and M.~T. Ghiselin, 1973.
 \newblock Coastal ecology: Bodega Head.
 \newblock University of California Press.
 
@@ -105,22 +100,22 @@ Bauer, J.~T., K.~M.~L. Mack, and J.~D. Bever, 2015.
 
 \bibitem[Beckstead and Parker(2003)]{Beckstead2003}
 Beckstead, J. and I.~M. Parker, 2003.
-\newblock Invasiveness of ammophila arenaria: Release from soil-borne
-  pathogens?
+\newblock Invasiveness of \textit{{A}mmophila arenaria}: release from
+  soil-borne pathogens?
 \newblock \emph{Ecology} \textbf{84}:2824--2831.
 
 \bibitem[Bell et~al.(2006)Bell, Freckleton, and Lewis]{Bell2006}
 Bell, T., R.~P. Freckleton, and O.~T. Lewis, 2006.
 \newblock {Plant pathogens drive density-dependent seedling mortality in a
   tropical tree.}
-\newblock \emph{Ecology letters} \textbf{9}:569--574.
+\newblock \emph{Ecology Letters} \textbf{9}:569--574.
 
 \bibitem[Bennett et~al.(2017)Bennett, Maherali, Reinhart, Lekberg, Hart, and
   Klironomos]{Bennett2017}
 Bennett, J.~A., H.~Maherali, K.~O. Reinhart, Y.~Lekberg, M.~M. Hart, and
   J.~Klironomos, 2017.
 \newblock {Plant--soil feedbacks and mycorrhizal type influence temperate
-  forest population dynamics SI}.
+  forest population dynamics}.
 \newblock \emph{Science} \textbf{355}:181--184.
 
 \bibitem[Bever(1999)]{Bever1999}
@@ -158,8 +153,8 @@ Bever, J.~D., S.~A. Mangan, and H.~M. Alexander, 2015.
 
 \bibitem[Bever et~al.(1997)Bever, Westover, and Antonovics]{Bever1997}
 Bever, J.~D., K.~M. Westover, and J.~Antonovics, 1997.
-\newblock {Incorporating the Soil Community into Plant Population Dynamics: The
-  Utility of the Feedback Approach}.
+\newblock Incorporating the soil community into plant population dynamics: the
+  utility of the feedback approach.
 \newblock \emph{Journal of Ecology} \textbf{85}:561--573.
 
 \bibitem[Bezemer et~al.(2018)Bezemer, Jing, Bakx-Schotman, and
@@ -231,13 +226,12 @@ Castle, S., D.~Nemergut, A.~Grandy, J.~Leff, E.~Graham, E.~Hood, S.~Schmidt,
 \bibitem[Chaparro et~al.(2013)Chaparro, Badri, and Vivanco]{Chaparro2013}
 Chaparro, J.~M., D.~V. Badri, and J.~M. Vivanco, 2013.
 \newblock Rhizosphere microbiome assemblage is affected by plant development.
-\newblock \emph{The Isme Journal} \textbf{8}:790--803.
-\newblock Original Article.
+\newblock \emph{The {ISME} Journal} \textbf{8}:790--803.
 
 \bibitem[Chase and Leibold(2003)]{Chase2003}
 Chase, J. and M.~Leibold, 2003.
 \newblock {Ecological Niches: Linking Classical and Contemporary Approaches}.
-\newblock University of Chicago Press, Chicago, IL.
+\newblock University of Chicago Press, Chicago, IL, USA.
 
 \bibitem[Chase(2003)]{Chase2003Oecologia}
 Chase, J.~M., 2003.
@@ -269,7 +263,7 @@ Chesson, P., 2000{b}.
 Chesson, P., 2003.
 \newblock {Quantifying and testing coexistence mechanisms arising from
   recruitment fluctuations}.
-\newblock \emph{Theor. Popul. Biol.} \textbf{64}:345--357.
+\newblock \emph{Theoretical Popululation Biology} \textbf{64}:345--357.
 
 \bibitem[Chesson(2008)]{Chesson2008}
 Chesson, P., 2008.
@@ -294,7 +288,7 @@ Chesson, P., 2013.
 \bibitem[Chesson and Kuang(2008)]{Chesson2008b}
 Chesson, P. and J.~J. Kuang, 2008.
 \newblock {The interaction between predation and competition.}
-\newblock \emph{Nature} \textbf{456}:235--8.
+\newblock \emph{Nature} \textbf{456}:235--238.
 
 \bibitem[Chung and Rudgers(2016)]{Chung2016}
 Chung, Y.~A. and J.~A. Rudgers, 2016.
@@ -333,8 +327,8 @@ Connell, J.~H. and R.~O. Slatyer, 1977.
 
 \bibitem[Conser and Connor(2009)]{Conser2009}
 Conser, C. and E.~F. Connor, 2009.
-\newblock Assessing the residual effects of carpobrotus edulis invasion,
-  implications for restoration.
+\newblock Assessing the residual effects of \textit{{C}arpobrotus edulis}
+  invasion, implications for restoration.
 \newblock \emph{Biological Invasions} \textbf{11}:349--358.
 
 \bibitem[Crawford and Knight(2017)]{Crawford2017}
@@ -352,14 +346,14 @@ Damgaard, C., 2019.
 \bibitem[Danin et~al.(1998)Danin, Rae, Barbour, Jurjavcic, Connors, and
   Uhlinger]{Danin1998}
 Danin, A., S.~Rae, M.~Barbour, N.~Jurjavcic, P.~Connors, and E.~Uhlinger, 1998.
-\newblock Early primary succession on dunes at bodega head.
+\newblock Early primary succession on dunes at {B}odega head.
 \newblock \emph{Madrono} \textbf{45}:101--109.
 
 \bibitem[D'Antonio(1990)]{DAntonio1990}
 D'Antonio, C.~M., 1990.
 \newblock Seed production and dispersal in the non-native, invasive succulent
-  carpobrotus edulis (aizoaceae) in coastal strand communities of central
-  california.
+  \textit{{C}arpobrotus edulis} ({A}izoaceae) in coastal strand communities of
+  central {C}alifornia.
 \newblock \emph{Journal of Applied Ecology} \textbf{27}:693--702.
 
 \bibitem[Davis et~al.(2018)Davis, Proctor, Holmes, Relman, and
@@ -380,14 +374,13 @@ Day, N.~J., K.~E. Dunfield, and P.~M. Antunes, 2015.
   Roiloa, Rodr{\'i}guez-Echeverr{\'i}a, and Freitas]{delaPena2010}
 de~la Pe{\~{n}}a, E., N.~de~Clercq, D.~Bonte, S.~Roiloa,
   S.~Rodr{\'i}guez-Echeverr{\'i}a, and H.~Freitas, 2010.
-\newblock Plant--soil feedback as a mechanism of invasion by carpobrotus
-  edulis.
+\newblock Plant--soil feedback as a mechanism of invasion by
+  \textit{{C}arpobrotus edulis}.
 \newblock \emph{Biological Invasions} \textbf{12}:3637--3648.
 
 \bibitem[de~Roos and Persson(2013)]{deRoos2013}
 de~Roos, A.~M. and L.~Persson, 2013.
-\newblock Population and community ecology of ontogenetic development,
-  volume~59.
+\newblock Population and community ecology of ontogenetic development.
 \newblock Princeton University Press, Princeton, NJ, USA.
 
 \bibitem[Dell et~al.(2011)Dell, Pawar, and Savage]{Dell2011}
@@ -401,7 +394,7 @@ Dell, A.~I., S.~Pawar, and V.~M. Savage, 2011.
   Porras-Alfaro, Kuske, Cole, Midgley, and Tran-Dinh]{Deshpande2016}
 Deshpande, V., Q.~Wang, P.~Greenfield, M.~Charleston, A.~Porras-Alfaro, C.~R.
   Kuske, J.~R. Cole, D.~J. Midgley, and N.~Tran-Dinh, 2016.
-\newblock Fungal identification using a bayesian classifier and the warcup
+\newblock Fungal identification using a {B}ayesian classifier and the {W}arcup
   training set of internal transcribed spacer sequences.
 \newblock \emph{Mycologia} \textbf{108}:1--5.
 
@@ -411,7 +404,7 @@ Diez, J.~M., I.~Dickie, G.~Edwards, P.~E. Hulme, J.~J. Sullivan, and R.~P.
   Duncan, 2010.
 \newblock {Negative soil feedbacks accumulate over time for non-native plant
   species.}
-\newblock \emph{Ecology letters} \textbf{13}:803--809.
+\newblock \emph{Ecology Letters} \textbf{13}:803--809.
 
 \bibitem[Dini-Andreote et~al.(2015)Dini-Andreote, Stegen, van Elsas, and
   Salles]{DiniAndreote2015}
@@ -421,20 +414,12 @@ Dini-Andreote, F., J.~C. Stegen, J.~D. van Elsas, and J.~F. Salles, 2015.
 \newblock \emph{Proceedings of the National Academy of Sciences of the United
   States of America} \textbf{112}:E1326--E1332.
 
-\bibitem[Dinnage et~al.(2018)Dinnage, Simonsen, Barrett, Cardillo,
-  Raisbeck-Brown, Thrall, and Prober]{Dinnage2018}
-Dinnage, R., A.~K. Simonsen, L.~G. Barrett, M.~Cardillo, N.~Raisbeck-Brown,
-  P.~H. Thrall, and S.~M. Prober, 2018.
-\newblock Larger plants promote a greater diversity of symbiotic
-  nitrogen-fixing soil bacteria associated with an australian endemic legume.
-\newblock \emph{Journal of Ecology} \textbf{(in press)}.
-
 \bibitem[Dinnage et~al.(2019)Dinnage, Simonsen, Barrett, Cardillo,
   Raisbeck-Brown, Thrall, and Prober]{Dinnage2019}
 Dinnage, R., A.~K. Simonsen, L.~G. Barrett, M.~Cardillo, N.~Raisbeck-Brown,
   P.~H. Thrall, and S.~M. Prober, 2019.
 \newblock Larger plants promote a greater diversity of symbiotic
-  nitrogen-fixing soil bacteria associated with an australian endemic legume.
+  nitrogen-fixing soil bacteria associated with an {A}ustralian endemic legume.
 \newblock \emph{Journal of Ecology} \textbf{107}:977--991.
 
 \bibitem[Dost{\'a}l et~al.(2013)Dost{\'a}l, M{\"u}llerov{\'a}, Py\v{s}ek,
@@ -447,8 +432,8 @@ Dost{\'a}l, P., J.~M{\"u}llerov{\'a}, P.~Py\v{s}ek, J.~Pergl, and
 \bibitem[Dudenh{\"{o}}ffer et~al.(2018)Dudenh{\"{o}}ffer, Ebeling, Klein, Wagg,
   and Farrer]{Dudenhoffer2017}
 Dudenh{\"{o}}ffer, J., A.~Ebeling, A.~Klein, C.~Wagg, and E.~Farrer, 2018.
-\newblock {Beyond biomass: Soil feedbacks are transient over plant life stages
-  and alter fitness}.
+\newblock {Beyond biomass: {S}oil feedbacks are transient over plant life
+  stages and alter fitness}.
 \newblock \emph{Journal of Ecology} \textbf{106}:230--241.
 
 \bibitem[Duhamel et~al.(2019)Duhamel, Wan, Bogar, Segnitz, Duncritts, and
@@ -462,7 +447,7 @@ Duhamel, M., J.~Wan, L.~M. Bogar, R.~M. Segnitz, N.~C. Duncritts, and K.~G.
 \bibitem[Edgar et~al.(2011)Edgar, Haas, Clemente, Quince, and
   Knight]{Edgar2011}
 Edgar, R.~C., B.~J. Haas, J.~C. Clemente, C.~Quince, and R.~Knight, 2011.
-\newblock Uchime improves sensitivity and speed of chimera detection.
+\newblock {UCHIME} improves sensitivity and speed of chimera detection.
 \newblock \emph{Bioinformatics} \textbf{27}:2194--2200.
 
 \bibitem[Ellner et~al.(2019)Ellner, Snyder, Adler, and Hooker]{Ellner2019}
@@ -473,7 +458,7 @@ Ellner, S.~P., R.~E. Snyder, P.~B. Adler, and G.~Hooker, 2019.
 \bibitem[Elton(1927)]{Elton1927}
 Elton, C., 1927.
 \newblock {Animal Ecology}.
-\newblock New York, Macmillan Co.
+\newblock Macmillan Co., New York, USA.
 
 \bibitem[Eppinga et~al.(2018)Eppinga, Baudena, Johnson, Jiang, Mack, Strand,
   and Bever]{Eppinga2018}
@@ -493,8 +478,8 @@ Eppinga, M.~B., M.~Rietkerk, S.~C. Dekker, and P.~C.~D. Ruiter, 2006.
   McLaughlin]{Facelli1999}
 Facelli, E., J.~M. Facelli, S.~E. Smith, and M.~J. McLaughlin, 1999.
 \newblock Interactive effects of arbuscular mycorrhizal symbiosis,
-  intraspecific competition and resource availability on trifolium subterraneum
-  cv. mt. barker.
+  intraspecific competition and resource availability on \textit{{T}rifolium
+  subterraneum} cv. {M}t. {B}arker.
 \newblock \emph{New Phytologist} \textbf{141}:535--547.
 
 \bibitem[Fierer et~al.(2010)Fierer, Nemergut, Knight, and Craine]{Fierer2010}
@@ -549,7 +534,7 @@ Fukami, T. and M.~Nakajima, 2013.
   and Peay]{Fukami2017}
 Fukami, T., M.~Nakajima, C.~Fortunel, P.~V.~A. Fine, C.~Baraloto, S.~E. Russo,
   and K.~G. Peay, 2017.
-\newblock Geographical variation in community divergence: Insights from
+\newblock Geographical variation in community divergence: insights from
   tropical forest monodominance by ectomycorrhizal trees.
 \newblock \emph{The American Naturalist} \textbf{190}:S105--S122.
 
@@ -645,8 +630,8 @@ Hawkes, C.~V., S.~N. Kivlin, J.~Du, and V.~T. Eviner, 2012.
   and Mayfield]{Hillerislambers2012}
 HilleRisLambers, J., P.~B. Adler, W.~Harpole, J.~M. Levine, and M.~Mayfield,
   2012.
-\newblock {Rethinking Community Assembly through the Lens of Coexistence
-  Theory}.
+\newblock {Rethinking community assembly through the lens of coexistence
+  theory}.
 \newblock \emph{Annual Review of Ecology, Evolution, and Systematics}
   \textbf{43}:227--248.
 
@@ -715,7 +700,7 @@ Johnson, D.~J., W.~T. Beaulieu, J.~D. Bever, and K.~Clay, 2012.
 \bibitem[Johnson and Miyanishi(2008)]{Johnson2008}
 Johnson, E.~A. and K.~Miyanishi, 2008.
 \newblock {Testing the assumptions of chronosequences in succession.}
-\newblock \emph{Ecology Letters} \textbf{11}:419--31.
+\newblock \emph{Ecology Letters} \textbf{11}:419--431.
 
 \bibitem[Kadowaki et~al.(2018)Kadowaki, Yamamoto, Sato, Tanabe, Hidaka, and
   Toju]{Kadowaki2017}
@@ -785,13 +770,13 @@ Klironomos, J.~N., 2002.
   invasiveness in communities.}
 \newblock \emph{Nature} \textbf{417}:67--70.
 
-\bibitem[Knelman et~al.(2012)Knelman, Legg, O’Neill, Washenberger, González,
-  Cleveland, and Nemergut]{Knelman2012}
-Knelman, J.~E., T.~M. Legg, S.~P. O’Neill, C.~L. Washenberger, A.~González,
+\bibitem[Knelman et~al.(2012)Knelman, Legg, O'Neill, Washenberger,
+  Gonz{\'a}lez, Cleveland, and Nemergut]{Knelman2012}
+Knelman, J.~E., T.~M. Legg, S.~P. O'Neill, C.~L. Washenberger, A.~Gonz{\'a}lez,
   C.~C. Cleveland, and D.~R. Nemergut, 2012.
 \newblock Bacterial community structure and function change in association with
   colonizer plants during early primary succession in a glacier forefield.
-\newblock \emph{Soil Biology and Biochemistry} \textbf{46}:172 -- 180.
+\newblock \emph{Soil Biology and Biochemistry} \textbf{46}:172--180.
 
 \bibitem[Kraft et~al.(2015)Kraft, Godoy, and Levine]{Kraft2015}
 Kraft, N. J.~B., O.~Godoy, and J.~M. Levine, 2015.
@@ -826,8 +811,8 @@ Kulmatiski, A., J.~Heavilin, and K.~H. Beard, 2011.
 
 \bibitem[Kulmatiski and Kardol(2008)]{KulmatiskiKardol2008}
 Kulmatiski, A. and P.~Kardol, 2008.
-\newblock Getting Plant---Soil Feedbacks out of the Greenhouse: Experimental
-  and Conceptual Approaches, pages 449--472.
+\newblock Getting plant---soil feedbacks out of the greenhouse: experimental
+  and conceptual approaches, pages 449--472.
 \newblock Springer Berlin Heidelberg, Berlin, Heidelberg.
 
 \bibitem[LaManna et~al.(2017)LaManna, Mangan, Alonso, Bourg, Brockelman,
@@ -859,13 +844,13 @@ Lanuza, J.~B., I.~Bartomeus, and O.~Godoy, 2018.
 \newblock \emph{Ecology Letters} \textbf{21}:865--874.
 
 \bibitem[Lebrija-Trejos et~al.(2010)Lebrija-Trejos, Meave, Poorter,
-  Pérez-García, and Bongers]{Lebrijatrejos2010}
-Lebrija-Trejos, E., J.~A. Meave, L.~Poorter, E.~A. Pérez-García, and
+  P{\'e}rez-Garc{\'\i}a, and Bongers]{Lebrijatrejos2010}
+Lebrija-Trejos, E., J.~A. Meave, L.~Poorter, E.~A. P{\'e}rez-Garc{\'\i}a, and
   F.~Bongers, 2010.
 \newblock Pathways, mechanisms and predictability of vegetation change during
   tropical dry forest succession.
 \newblock \emph{Perspectives in Plant Ecology, Evolution and Systematics}
-  \textbf{12}:267 -- 275.
+  \textbf{12}:267--275.
 
 \bibitem[Leibold(1995)]{Leibold1995}
 Leibold, M.~A., 1995.
@@ -876,7 +861,7 @@ Leibold, M.~A., 1995.
 \bibitem[Leibold(1998)]{Leibold1998}
 Leibold, M.~A., 1998.
 \newblock {Similarity and local co-existence of species in regional biotas}.
-\newblock \emph{Evol. Ecol.} \textbf{12}:95--110.
+\newblock \emph{Evolutionary Ecology} \textbf{12}:95--110.
 
 \bibitem[Lekberg et~al.(2018)Lekberg, Bever, Bunn, Callaway, Hart, Kivlin,
   Klironomos, Larkin, Maron, Reinhart, Remke, and van~der Putten]{Lekberg2018}
@@ -897,7 +882,7 @@ Lemoine, N.~P. and D.~E. Burkepile, 2012.
 Lennon, J.~T. and S.~E. Jones, 2011.
 \newblock Microbial seed banks: the ecological and evolutionary implications of
   dormancy.
-\newblock \emph{Nature reviews microbiology} \textbf{9}:119.
+\newblock \emph{Nature Reviews Microbiology} \textbf{9}:119.
 
 \bibitem[Le{\'o}n and Tumpson(1975)]{leon1975}
 Le{\'o}n, J.~A. and D.~B. Tumpson, 1975.
@@ -929,7 +914,7 @@ Letten, A.~D., P.-J. Ke, and T.~Fukami, 2017.
 Letten, A.~D. and D.~B. Stouffer, 2019.
 \newblock The mechanistic basis for higher-order interactions and
   non-additivity in competitive communities.
-\newblock \emph{Ecology letters} \textbf{22}:423--436.
+\newblock \emph{Ecology Letters} \textbf{22}:423--436.
 
 \bibitem[Levine and HilleRisLambers(2009)]{Levine2009}
 Levine, J.~M. and J.~HilleRisLambers, 2009.
@@ -958,12 +943,12 @@ Li, S., M.~W. Cadotte, S.~J. Meiners, Z.~Pu, T.~Fukami, and L.~Jiang, 2016.
 Lundberg, D.~S., S.~Yourstone, P.~Mieczkowski, C.~D. Jones, and J.~L. Dangl,
   2013.
 \newblock {Practical innovations for high-throughput amplicon sequencing}.
-\newblock \emph{Nature Methods} \textbf{10}:999–1002.
+\newblock \emph{Nature Methods} \textbf{10}:999--1002.
 
 \bibitem[MacArthur(1970)]{MacArthur1970}
 MacArthur, R., 1970.
 \newblock {Species packing and competitive equilibrium for many species.}
-\newblock \emph{Theor. Popul. Biol.} \textbf{1}:1--11.
+\newblock \emph{Theoretical Population Biology} \textbf{1}:1--11.
 
 \bibitem[MacArthur and Levins(1964)]{MacArthur1964}
 MacArthur, R. and R.~Levins, 1964.
@@ -989,7 +974,7 @@ Mangan, S.~A., S.~A. Schnitzer, E.~A. Herre, K.~M.~L. Mack, M.~C. Valencia,
   Drigo, Veen, van~der Heijden, and Kardol]{Mariotte2018}
 Mariotte, P., Z.~Mehrabi, T.~M. Bezemer, G.~B. De~Deyn, A.~Kulmatiski,
   B.~Drigo, G.~F.~C. Veen, M.~G.~A. van~der Heijden, and P.~Kardol, 2018.
-\newblock Plant--soil feedback: Bridging natural and agricultural sciences.
+\newblock Plant--soil feedback: bridging natural and agricultural sciences.
 \newblock \emph{Trends in Ecology \& Evolution} \textbf{33}:129--142.
 
 \bibitem[Maron and Connors(1996)]{Maron1996}
@@ -999,7 +984,7 @@ Maron, J.~L. and P.~G. Connors, 1996.
 
 \bibitem[Maron and Jefferies(2001)]{Maron2001}
 Maron, J.~L. and R.~L. Jefferies, 2001.
-\newblock Restoring enriched grasslands: Effects of mowing on species richness,
+\newblock Restoring enriched grasslands: effects of mowing on species richness,
   productivity, and nitrogen retention.
 \newblock \emph{Ecological Applications} \textbf{11}:1088--1100.
 
@@ -1007,7 +992,8 @@ Maron, J.~L. and R.~L. Jefferies, 2001.
   Gillens, Clarke, Polz, and Alm]{Materna2012}
 Materna, A.~C., J.~Friedman, C.~Bauer, C.~David, S.~Chen, I.~B. Huang,
   A.~Gillens, S.~A. Clarke, M.~F. Polz, and E.~J. Alm, 2012.
-\newblock {Shape and evolution of the fundamental niche in marine Vibrio.}
+\newblock {Shape and evolution of the fundamental niche in marine
+  \textit{{V}ibrio}}.
 \newblock \emph{ISME J.} \textbf{6}:2168--2177.
 
 \bibitem[May(1971)]{May1971}
@@ -1023,8 +1009,8 @@ Mayfield, M. and J.~M. Levine, 2010.
 
 \bibitem[Mazzola(1999)]{Mazzola1999}
 Mazzola, M., 1999.
-\newblock {Transformation of Soil Microbial Community Structure and
-  Rhizoctonia-Suppressive Potential in Response to Apple Roots}.
+\newblock {Transformation of soil microbial community structure and
+  rhizoctonia-suppressive potential in response to apple roots}.
 \newblock \emph{Phytopathology} \textbf{89}:920--927.
 
 \bibitem[McCann(2011)]{Mccann2011}
@@ -1040,21 +1026,21 @@ McGuire, K.~L., 2007.
 
 \bibitem[McMurdie and Holmes(2013)]{McMurdie2013}
 McMurdie, P.~J. and S.~Holmes, 2013.
-\newblock phyloseq: An r package for reproducible interactive analysis and
+\newblock phyloseq: An {R} package for reproducible interactive analysis and
   graphics of microbiome census data.
 \newblock \emph{PLOS ONE} \textbf{8}:e61217.
 
 \bibitem[Meaden et~al.(2016)Meaden, Metcalf, and Koskella]{Meaden2016}
 Meaden, S., C.~Metcalf, and B.~Koskella, 2016.
 \newblock The effects of host age and spatial location on bacterial community
-  composition in the english oak tree (quercus robur).
+  composition in the english oak tree (\textit{{Q}uercus robur}).
 \newblock \emph{Environmental Microbiology Reports} \textbf{8}:649--658.
 
 \bibitem[Meiners et~al.(2015)Meiners, Cadotte, Fridley, Pickett, and
   Walker]{Meiners2015}
 Meiners, S.~J., M.~W. Cadotte, J.~D. Fridley, S.~T.~A. Pickett, and L.~R.
   Walker, 2015.
-\newblock Is successional research nearing its climax? new approaches for
+\newblock Is successional research nearing its climax? {N}ew approaches for
   understanding dynamic communities.
 \newblock \emph{Functional Ecology} \textbf{29}:154--164.
 
@@ -1062,7 +1048,7 @@ Meiners, S.~J., M.~W. Cadotte, J.~D. Fridley, S.~T.~A. Pickett, and L.~R.
 Menge, D.~N., L.~O. Hedin, and S.~W. Pacala, 2012.
 \newblock Nitrogen and phosphorus limitation over long-term ecosystem
   development in terrestrial ecosystems.
-\newblock \emph{PLoS One} \textbf{7}:e42045.
+\newblock \emph{PLOS ONE} \textbf{7}:e42045.
 
 \bibitem[Menge et~al.(2008)Menge, Pacala, and Hedin]{Menge2008}
 Menge, D.~N., S.~W. Pacala, and L.~O. Hedin, 2008.
@@ -1073,7 +1059,7 @@ Menge, D.~N., S.~W. Pacala, and L.~O. Hedin, 2008.
 \bibitem[Mesz{\'e}na et~al.(2006)Mesz{\'e}na, Gyllenberg, P{\'a}sztor, and
   Metz]{Meszenaz2006}
 Mesz{\'e}na, G., M.~Gyllenberg, L.~P{\'a}sztor, and J.~A. Metz, 2006.
-\newblock Competitive exclusion and limiting similarity: a unified theory.
+\newblock Competitive exclusion and limiting similarity: A unified theory.
 \newblock \emph{Theoretical Population Biology} \textbf{69}:68--87.
 
 \bibitem[Miller et~al.(2005)Miller, Burns, Munguia, Walters, Kneitel, Richards,
@@ -1084,7 +1070,7 @@ Miller, T.~E., J.~H. Burns, P.~Munguia, E.~L. Walters, J.~M. Kneitel, P.~M.
 \newblock \emph{The American Naturalist} \textbf{165}:439--448.
 
 \bibitem[Miller and Rudolf(2011)]{Miller2011}
-Miller, T.~E. and V.~H. Rudolf, 2011.
+Miller, T.~E. and V.~H.~W. Rudolf, 2011.
 \newblock Thinking inside the box: community-level consequences of
   stage-structured populations.
 \newblock \emph{Trends in Ecology \& Evolution} \textbf{26}:457--466.
@@ -1127,34 +1113,36 @@ Narwani, A., M.~A. Alexandrou, T.~H. Oakley, I.~T. Carroll, and B.~J.
   Schilling, and Kennedy]{Nguyen2016}
 Nguyen, N.~H., Z.~Song, S.~T. Bates, S.~Branco, L.~Tedersoo, J.~Menke, J.~S.
   Schilling, and P.~G. Kennedy, 2016.
-\newblock Funguild: An open annotation tool for parsing fungal community
+\newblock {FUN}guild: An open annotation tool for parsing fungal community
   datasets by ecological guild.
-\newblock \emph{Fungal Ecology} \textbf{20}:241 -- 248.
+\newblock \emph{Fungal Ecology} \textbf{20}:241--248.
 
 \bibitem[Norby et~al.(1987)Norby, O'Neill, Hood, and Luxmoore]{Norby1987}
 Norby, R.~J., E.~G. O'Neill, W.~G. Hood, and R.~J. Luxmoore, 1987.
 \newblock Carbon allocation, root exudation and mycorrhizal colonization of
-  {{Pinus}} echinata seedlings grown under {{CO2}} enrichment.
+  \textit{{Pinus} echinata} seedlings grown under {{CO2}} enrichment.
 \newblock \emph{Tree Physiology} \textbf{3}:203--210.
 
-\bibitem[Novoa et~al.(2013)Novoa, González, Moravcová, and Pyšek]{Novoa2013}
-Novoa, A., L.~González, L.~Moravcová, and P.~Pyšek, 2013.
+\bibitem[Novoa et~al.(2013)Novoa, Gonz{\'a}lez, Moravcov{\'a}, and
+  Py{\v{s}}ek]{Novoa2013}
+Novoa, A., L.~Gonz{\'a}lez, L.~Moravcov{\'a}, and P.~Py{\v{s}}ek, 2013.
 \newblock Constraints to native plant species establishment in coastal dune
-  communities invaded by carpobrotus edulis: Implications for restoration.
-\newblock \emph{Biological Conservation} \textbf{164}:1 -- 9.
+  communities invaded by \textit{Carpobrotus edulis}: implications for
+  restoration.
+\newblock \emph{Biological Conservation} \textbf{164}:1--9.
 
 \bibitem[Novoa et~al.(2014)Novoa, Rodr{\'i}guez, Richardson, and
   Gonz{\'a}lez]{Novoa2014}
 Novoa, A., R.~Rodr{\'i}guez, D.~Richardson, and L.~Gonz{\'a}lez, 2014.
-\newblock Soil quality: a key factor in understanding plant invasion? the case
-  of carpobrotus edulis (l.) n.e.br.
+\newblock Soil quality: a key factor in understanding plant invasion? {T}he
+  case of \textit{{C}arpobrotus edulis} {(L.) N.E.Br}.
 \newblock \emph{Biological Invasions} \textbf{16}:429--443.
 
 \bibitem[Ovaskainen et~al.(2017)Ovaskainen, Tikhonov, Norberg,
   Guillaume~Blanchet, Duan, Dunson, Roslin, and Abrego]{Ovaskainen2017}
 Ovaskainen, O., G.~Tikhonov, A.~Norberg, F.~Guillaume~Blanchet, L.~Duan,
   D.~Dunson, T.~Roslin, and N.~Abrego, 2017.
-\newblock How to make more out of community data? a conceptual framework and
+\newblock How to make more out of community data? {A} conceptual framework and
   its implementation as models and software.
 \newblock \emph{Ecology Letters} \textbf{20}:561--576.
 
@@ -1162,8 +1150,8 @@ Ovaskainen, O., G.~Tikhonov, A.~Norberg, F.~Guillaume~Blanchet, L.~Duan,
 Packer, A. and K.~Clay, 2004.
 \newblock {Development of negative feedback during successive growth cycles of
   black cherry}.
-\newblock \emph{Proceedings of the Royal Society of London B: Biological
-  Sciences} \textbf{271}:317--324.
+\newblock \emph{Proceedings of the Royal Society B: Biological Sciences}
+  \textbf{271}:317--324.
 
 \bibitem[Passarge et~al.(2006)Passarge, Hol, Escher, and Huisman]{Passarge2006}
 Passarge, J., S.~Hol, M.~Escher, and J.~Huisman, 2006.
@@ -1184,8 +1172,8 @@ Peay, K.~G., 2016.
 
 \bibitem[Peay(2018)]{Peay2018}
 Peay, K.~G., 2018.
-\newblock Timing of mutualist arrival has a greater effect on pinus muricata
-  seedling growth than interspecific competition.
+\newblock Timing of mutualist arrival has a greater effect on \textit{{P}inus
+  muricata} seedling growth than interspecific competition.
 \newblock \emph{Journal of Ecology} \textbf{106}:514--523.
 
 \bibitem[Petermann et~al.(2008)Petermann, Fergus, Turnbull, and
@@ -1198,18 +1186,18 @@ Petermann, J.~S., A.~J.~F. Fergus, L.~A. Turnbull, and B.~Schmid, 2008.
 \bibitem[Petraitis(2013)]{Petraitis2013}
 Petraitis, P., 2013.
 \newblock Multiple stable states in natural ecosystems.
-\newblock OUP Oxford.
+\newblock Oxford University Press, Oxford.
 
 \bibitem[Petraitis(1989)]{Petraitis1989}
 Petraitis, P.~S., 1989.
-\newblock The representation of niche breadth and overlap on tilman's
+\newblock The representation of niche breadth and overlap on {T}ilman's
   consumer-resource graphs.
 \newblock \emph{Oikos} \textbf{56}:289--292.
 
 \bibitem[Pfennig and Pfennig(2012)]{pfennig2012}
 Pfennig, D.~W. and K.~S. Pfennig, 2012.
 \newblock Evolution's wedge: competition and the origins of diversity.
-\newblock Univ of California Press.
+\newblock University of California Press.
 
 \bibitem[Pianka(1973)]{Pianka1973}
 Pianka, E.~R., 1973.
@@ -1218,7 +1206,7 @@ Pianka, E.~R., 1973.
 
 \bibitem[{R Core Team}(2016)]{R}
 {R Core Team}, 2016.
-\newblock R: A Language and Environment for Statistical Computing.
+\newblock R: a language and environment for statistical computing.
 \newblock R Foundation for Statistical Computing, Vienna, Austria.
 
 \bibitem[Rall et~al.(2010)Rall, Vucic-Pestic, Ehnes, Emmerson, and
@@ -1233,6 +1221,11 @@ Rall, B.~C., O.~Vucic-Pestic, R.~B. Ehnes, M.~Emmerson, and U.~Brose, 2010.
 Rasmann, S., T.~L. Bauerle, K.~Poveda, and R.~Vannette, 2011.
 \newblock Predicting root defence against herbivores during succession.
 \newblock \emph{Functional Ecology} \textbf{25}:368--379.
+
+\bibitem[Reinhart and Callaway(2006)]{Reinhart2006}
+Reinhart, K.~O. and R.~M. Callaway, 2006.
+\newblock Soil biota and invasive plants.
+\newblock \emph{New phytologist} \textbf{170}:445--457.
 
 \bibitem[Reinhart et~al.(2010)Reinhart, Royo, Kageyama, and Clay]{Reinhart2010}
 Reinhart, K.~O., A.~a. Royo, S.~A. Kageyama, and K.~Clay, 2010.
@@ -1258,7 +1251,7 @@ Rinella, M.~J. and K.~O. Reinhart, 2018.
 \bibitem[Rognes et~al.(2016)Rognes, Flouri, Nichols, Quince, and
   Mah{\'e}]{Rognes2016}
 Rognes, T., T.~Flouri, B.~Nichols, C.~Quince, and F.~Mah{\'e}, 2016.
-\newblock Vsearch: a versatile open source tool for metagenomics.
+\newblock {VSEARCH}: a versatile open source tool for metagenomics.
 \newblock \emph{PeerJ} \textbf{4}:e2584.
 
 \bibitem[Rolo et~al.(2016)Rolo, Olivier, Guldemond, and van Aarde]{Rolo2016}
@@ -1278,7 +1271,7 @@ Rothhaupt, K.~O., 1988.
 Roy-Bolduc, A., E.~Lalibert{\'e}, S.~Boudreau, and M.~Hijri, 2016.
 \newblock {Strong linkage between plant and soil fungal communities along a
   successional coastal dune system}.
-\newblock \emph{FEMS Microbiology Ecology} \textbf{92}.
+\newblock \emph{FEMS Microbiology Ecology} \textbf{92}:fiw156.
 
 \bibitem[Saavedra et~al.(2017)Saavedra, Rohr, Bascompte, Godoy, Kraft, and
   Levine]{Saavedra2017}
@@ -1359,12 +1352,12 @@ Speek, T.~A., J.~H. Schamin{\'e}e, J.~M. Stam, L.~A. Lotz, W.~A. Ozinga, and
   MacDougall, Stein, and van~der Putten]{Suding2013}
 Suding, K.~N., W.~Stanley~Harpole, T.~Fukami, A.~Kulmatiski, A.~S. MacDougall,
   C.~Stein, and W.~H. van~der Putten, 2013.
-\newblock Consequences of plant–soil feedbacks in invasion.
+\newblock Consequences of plant--soil feedbacks in invasion.
 \newblock \emph{Journal of Ecology} \textbf{101}:298--308.
 
 \bibitem[Tanabe and Toju(2013)]{Tanabe2013}
 Tanabe, A.~S. and H.~Toju, 2013.
-\newblock Two new computational methods for universal dna barcoding: A
+\newblock Two new computational methods for universal {DNA} barcoding: A
   benchmark using barcode sequences of bacteria, archaea, animals, fungi, and
   land plants.
 \newblock \emph{PLOS ONE} \textbf{8}:1--11.
@@ -1374,7 +1367,7 @@ Tanabe, A.~S. and H.~Toju, 2013.
 Teste, F.~P., P.~Kardol, B.~L. Turner, D.~A. Wardle, G.~Zemunik, M.~Renton, and
   E.~Lalibert{\'e}, 2017.
 \newblock Plant--soil feedback and the maintenance of diversity in
-  mediterranean-climate shrublands.
+  {M}editerranean-climate shrublands.
 \newblock \emph{Science} \textbf{355}:173--176.
 
 \bibitem[Tilman(1977)]{Tilman1977}
@@ -1390,7 +1383,7 @@ Tilman, D., 1982.
 
 \bibitem[Toju et~al.(2012)Toju, Tanabe, Yamamoto, and Sato]{Toju2012}
 Toju, H., A.~S. Tanabe, S.~Yamamoto, and H.~Sato, 2012.
-\newblock High-coverage its primers for the dna-based identification of
+\newblock High-coverage {ITS} primers for the {DNA}-based identification of
   ascomycetes and basidiomycetes in environmental samples.
 \newblock \emph{PLOS ONE} \textbf{7}:1--11.
 
@@ -1413,12 +1406,12 @@ Urcelay, C. and S.~D{\'\i}az, 2003.
   arbuscular mycorrhizal fungi on plant diversity.
 \newblock \emph{Ecology Letters} \textbf{6}:388--391.
 
-\bibitem[van Breugel et~al.(2006)van Breugel, Martínez-Ramos, and
+\bibitem[Van~Breugel et~al.(2006)Van~Breugel, Mart{\'\i}nez-Ramos, and
   Bongers]{vanbreugel2006}
-van Breugel, M., M.~Martínez-Ramos, and F.~Bongers, 2006.
+Van~Breugel, M., M.~Mart{\'\i}nez-Ramos, and F.~Bongers, 2006.
 \newblock Community dynamics during early secondary succession in mexican
   tropical rain forests.
-\newblock \emph{Journal of Tropical Ecology} \textbf{22}:663–674.
+\newblock \emph{Journal of Tropical Ecology} \textbf{22}:663--674.
 
 \bibitem[van~der Putten et~al.(2013)van~der Putten, Bardgett, Bever, Bezemer,
   Casper, Fukami, Kardol, Klironomos, Kulmatiski, Schweitzer, Suding, van~der
@@ -1432,7 +1425,7 @@ van~der Putten, W.~H., R.~D. Bardgett, J.~D. Bever, T.~M. Bezemer, B.~B.
 
 \bibitem[Vannette and Fukami(2014)]{Vannette2014}
 Vannette, R.~L. and T.~Fukami, 2014.
-\newblock {Historical contingency in species interactions: Towards niche-based
+\newblock {Historical contingency in species interactions: towards niche-based
   predictions}.
 \newblock \emph{Ecology Letters} \textbf{17}:115--124.
 
@@ -1445,15 +1438,15 @@ Vellend, M., 2016.
   Rillig]{Veresoglou2012}
 Veresoglou, S.~D., G.~Menexes, and M.~C. Rillig, 2012.
 \newblock Do arbuscular mycorrhizal fungi affect the allometric partition of
-  host plant biomass to shoots and roots? a meta-analysis of studies from 1990
-  to 2010.
+  host plant biomass to shoots and roots? {A} meta-analysis of studies from
+  1990 to 2010.
 \newblock \emph{Mycorrhiza} \textbf{22}:227--235.
 
 \bibitem[Vincent et~al.(1996)Vincent, Scheel, Brown, and Vincent]{Vincent1996}
-Vincent, T., D.~Scheel, J.~S. Brown, and T.~Vincent, 1996.
+Vincent, T., D.~Scheel, J.~Brown, and T.~Vincent, 1996.
 \newblock Trade-offs and coexistence in consumer-resource models: it all
   depends on what and where you eat.
-\newblock \emph{The American Naturalist} pages 1038--1058.
+\newblock \emph{The American Naturalist} \textbf{148}:1038--1058.
 
 \bibitem[Violle et~al.(2011)Violle, Nemergut, Pu, and Jiang]{Violle2011}
 Violle, C., D.~R. Nemergut, Z.~Pu, and L.~Jiang, 2011.
@@ -1475,8 +1468,8 @@ Walker, L.~R., D.~A. Wardle, R.~D. Bardgett, and B.~D. Clarkson, 2010.
 
 \bibitem[Wang et~al.(2007)Wang, Garrity, Tiedje, and Cole]{Wang2007}
 Wang, Q., G.~M. Garrity, J.~M. Tiedje, and J.~R. Cole, 2007.
-\newblock Na{\"i}ve bayesian classifier for rapid assignment of rrna sequences
-  into the new bacterial taxonomy.
+\newblock Na{\"i}ve {B}ayesian classifier for rapid assignment of r{RNA}
+  sequences into the new bacterial taxonomy.
 \newblock \emph{Applied and Environmental Microbiology} \textbf{73}:5261--5267.
 
 \bibitem[Wubs and Bezemer(2018)]{Wubs2017}
@@ -1487,8 +1480,7 @@ Wubs, E. R.~J. and T.~M. Bezemer, 2018.
 \bibitem[Wubs et~al.(2016)Wubs, van~der Putten, Bosch, and Bezemer]{Wubs2016}
 Wubs, E. R.~J., W.~H. van~der Putten, M.~Bosch, and T.~M. Bezemer, 2016.
 \newblock Soil inoculation steers restoration of terrestrial ecosystems.
-\newblock \emph{Nature Plants} \textbf{2}:16107 EP --.
-\newblock Letter.
+\newblock \emph{Nature Plants} \textbf{2}:16107.
 
 \bibitem[Yamazaki et~al.(2008)Yamazaki, Iwamoto, and Seiwa]{Yamazaki2008}
 Yamazaki, M., S.~Iwamoto, and K.~Seiwa, 2008.
@@ -1497,10 +1489,10 @@ Yamazaki, M., S.~Iwamoto, and K.~Seiwa, 2008.
 \newblock \emph{Plant Ecology} \textbf{201}:181--196.
 
 \bibitem[Yang and Rudolf(2010)]{Yang2010}
-Yang, L.~H. and V.~Rudolf, 2010.
+Yang, L.~H. and V.~H.~W. Rudolf, 2010.
 \newblock Phenology, ontogeny and the effects of climate change on the timing
   of species interactions.
-\newblock \emph{Ecology letters} \textbf{13}:1--10.
+\newblock \emph{Ecology Letters} \textbf{13}:1--10.
 
 \bibitem[Zee and Fukami(2015)]{ZeeFukami2015}
 Zee, P.~C. and T.~Fukami, 2015.
@@ -1510,7 +1502,8 @@ Zee, P.~C. and T.~Fukami, 2015.
 
 \bibitem[Zhang et~al.(2014)Zhang, Kobert, Flouri, and Stamatakis]{Zhang2014}
 Zhang, J., K.~Kobert, T.~Flouri, and A.~Stamatakis, 2014.
-\newblock Pear: a fast and accurate illumina paired-end read merger.
+\newblock {PEAR}: a fast and accurate {I}llumina {P}aired-{E}nd re{A}d
+  merge{R}.
 \newblock \emph{Bioinformatics} \textbf{30}:614--620.
 
 \bibitem[Zhao et~al.(2016)Zhao, Zhang, and Zhang]{Zhao2015}
