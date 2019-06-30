@@ -6,11 +6,6 @@ A level-1 auxiliary file: Chapter1/Introduction.aux
 A level-1 auxiliary file: Chapter2/Chapter2.aux
 A level-1 auxiliary file: Chapter3/Chapter3.aux
 A level-1 auxiliary file: Chapter4/Chapter4.aux
-Case mismatch error between cite keys Inouye2001 and inouye2001
----line 105 of file Chapter4/Chapter4.aux
- : \citation{Inouye2001
- :                     }
-I'm skipping whatever remains of this command
 A level-1 auxiliary file: Chapter5/Chapter5.aux
 A level-1 auxiliary file: Chapter6/Chapter6.aux
 A level-1 auxiliary file: Chapter2/Chapter2Appendix.aux
@@ -138,15 +133,15 @@ Warning--can't use both author and editor fields in KulmatiskiKardol2008
 Warning--empty journal in soetaert2016package
 You've used 241 entries,
             2712 wiz_defined-function locations,
-            2113 strings with 52226 characters,
-and the built_in function-call counts, 128511 in all, are:
-= -- 11625
+            2113 strings with 52244 characters,
+and the built_in function-call counts, 128521 in all, are:
+= -- 11628
 > -- 8469
 < -- 123
 + -- 2829
 - -- 2538
-* -- 12073
-:= -- 23323
+* -- 12074
+:= -- 23324
 add.period$ -- 725
 call.type$ -- 241
 change.case$ -- 2040
@@ -167,14 +162,14 @@ purify$ -- 1807
 quote$ -- 0
 skip$ -- 2917
 stack$ -- 0
-substring$ -- 8116
+substring$ -- 8120
 swap$ -- 964
 text.length$ -- 13
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 2124
 warning$ -- 3
-while$ -- 1106
+while$ -- 1107
 width$ -- 0
 write$ -- 3127
-(There were 29 error messages)
+(There were 28 error messages)

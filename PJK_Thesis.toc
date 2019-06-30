@@ -1,6 +1,7 @@
 \contentsline {chapter}{Abstract}{v}{chapter*.1}
-\contentsline {chapter}{List of Tables}{x}{chapter*.3}
-\contentsline {chapter}{List of Figures}{xi}{chapter*.4}
+\contentsline {chapter}{Acknowledgements}{vi}{chapter*.2}
+\contentsline {chapter}{List of Tables}{xiii}{chapter*.4}
+\contentsline {chapter}{List of Figures}{xiv}{chapter*.5}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}General introduction}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}Overview}{2}{section.1.2}
@@ -35,14 +36,14 @@
 \contentsline {section}{\numberline {4.3}Modeling plant--soil microbe interactions}{65}{section.4.3}
 \contentsline {subsection}{\numberline {4.3.1}A brief overview of past modeling achievements}{65}{subsection.4.3.1}
 \contentsline {subsection}{\numberline {4.3.2}Model}{66}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {4.3.3}Quantifying the components of modern coexistence theory}{68}{subsection.4.3.3}
-\contentsline {section}{\numberline {4.4}Synthesizing microbial effects on plant coexistence}{69}{section.4.4}
+\contentsline {subsection}{\numberline {4.3.3}Quantifying the components of modern coexistence theory}{69}{subsection.4.3.3}
+\contentsline {section}{\numberline {4.4}Synthesizing microbial effects on plant coexistence}{70}{section.4.4}
 \contentsline {subsection}{\numberline {4.4.1}Simulating different plant--soil microbe interaction scenarios}{70}{subsection.4.4.1}
 \contentsline {subsection}{\numberline {4.4.2}A general categorization of soil microbial effects}{75}{subsection.4.4.2}
 \contentsline {section}{\numberline {4.5}Applying modern coexistence theory to plant--soil microbe interaction experiments}{80}{section.4.5}
-\contentsline {subsection}{\numberline {4.5.1}Recommendations for empirical experimental design}{80}{subsection.4.5.1}
-\contentsline {subsection}{\numberline {4.5.2}Applying the conceptual framework: a case study}{83}{subsection.4.5.2}
-\contentsline {section}{\numberline {4.6}Conclusion}{86}{section.4.6}
+\contentsline {subsection}{\numberline {4.5.1}Recommendations for empirical experimental design}{81}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}Applying the conceptual framework: a case study}{84}{subsection.4.5.2}
+\contentsline {section}{\numberline {4.6}Conclusion}{87}{section.4.6}
 \contentsline {section}{\numberline {4.7}Acknowledgements}{88}{section.4.7}
 \contentsline {section}{\numberline {4.8}Tables}{89}{section.4.8}
 \contentsline {section}{\numberline {4.9}Figures}{92}{section.4.9}
@@ -52,7 +53,7 @@
 \contentsline {section}{\numberline {5.3}Methods}{103}{section.5.3}
 \contentsline {section}{\numberline {5.4}Results}{110}{section.5.4}
 \contentsline {section}{\numberline {5.5}Discussion}{111}{section.5.5}
-\contentsline {section}{\numberline {5.6}Acknowledgments}{113}{section.5.6}
+\contentsline {section}{\numberline {5.6}Acknowledgments}{114}{section.5.6}
 \contentsline {section}{\numberline {5.7}Figures}{115}{section.5.7}
 \contentsline {chapter}{\numberline {6}Dynamic plant--soil microbe interactions: the neglected effect of soil conditioning time}{120}{chapter.6}
 \contentsline {section}{\numberline {6.1}Abstract}{120}{section.6.1}

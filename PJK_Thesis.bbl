@@ -1036,7 +1036,7 @@ McGuire, K.~L., 2007.
 McMurdie, P.~J. and S.~Holmes, 2013.
 \newblock phyloseq: An {R} package for reproducible interactive analysis and
   graphics of microbiome census data.
-\newblock \emph{PLOS ONE} \textbf{8}:e61217.
+\newblock \emph{PLoS ONE} \textbf{8}:e61217.
 
 \bibitem[Meaden et~al.(2016)Meaden, Metcalf, and Koskella]{Meaden2016}
 Meaden, S., C.~Metcalf, and B.~Koskella, 2016.
@@ -1056,7 +1056,7 @@ Meiners, S.~J., M.~W. Cadotte, J.~D. Fridley, S.~T.~A. Pickett, and L.~R.
 Menge, D.~N., L.~O. Hedin, and S.~W. Pacala, 2012.
 \newblock Nitrogen and phosphorus limitation over long-term ecosystem
   development in terrestrial ecosystems.
-\newblock \emph{PLOS ONE} \textbf{7}:e42045.
+\newblock \emph{PLoS ONE} \textbf{7}:e42045.
 
 \bibitem[Menge et~al.(2008)Menge, Pacala, and Hedin]{Menge2008}
 Menge, D.~N., S.~W. Pacala, and L.~O. Hedin, 2008.
@@ -1375,7 +1375,7 @@ Tanabe, A.~S. and H.~Toju, 2013.
 \newblock Two new computational methods for universal {DNA} barcoding: A
   benchmark using barcode sequences of bacteria, archaea, animals, fungi, and
   land plants.
-\newblock \emph{PLOS ONE} \textbf{8}:1--11.
+\newblock \emph{PLoS ONE} \textbf{8}:1--11.
 
 \bibitem[Teste et~al.(2017)Teste, Kardol, Turner, Wardle, Zemunik, Renton, and
   Lalibert{\'e}]{Teste2017}
@@ -1400,7 +1400,7 @@ Tilman, D., 1982.
 Toju, H., A.~S. Tanabe, S.~Yamamoto, and H.~Sato, 2012.
 \newblock High-coverage {ITS} primers for the {DNA}-based identification of
   ascomycetes and basidiomycetes in environmental samples.
-\newblock \emph{PLOS ONE} \textbf{7}:1--11.
+\newblock \emph{PLoS ONE} \textbf{7}:1--11.
 
 \bibitem[Tucker and Fukami(2014)]{Tucker2014}
 Tucker, C.~M. and T.~Fukami, 2014.
@@ -1511,7 +1511,7 @@ Yang, L.~H. and V.~H.~W. Rudolf, 2010.
 
 \bibitem[Zee and Fukami(2015)]{ZeeFukami2015}
 Zee, P.~C. and T.~Fukami, 2015.
-\newblock Complex organism-environment feedbacks buffer species diversity
+\newblock Complex organism--environment feedbacks buffer species diversity
   against habitat fragmentation.
 \newblock \emph{Ecography} \textbf{38}:370--379.
 

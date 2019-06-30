@@ -146,15 +146,15 @@ The strengths of these feedbacks are commonly assumed to be constant through tim
 %The importance of a dynamic PSF viewpoint
 Recent studies have started to recognize that PSF strength can vary across plant life stages due to ontogenetic changes in plant's responses to soil microbes \citep{Hawkes2012, Dudenhoffer2017, Bezemer2018}. 
 Temporal development of PSFs can also be driven by changes in microbial community composition with plant age (i.e., the duration of soil conditioning), which proceeds at different rates depending on host plant identity \citep{Knelman2012}. 
-Explicit consideration of the effects of soil conditioning length, however, is lacking in the current PSF literature probably owing to two logistical challenges. First, preparing soils with different conditioning lengths is often not feasible in the greenhouse \citep{Kardol2013, Kulmatiski2018}, and second, the length of soil conditioning in the field can only be quantified with coarse resolution due to uncertainty about the ages of individual plants (e.g., \citealp{Speek2015, Day2015}).
+Explicit consideration of the effects of soil conditioning length, however, is lacking in the current PSF literature owing to two logistical challenges. First, preparing soils with different conditioning lengths is often not feasible in the greenhouse \citep{Kardol2013, Kulmatiski2018}, and second, the length of soil conditioning in the field can only be quantified with coarse resolution due to uncertainty about the ages of individual plants (e.g., \citealp{Speek2015, Day2015}).
 \par
 
 
 %Aim of paper
 In this paper, we study how PSF strengths vary with the length of soil conditioning and how the temporal patterns differ among plant species. 
-To this end, we used high-resolution aerial photos of the coastal dune vegetation at Bodega Bay in California, which were taken annually from 1992 to 2016. This unique resource allowed us to estimate the age of individual plants and use it as a proxy for soil conditioning length. 
+To this end, we used high-resolution aerial photos of the coastal dune vegetation at Bodega Bay in California, which were taken annually from 1992 to 2016. This unique data source allowed us to estimate the age of individual plants and use it as a proxy for soil conditioning length. 
 By sampling soils from individual plants of different ages, we applied a chronosequence approach to examine how soil microbial communities vary across plant species and conditioning time. We then designed a greenhouse experiment that preserved plant age-specific microbial communities to study how changes in their composition affected species' PSF strength.
-This combination of approaches allowed us to overcome the logical challenges outlined above and study the link between plant age, soil microbial composition, and feedback strength. 
+This combination of approaches allowed us to overcome the logistical challenges outlined above and study the link between plant age, soil microbial composition, and feedback strength. 
 Finally, we used a general individual-based simulation model to explore how the temporal pattern of PSF may affect plant community assembly and their transient dynamics.
 \par
 
@@ -182,7 +182,7 @@ See Fig.~\ref{fig:map} for a representative aerial photo, the spatial distributi
 To study how soil microbial communities varied with plant age, in July 2016 we collected three soil samples beneath each plant individual (i.e., at azimuth angles 0$^{\circ}$, 120$^{\circ}$, and 240$^{\circ}$) in separate sterile 50 mL Falcon tubes. 
 An additional 3 and 13 individuals of \textit{C. edulis} and \textit{L. arboreus}, respectively, were sampled for this microbial community survey. We also collected soil samples from three randomly selected juveniles (i.e., one sample per juvenile, which are individuals that germinated within one year and were too small to be visible on the aerial photos from the previous year) for three of the four species (i.e., all but \textit{A. arenaria}). Finally, a total of 13 soil samples from randomly selected bare sand areas (i.e., no vegetation in an approximately 3 m radius throughout the entire length of time of the aerial photos) were collected across our field site (Fig.~\ref{fig:map}). 
 All soil samples were stored at 4$^{\circ}$C before being processed in the lab. Within one week after collection, soil samples were processed by passing through a sterile 2 mm mesh sieve and homogenized thoroughly in separate sterile plastic bags.
-The fungal and bacterial communities of the resulting 430 soil samples (i.e., 136 individuals $\times$ 3 samples + 3 species $\times$ 3 juveniles + 13 bare sand samples) were characterize with next-generation sequencing (see section `\textit{DNA sequencing of fungal and bacterial communities}').
+The fungal and bacterial communities of the resulting 430 soil samples (i.e., 136 individuals $\times$ 3 samples + 3 species $\times$ 3 juveniles + 13 bare sand samples) were characterized with next-generation sequencing (see section `\textit{DNA sequencing of fungal and bacterial communities}').
 \par
 
 
@@ -299,14 +299,14 @@ Fungal and bacterial families responded differently to increasing plant age, and
 \subsection*{Temporal patterns of soil microbial effects on plant performance}
 %Time-averaged PSF index -- static perspective
 By quantifying the time-averaged microbial effects that each plant species experienced when grown in soils conditioned by different soil host species, we found that the effects of soil microbes were largely determined by the seedling's species identity.
-In particular, the microbial effects was positive for \textit{L. arboreus} but negative for the other three species (Fig.~\ref{fig:PSFBar}). 
+In particular, the microbial effects were positive for \textit{L. arboreus} but negative for the other three species (Fig.~\ref{fig:PSFBar}). 
 Most microbial effects were significantly different from zero ($P<0.05$; expect for \textit{B. pilularis} when grown in soils from \textit{A. arenaria} and \textit{L. arboreus} individuals; Fig.~\ref{fig:PSFBar}b), but the identity of the soil host species had little effect on the microbial effects that plants experienced (soil host species effect for \textit{A. arenaria}: $F_{3, 103.05}=0.39$, $P=0.76$; \textit{B. pilularis}: $F_{3, 45}=0.27$, $P=0.27$; \textit{C. edulis}: $F_{3, 97.18}=2.07$, $P=0.11$; Fig.~\ref{fig:PSFBar}a--c). The only exception was \textit{L. arboreus}, which grew best in soils from \textit{C. edulis} individuals and worst in soils from \textit{A. arenaria} individuals (soil host species effect: $F_{3, 103.07}=3.55$, $P=0.02$; Fig.~\ref{fig:PSFBar}d).
 \par
 
 
 %Temporal development of PSF index -- dynamic perspective
 Despite little effect of the soil host species identity on the time-averaged microbial effects, the temporal development pattern of the microbial effects depended on the plant $\times$ soil host species combination (Fig.~\ref{fig:PSFTemporal}). 
-For example, \textit{A. arenaria} and \textit{C. edulis} experienced stronger negative microbial effects when grown in conspecific soils with a longer conditioning history (Fig.~\ref{fig:PSFTemporal}a and k). However, temporal patterns were different when these two introduced species grown in heterospecific soils conditioned by each other: the negative microbial effects that \textit{A. arenaria} imposed on \textit{C. edulis} intensified through time (Fig.~\ref{fig:PSFTemporal}i), whereas no significant temporal pattern was detected for the opposite pair (Fig.~\ref{fig:PSFTemporal}c).
+For example, \textit{A. arenaria} and \textit{C. edulis} experienced stronger negative microbial effects when grown in conspecific soils with a longer conditioning history (Fig.~\ref{fig:PSFTemporal}a and k). However, temporal patterns were different when these two introduced species were grown in heterospecific soils conditioned by each other: the negative microbial effects that \textit{A. arenaria} imposed on \textit{C. edulis} intensified through time (Fig.~\ref{fig:PSFTemporal}i), whereas no significant temporal pattern was detected for the opposite pair (Fig.~\ref{fig:PSFTemporal}c).
 The positive microbial effects that \textit{L. arboreus} experienced were instantaneous (Fig.~\ref{fig:PSFTemporal}m--o), and the microbial effects that \textit{L. arboreus} imposed on conspecies and \textit{C. edulis} did not show statistically significant temporal patterns (Fig.~\ref{fig:PSFTemporal}l and p).
 \par
 
@@ -328,11 +328,11 @@ We show that compositional changes in the soil microbial community with increasi
 
 
 We found that microbial richness reached its maximum within a few years after plant establishment (Figs.~\ref{fig:FunRichness} and \ref{fig:BacRichness}), but community composition continued to turn over and became progressively more different from that in bare sand in a manner specific to plant species (Figs.~\ref{fig:FunComposition} and \ref{fig:BacComposition}). 
-For example, compared to the other three plant species, soils collected from young \textit{A. arenaria} individuals had microbial communities that were more similar to sand microbial communities, potentially because of their ability to capture more wind-blown sand.
+For example, compared to the other three plant species, soils collected from young \textit{A. arenaria} individuals had fungal communities that were more similar to fungal communities in bare sand, potentially because of their ability to capture more wind-blown sand.
 With the model-based approach, we identified potential taxonomic groups that drove the observed turnover in soil microbial communities (Figs.~\ref{fig:FunHMSC} and \ref{fig:BacHMSC}). For instance, the fungal family \textit{Sporormiaceae}, many members of which are saprotrophic fungi, increased through time in soils of the two natives but decreased in \textit{C. edulis} soils presumably because of the recalcitrant litter it produces \citep{Novoa2014}.
 Whether turnover of the soil microbial community resulted in temporally varying PSF, however, depended on the plant $\times$ soil host species combination. For example, the microbial community associated with \textit{C. edulis} changed through time (Fig.~\ref{fig:FunComposition}c), but only their effect on conspecifics showed significant temporal patterns (i.e., compare Fig.~\ref{fig:PSFTemporal}k to Fig.~\ref{fig:PSFTemporal}c, g, and o).
 Since plant $\times$ soil host species combinations differed in their PSF temporal patterns, the length of soil conditioning set in greenhouse experiments can influence the relative magnitude of species' PSF.
-Moreover, by only looking at the time-averaged microbial effects (e.g., if studies homogenized soils collected from individuals of different ages; Fig.~\ref{fig:PSFBar}), one would have erroneously concluded that soil host identity had little impact on the microbial effects that a species experienced in our system.
+Moreover, by only looking at the time-averaged microbial effects (e.g., if studies homogenized soils collected from individuals of different ages; Fig.~\ref{fig:PSFBar}), one would erroneously conclude that soil host identity has little impact on the microbial effects that a species experienced in our system.
 \par
 
 
@@ -392,7 +392,7 @@ This result suggests that removing old individuals may be an effective restorati
 \section{Conclusion}
 % Final recap of the study
 We showed that feedback strength varied depending on how long the previous plant individual conditioned the soil, illustrating the importance of interaction timing in determining species interaction strength \citep{Kardol2013Oikos, Peay2018}. 
-Our results also suggest that greenhouse experiments with a short conditioning phase can potentially miss out relevant changes in the microbial community, and theoretical models should incorporate the different temporal aspects of PSF when studying its effects on plant community assembly \citep{Kardol2013, KeMiki2015}. 
+Our results also suggest that greenhouse experiments with a short conditioning phase can potentially miss relevant changes in the microbial community, and theoretical models should incorporate the different temporal aspects of PSF when studying its effects on plant community assembly \citep{Kardol2013, KeMiki2015}. 
 Together, we believe that by treating the temporal development pattern as a crucial component of a species' PSF, future studies can better place experimental results in a natural context and predict the effects of PSF on plant community dynamics.
 \par
 

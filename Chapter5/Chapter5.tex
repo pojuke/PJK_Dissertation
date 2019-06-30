@@ -125,7 +125,7 @@
 Chronosequences, defined as a series of sites that differ in the time since their initiation, are commonly used for studying ecological succession, but the usefulness of chronosequences has been controversial. Here, we show how chronosequence inferences can be strengthened by short-term longitudinal data.
 Focusing on soil fungi associated with two coastal plants, the ice plant (\textit{Carpobrotus edulis}) and the yellow bush lupine (\textit{Lupinus arboreus}), we characterized fungal communities associated with plant individuals along a plant age chronosequence. 
 We then used these data to predict the composition of fungal communities and evaluated the predictions by re-sampling a subset of individuals annually for another two years.
-We found that the beta diversity of fungal communities across host plants decreased with plant age. Fungal communities exhibited a consistent compositional shift across the three sampling years, and we were able to predict their composition more accurately as plants aged. Together, the two data types strengthened inference of a deterministic process shaping the fungal communities. Our results demonstrate how a combined approach can provide a more robust understanding of the processes shaping ecological succession.
+We found that the beta diversity of fungal communities across host plants decreased with plant age. Fungal communities exhibited a consistent compositional shift across the three sampling years, and we were able to predict their composition more accurately as plants aged. Together, the two data types strengthened our inference of a deterministic process shaping the fungal communities. Our results demonstrate how the combination of chronosequence and longitudinal observation can provide a more robust understanding of the processes shaping ecological succession.
 \medskip
 
 
@@ -159,7 +159,7 @@ The succession of soil microbial communities, in particular, represents an ideal
 
 % Study approaches
 We used a series of high-resolution aerial photos of the coastal dune vegetation at Bodega Bay (California, USA) to construct a chronosequence.
-We estimated the age of individual plants and used it as a proxy of the successional stage of their associated soil fungal community. By collecting soil from plant individuals of different ages, and re-sampling a subset of these individuals for another two years, we tested if the two approaches showed similar patterns of community convergence or divergence. From the chronosequence data, we predicted that compositional variation among fungal communities would decrease with the age of their host plant as a result of a deterministic selection force. If the chronosequence correctly captured relevant ecological processes, we should be able to predict the fungal community composition more accurately as plants aged. 
+We estimated the age of individual plants and used it as a proxy of the successional stage of their associated soil fungal community. By collecting soil from plant individuals of different ages, and re-sampling a subset of these individuals for another two years, we tested if the two approaches showed similar patterns of community convergence or divergence. For the chronosequence data, we predicted that compositional variation among fungal communities would decrease with the age of their host plant as a result of a deterministic selection force. If the chronosequence correctly captured relevant ecological processes, we should be able to predict the fungal community composition more accurately as plants aged. 
 % Our longitudinal data indicated this to be the case.
 \par
 
@@ -216,7 +216,7 @@ The final pooled library, consisting of fungal DNA from samples collected across
 \par
 
 
-We processed the Illumina MiSeq sequencing reads with the Claident pipeline (\citealp{Tanabe2013}, v0.2.2015.11.19). We converted raw Miseq BCL data to FASTQ data with the program bcl2fastq v1.8.4. We then demultiplexed the library based on the sample-specific 8-mer index sequences. All sequencing reads with low quality scores ($<$ 30) were deleted. The obtained forward and reverse sequencing reads were fused using PEAR v0.9.6 \citep{Zhang2014}, and low-quality merged reads (quality score $<$ 30 or length $<$ 150 bp) and chimeric reads were eliminated using UCHIME v4.2 \citep{Edgar2011}. Sequencing reads that passed through all filtering processes were then clustered into operational taxonomic units (OTUs), based on a 97$\%$ sequence similarity cutoff, using VSEARCH \citep{Rognes2016}. After clustering, fungal OTUs with less than ten total sequencing reads were removed, resulting in a final sample $\times$ OTU matrix. Taxonomy was assigned to the OTUs using the RDP Naive Bayesian rRNA Classifier v2.11 \citep{Wang2007} trained on the Warcup Fungal ITS training set 2 \citep{Deshpande2016} for fungi. Based on the taxonomic assignment results, ITS1 sequences other than those of the fungi kingdom were removed from the dataset, and the remaining OTUs were assigned a trophic mode based on \textit{FUNGuild} \citep{Nguyen2016}.
+We processed the Illumina MiSeq sequencing reads with the Claident pipeline (\citealp{Tanabe2013}, v0.2.2015.11.19). We converted raw Miseq BCL data to FASTQ data with the program bcl2fastq v1.8.4. We then demultiplexed the library based on the sample-specific 8-mer index sequences. All sequencing reads with low quality (i.e., sequencing quality scores $<$ 30) were deleted. The obtained forward and reverse sequencing reads were fused using PEAR v0.9.6 \citep{Zhang2014}, and low-quality merged reads (quality score $<$ 30 or length $<$ 150 bp) and chimeric reads were eliminated using UCHIME v4.2 \citep{Edgar2011}. Sequencing reads that passed through all filtering processes were then clustered into operational taxonomic units (OTUs), based on a 97$\%$ sequence similarity cutoff, using VSEARCH \citep{Rognes2016}. After clustering, fungal OTUs with less than ten total sequencing reads were removed, resulting in a final sample $\times$ OTU matrix. Taxonomy was assigned to the OTUs using the RDP Naive Bayesian rRNA Classifier v2.11 \citep{Wang2007} trained on the Warcup Fungal ITS training set 2 \citep{Deshpande2016} for fungi. Based on the taxonomic assignment results, ITS1 sequences other than those of the Kingdom Fungi were removed from the dataset, and the remaining OTUs with sufficient taxonomic information were assigned a trophic mode based on \textit{FUNGuild} \citep{Nguyen2016}.
 % Potential contaminant OTUs were identified statistically based on their prevalence in PCR and extraction negative controls (two of each for every 96 well plate reaction) using the R package decontam \citep{Davis2018}.This resulted in the elimination of \ignore{36} XX fungal OTUs. 
 % The whole bioinformatics process resulted in \ignore{19,868} XX,XXX OTUs, representing \ignore{1,772,220} X,XXX,XXX ITS1 sequencing reads. 
 \par
@@ -244,7 +244,7 @@ On the NMDS plot, we used a vector to connect fungal communities that were colle
 
 
 % Distance-based approach -- Spatial beta
-Fungal communities collected along the chronosequence allowed us to test for the spatial signature of community convergence. Namely, if fungal communities were converging over succession, their dissimilarity would decrease with plant age class. 
+Fungal communities collected along the chronosequence allowed us to test for community convergence based on the assumption of space-for-time substitution. Namely, if fungal communities were converging over succession, the dissimilarity among fungal communities associated with different plant individuals would decrease with the age of their host plant. 
 For each species, we used the data from all 60 plant individuals collected in 2015 and calculated the beta diversity among fungal communities associated with plant individuals of the same age class. Beta diversity for each age class was calculated as the distance of fungal communities to the centroid of each age class.
 % We also calculated beta deviation following \citep{Tello2015, Vannette2017}. The purpose is to compare the observed level of beta diversity in each age class to those expected if communities were assembled randomly within the constraints imposed by the observed species abundance distributions.
 We then fitted linear models to quantify how beta diversity varied with increasing plant age.
@@ -269,7 +269,7 @@ If the Bray--Curtis dissimilarity decreased with plant age, we concluded that th
 
 \section{Results}
 % Distance-based approach -- NMDS
-Fungal composition changed across the three sampling years, mainly captured by the NMDS 2 axis, whereas the effect of host species was represented by the NMDS 1 axis (Fig.~\ref{fig:3YrNMDS_Individual}; PERMANOVA, species effect: $R^{2}=0.13$; age effect for \textit{C. edulis}: $R^{2}=0.06$; \textit{L. arboreus}: $R^{2}=0.05$; all $P<0.001$).  
+Fungal composition changed across the three sampling years, mainly captured by the NMDS 2 axis, whereas the effect of host species was represented by the NMDS 1 axis (Fig.~\ref{fig:3YrNMDS_Individual}; PERMANOVA, species effect: $R^{2}=0.13$; age effect for \textit{C. edulis}: $R^{2}=0.06$; \textit{L. arboreus}: $R^{2}=0.05$; age effects were tested separately for the two species; all $P<0.001$).  
 Most fungal communities exhibited a consistent compositional shift across the three sampling years. Fungal communities associated with the same individual showed an upward movement along the NMDS 2 axis, but inconsistent movement in NMDS 1 (Figs.~\ref{fig:FourQuadrate_Individual_Species} and \ref{fig:FourQuadrate_Individual_Species_SI}).
 The yearly compositional shifts were larger for \textit{L. arboreus} compared to \textit{C. edulis}, as indicated by the ellipses in Figure~\ref{fig:3YrNMDS_Individual} and the higher proportion of upward movement in Figure~\ref{fig:FourQuadrate_Individual_Species}.
 % See also Figs.~\ref{fig:3YrNMDS_Sample} and \ref{fig:FourQuadrate_Sample_Species} for similar patterns when separate soil samples, instead of plant individuals, were plotted as units of replication.
@@ -277,14 +277,14 @@ The yearly compositional shifts were larger for \textit{L. arboreus} compared to
 
 
 % Distance-based approach -- Spatial beta
-For fungal communities collected from plant individuals along the chronosequence in 2015, beta diversity declined significantly with plant age for both \textit{C. edulis} and \textit{L. arboreus} (Fig.~\ref{fig:CombinedFull2015Beta_Individual_SI}; \textit{C. edulis}: Pearson's $r=-0.46$, $P=0.001$; \textit{L. arboreus}:  Pearson's $r=-0.27$, $P=0.04$). Similar trend of beta diversity were observed with a three-year moving window averaging (Fig.~\ref{fig:CombinedFull2015Beta_Individual}).
+For fungal communities collected from plant individuals along the chronosequence in 2015, beta diversity declined significantly with plant age for both \textit{C. edulis} and \textit{L. arboreus} (Fig.~\ref{fig:CombinedFull2015Beta_Individual_SI}; \textit{C. edulis}: Pearson's $r=-0.46$, $P=0.001$; \textit{L. arboreus}:  Pearson's $r=-0.27$, $P=0.04$). Similar trend in beta diversity were observed with a three-year moving window average (Fig.~\ref{fig:CombinedFull2015Beta_Individual}).
 % However, only the beta deviation of \textit{C. edulis} decreased with plant age (Fig.~\ref{fig:Full2015Beta_Individual}b). 
 % See also Figs.~\ref{fig:Full2015Beta_Sample} and \ref{fig:MovingWindowBeta_Sample} for similar patterns when soil samples were plotted as units of replication.
 \par
 
 
 % Model-based approach -- HMSC
-Bray--Curtis dissimilarity between the model prediction and observed community composition decreased (Figs.~\ref{fig:HMSC_Species_Individual_Full2015} and \ref{fig:HMSC_Species_Individual_Full2015_SI}; all $P<0.01$), indicating convergence in fungal species composition
+Bray--Curtis dissimilarity between the model prediction and observed community composition decreased (Figs.~\ref{fig:HMSC_Species_Individual_Full2015} and \ref{fig:HMSC_Species_Individual_Full2015_SI}; all $P<0.01$), indicating convergence in fungal species composition.
 Test sets collected in both 2016 (Fig.~\ref{fig:HMSC_Species_Individual_Full2015}) and 2017 (Fig.~\ref{fig:HMSC_Species_Individual_Full2015_SI}) showed the same convergence pattern (Pearson's $r$ for \textit{C. edulis} in 2016 and 2017: $-0.55$ and $-0.64$; for \textit{L. arboreus} in 2016 and 2017: $-0.36$ and $r=-0.40$; all $P < 0.05$). 
 % The results were robust when we fitted models with different fungal taxonomic levels and frequency thresholds.
 When inspecting the changes in fungal trophic mode (Fig.~\ref{fig:Funguild_HMSC_Species_Individual_Full2015}), we found that OTUs within a trophic mode exhibited different temporal trends. Moreover, many \textit{L. arboreus}-associated pathotrophic fungi increased significantly through time, whereas those associated with \textit{C. edulis} mostly decreased or increased less significantly (Fig.~\ref{fig:Funguild_HMSC_Species_Individual_Full2015Pathogen}).
@@ -297,8 +297,8 @@ When inspecting the changes in fungal trophic mode (Fig.~\ref{fig:Funguild_HMSC_
 % Biology of the system -- plant host effects and who's changing? 
 By repeatedly sampling the soil fungal community along a chronosequence of soil conditioning by plant individuals, we found multiple pieces of evidence for community convergence (Figs.~\ref{fig:FourQuadrate_Individual_Species}--\ref{fig:HMSC_Species_Individual_Full2015}).
 At our field site, plant-associated soil fungal communities started to assemble as plants colonize bare sand. 
-The plant species that arrived and conditioned the soil affected fungal community assembly, selecting for different species over time (Fig.~\ref{fig:3YrNMDS_Individual}). 
-These results indicate that host plants drove the succession of the fungal communities \citep{RoyBolduc2016, Scheublin2004}. This pattern contrasts with previous studies that showed little effect of plant species identity on the primary succession of soil microbes \citep{BrownJumpponen2014, Sikes2014}.
+The plant species that arrived and conditioned the soil affected fungal community assembly, selecting for different species over time (Fig.~\ref{fig:3YrNMDS_Individual}). These results indicate that host plants drove the succession of the fungal communities \citep{RoyBolduc2016, Scheublin2004}.
+This pattern contrasts with previous studies that showed little effect of plant species identity on the primary succession of soil microbes \citep{BrownJumpponen2014, Sikes2014}.
 With our model-based approach, we found that the abundance of many pathotrophic fungi increased through time when associated with \textit{L. arboreus}, whereas pathotrophic fungi associated with \textit{C. edulis} either decreased or increased to a lesser extent (Fig.~\ref{fig:Funguild_HMSC_Species_Individual_Full2015Pathogen}).
 This result might indicate a release from soil-borne enemies of the introduced \textit{C. edulis} \citep{Keane2002, Callaway2004b}, and that pathotrophic fungi at Bodega Bay are better at forming associations with the native \textit{L. arboreus}.
 \par
@@ -306,7 +306,7 @@ This result might indicate a release from soil-borne enemies of the introduced \
 
 % Biology of the system -- why are they changing? 
 Past studies showed that the two plant species in our study have large effects on the soil abiotic environment.
-\textit{C. edulis} produces thick recalcitrant litter mat that increases soil organic content and decreases soil pH \citep{Novoa2013, Novoa2014}, whereas \textit{L. arboreus} increases soil nitrogen levels \citep{Maron1996, Maron2001}. 
+\textit{C. edulis} produces a thick recalcitrant litter mat that increases soil organic content and decreases soil pH \citep{Novoa2013, Novoa2014}, whereas \textit{L. arboreus} increases soil nitrogen levels \citep{Maron1996, Maron2001}. 
 It seems likely that the conditioning effects imposed by host plants increase as plants aged, causing fungal community convergence \citep{Dinnage2019}. 
 Fungal communities associated with \textit{L. arboreus} showed larger and more consistent compositional shifts throughout the three years compared to communities associated with \textit{C. edulis} (Figs.~\ref{fig:3YrNMDS_Individual} and \ref{fig:FourQuadrate_Individual_Species}). 
 One potential explanation is that \textit{L. arboreus} imposes stronger selection through their nitrogen-fixing activity, modifying the nitrogen-fixing bacterial community and consequently causing different fungal--bacterial interactions \citep{Johansson2004}.
@@ -315,12 +315,12 @@ In addition, three years represent a longer proportion of the life span of \text
 
 
 % Comments on the integrated approach -- Spatial and temporal data
-Studies supporting community convergence are usually based on one of the two types of data. Chronosequence data, i.e., spatial data, would indicate community convergence if the variation among communities of the same successional stage was smaller for late successional communities (Figs.~\ref{fig:CombinedFull2015Beta_Individual} and \ref{fig:CombinedFull2015Beta_Individual_SI}; see also \citealp{BrownJumpponen2014, Castle2016, RoyBolduc2016}).
+Studies supporting community convergence are usually based on one of the two types of data. Chronosequence data, i.e., observational data based on space-for-time substitution, would indicate community convergence if the variation among communities of the same successional stage was smaller for late successional communities (Figs.~\ref{fig:CombinedFull2015Beta_Individual} and \ref{fig:CombinedFull2015Beta_Individual_SI}; see also \citealp{BrownJumpponen2014, Castle2016, RoyBolduc2016}).
 Although less common, evidence for convergence has also come from longitudinal data, i.e., temporal data collected by repeatedly sampling the same community throughout succession (e.g., \citealp{Fukami2005, Li2016, Gao2019}).
 % Given the critiques against the chronosequence approach \citep{Johnson2008} and the logistical challenges of collecting long-term longitudinal data, studies have applied an integrated approach by supplementing the chronosequence pattern with repeated sampling. 
 Here, we combined the two types of data and found that they both indicated convergence (Figs.~\ref{fig:CombinedFull2015Beta_Individual} and \ref{fig:HMSC_Species_Individual_Full2015}). 
 Past studies that used this combined approach have shown that the validity of chronosequences depends on the system or community characteristic being tested \citep{Foster2000, Clark2019}.
-At thecoastal dunes undergoing primary succession, the agreement between the two data types strengthened our inference of an underlying deterministic process shaping soil fungal communities. 
+At the coastal dunes undergoing primary succession, the agreement between the two data types strengthened our inference of an underlying deterministic process shaping soil fungal communities. 
 \par
 
 
@@ -335,7 +335,7 @@ The model-based approach used here thus provided a unique way to examine success
 
 % Comments on the integrated approach -- final conclusions
 Although chronosequences have been an essential tool for studying succession, a common perspective is that they are less desirable compared to longitudinal data \citep{Johnson2008}. 
-We argue that the two types of data provide complementary insights: chronosequence data can demonstrate that the community changes indicated by the longitudinal data operated across all years, instead of just the single year when the longitudinal observation initiated. Thus, the agreement between the two data types allows one to generalize the results to a larger spatial-temporal scale.
+We argue that the two types of data provide complementary insights: chronosequence data can demonstrate that the community changes indicated by the longitudinal data operated across all years, instead of just the period of the longitudinal observation. Thus, the agreement between the two data types allows one to generalize the results to a larger spatial-temporal scale.
 We suggest that this combined approach can contribute to more robust understanding of community convergence and divergence in many systems.
 % By demonstrating the utility of this integrated approach, we call for more studies combining chronosequence and longitudinal data to provide a more robust understanding of the processes shaping ecological succession.
 \par
@@ -359,7 +359,7 @@ We thank Kitty Brown, Jackie Sones, and Brendan O'Neil for logistic support at t
 	\centering
 	\makebox[\textwidth][c]{\includegraphics[width=11cm]{Chapter5/3YrNMDS_Species_Common.pdf}}
 	\caption[Compositional differences among fungal communities associated with plant individuals across three sampling years.]
-		{\hspace{1mm} Compositional differences among fungal communities associated with plant individuals across three sampling years. Each point represents the fungal community of one plant individual. Point shapes represent plant species (circle: \textit{C. edulis}; triangle: \textit{L. arboreus}) and the brightness of colors represent the year of sampling (light orange/green: 2015; orange/green: 2016; dark orange/green: 2017). Ellipses represent the standard error of all points that were collected from the same species during the same year. 
+		{\hspace{1mm} Compositional differences among fungal communities associated with plant individuals across three sampling years. Each point represents the fungal community of one plant individual. Point shapes represent plant species (circle: \textit{C. edulis}; triangle: \textit{L. arboreus}) and the brightness of colors represent the year of sampling (light orange/green: 2015; orange/green: 2016; dark orange/green: 2017). Ellipses capture the dispersion based on the standard error of the average of all points that were collected from the same species during the same year. 
 		% See Fig.~\ref{fig:3YrNMDS_Sample} for identical pattern when soil samples, instead of plant individuals, were plotted as observation units.
 		}
 	\label{fig:3YrNMDS_Individual}
